@@ -1,34 +1,67 @@
-\documentclass{wsdlthesis}
+\documentclass[revision]{wsdlthesis}
 
 \usepackage{custommacros}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{wrapfig}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage[euler]{textgreek}
 
 \input{config}
 
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+	language=C++,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{blue},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{mauve},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3
+}
+
+
 \begin{document}
 
+	
 \setrevision
+%\input{config}
+
+\addtocontents{toc}{\vspace*{12pt}}
+%\addcontentsline{TOC}{chapter}{TOC}
+\addcontentsline{toc}{chapter}{}
+
 \input{pages/vita}
 \input{pages/abstract}
-\beforepreface
+%\beforepreface
 \input{pages/preface}
-\afterpreface
-
-%\inputAllFiles{chapters}
-
+%\afterpreface
+\tableofcontents
 \input{chapters/01_introduction}
 \input{chapters/02_review}
-\input{chapters/03_simdev}
-\input{chapters/04_clas12}
+\input{chapters/03_bonus12}
+\input{chapters/04_simdev}
 \input{chapters/05_analysis}
 \input{chapters/06_results}
 
-
+\nocite{*}
 
 \bibliographystyle{ieeetr}
 \bibliography{ref}
-
-\addtocontents{toc}{\vspace*{12pt}}
-\addcontentsline{toc}{chapter}{REFERENCES}
 
 \appendix
 
