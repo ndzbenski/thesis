@@ -1,18 +1,11 @@
 \begin{thebibliography}{1}
 
-\bibitem{memento:rfc}
-H.~{Van de Sompel}, M.~L. Nelson, and R.~Sanderson, ``{HTTP Framework for
-  Time-Based Access to Resource States -- Memento, Internet RFC 7089}.''
-  \url{https://tools.ietf.org/html/rfc7089}, 2013.
+\bibitem{clasnote:CEBAF}
+C.~L. D.~Douglas and G.~Krafft, ``The continuous electron beam accelerator
+  facility: Cebaf at the jefferson laboratory,'' 2001.
 
-\bibitem{http:rfc}
-R.~T. Fielding, J.~Gettys, J.~C. Mogul, H.~F. Nielsen, L.~Masinter, P.~J.
-  Leach, and T.~{Berners-Lee}, ``{Hypertex Transfer Protocol -- HTTP/1.1,
-  Internet RFC-2616}.'' \url{https://tools.ietf.org/html/rfc2616}, 1999.
-
-\bibitem{memento:tr}
-H.~{Van de Sompel}, M.~L. Nelson, R.~Sanderson, L.~L. Balakireva, S.~Ainsworth,
-  and H.~Shankar, ``{Memento: Time Travel for the Web},'' Tech. Rep.
-  arXiv:0911.1112, 2009.
+\bibitem{clasnote:EC_geo}
+G.~{Gilfoyle} and K.~Sherman, ``{Geometry Update for the Electromagnetic
+  Calorimeter in CLAS12},'' {\em CLAS12 Note 2014-008}, 2014.
 
 \end{thebibliography}

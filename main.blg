@@ -3,46 +3,52 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: ieeetr.bst
 Database file #1: ref.bib
-Warning--empty institution in memento:tr
-You've used 3 entries,
+Warning--I'm ignoring clasnote:CEBAF's extra "title" field
+--line 5 of file ref.bib
+Name 1 in "D. Douglas, C. Leemann, and G. Krafft" has a comma at the end for entry clasnote:CEBAF
+while executing---line 969 of file ieeetr.bst
+Warning--empty journal in clasnote:CEBAF
+Name 1 in "G. {Gilfoyle}, and K. Sherman" has a comma at the end for entry clasnote:EC_geo
+while executing---line 969 of file ieeetr.bst
+You've used 2 entries,
             1876 wiz_defined-function locations,
-            492 strings with 4117 characters,
-and the built_in function-call counts, 580 in all, are:
-= -- 36
-> -- 54
-< -- 1
-+ -- 19
-- -- 16
-* -- 51
-:= -- 108
-add.period$ -- 3
-call.type$ -- 3
-change.case$ -- 3
+            491 strings with 4000 characters,
+and the built_in function-call counts, 319 in all, are:
+= -- 23
+> -- 16
+< -- 0
++ -- 6
+- -- 4
+* -- 20
+:= -- 60
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 15
-empty$ -- 49
-format.name$ -- 16
-if$ -- 123
+cite$ -- 3
+duplicate$ -- 18
+empty$ -- 35
+format.name$ -- 4
+if$ -- 70
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 0
-newline$ -- 12
-num.names$ -- 3
-pop$ -- 15
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 9
+num.names$ -- 2
+pop$ -- 10
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 9
+skip$ -- 4
 stack$ -- 0
 substring$ -- 0
 swap$ -- 1
-text.length$ -- 1
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 3
-width$ -- 4
-write$ -- 26
-(There was 1 warning)
+while$ -- 2
+width$ -- 3
+write$ -- 17
+(There were 2 error messages)

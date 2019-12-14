@@ -143,6 +143,7 @@ While GEMC does an acceptable job simulating the proton tracks, Garfield++ has a
 By starting electrons at different values of $r$ throughout the sensitive region ($i.e.$ 3 cm $\leq r \leq$ 7 cm) and using known values of the electric and magnetic fields, Garfield++ calculated the time it takes that electron to reach the outer edge of the RTPC ($i.e.$ 8 cm) as well as the change of angle that it makes. By defining more than one electron for Garfield++ to simulate, we can fit the results to a Gaussian to find the mean and sigma. Those means serve as points in the figures to follow of drift time and drift angle and the sigmas define the diffusion that occurs. As we will see in the coming sections, these drift times and drift angles are of crucial importance to the BONuS12 experiment. 
 
 \subsection{Gas Optimization}
+\label{sec:gas_opt}
 One of the first uses for the drift time and drift angle from Garfield++ is to optimize the gas mixture that will be used in the sensitive region of the RTPC. We want a fast drift time to ensure our electronics are able to handle the signal. This would also be less demanding on the trigger and usually means less diffusion. The other property to minimize, drift angle, would ensure that our track is discernible from others in the detector at the same time. Along this line is the need to minimize the diffusion in that occurs within the RTPC in order to increase the resolution of the hits. Thus, we need a gas mixture is that is fast, with small drift angle and diffusion properties, but with a high number of primary ionization events to reconstruct the track.
 
 \begin{figure}[h!]
@@ -220,9 +221,10 @@ b_t(z) &= b_{t0}z^4 +  b_{t1}z^3 +  b_{t2}z^2 +  b_{t3}z +  b_{t4}.
 \end{eqnarray}
 These equations go into the \lstinline|rtpc_hitprocess| class of GEMC. Therefore, when an ionization occurs in the simulation, GEMC uses those equations in Fig. \ref{fig:drifte_phi_vs_r} and Fig. \ref{fig:drifte_t_vs_r} to calculate the position of the ionization electron when it reaches the outer edge of the RTPC.
 
-\section{DMS Simulations}
+\section{DMS Simulations} 
+\label{sec:dms_sims}
 As we have seen in the previous sections, the drift of the ionization electrons is very sensitive to the gas mixture, temperature, pressure and potential. The Drift-Gas Monitoring System (DMS) had to be designed to measure any fluctuations in those parameters of the gas by way of measuring drift velocity (see Section \ref{sec:dms}). In order to do that, simulations of the DMS had to be done to optimize the uniformity of the electric field within the drift region as well as the geometry of the chamber itself.
-\subsection{Geometry}
+\subsection{Geometry} 
 The parameters of interest to investigate and optimize were the anode diameter, diameter of the electrodes, and the distances between components. In order to look at these parameters, the geometry of the DMS was implemented into Garfield++, which consisted of its rectangular frame, grounded anode enclosure, anode wire, cathode plate, and field-shaping electrodes. 
 
 The first step is to define the gas mixture and geometry of the box used to house all of the DMS components. By using the  \lstinline|Sensor| class in Garfield++, the framework and wires necessary to see the DMS response was built. Then, as seen in the code snippet below, grounded planes were placed along the box. 
