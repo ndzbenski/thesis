@@ -9,59 +9,58 @@
 \contentsline {chapter}{\numberline {2.}\uppercase {Physics Formalism}}{12}{chapter.2}
 \contentsline {section}{\numberline {2.1}\uppercase {Nucleon Structure}}{12}{section.2.1}
 \contentsline {section}{\numberline {2.2}\uppercase {Electron-Scattering Kinematics}}{14}{section.2.2}
-\contentsline {section}{\numberline {2.3}\uppercase {Elastic Regime}}{18}{section.2.3}
-\contentsline {section}{\numberline {2.4}\uppercase {Resonance Region}}{18}{section.2.4}
-\contentsline {section}{\numberline {2.5}\uppercase {Deep Inelastic Scattering}}{18}{section.2.5}
-\contentsline {section}{\numberline {2.6}\uppercase {The Quark-Parton Model}}{18}{section.2.6}
-\contentsline {section}{\numberline {2.7}\uppercase {Quantum Chromodynamics}}{18}{section.2.7}
-\contentsline {section}{\numberline {2.8}\uppercase {Nucleon Structure-Function Ratio $F^2_n/F^2_p$}}{18}{section.2.8}
-\contentsline {section}{\numberline {2.9}\uppercase {Difficulties in Extracting $F^2_n/F^2_p$ from Deuterium}}{18}{section.2.9}
-\contentsline {subsection}{\numberline {2.9.1}\uppercase {Bound Nucleon Structure}}{18}{subsection.2.9.1}
-\contentsline {subsection}{\numberline {2.9.2}\uppercase {Backgrounds}}{18}{subsection.2.9.2}
-\contentsline {section}{\numberline {2.10}\uppercase {Barely Off-Shell Nucleon Structure}}{18}{section.2.10}
-\contentsline {chapter}{\numberline {3.}\uppercase {The BONuS12 Experiment}}{19}{chapter.3}
-\contentsline {section}{\numberline {3.1}\uppercase {Continuous Electron Beam Accelerator Facility}}{19}{section.3.1}
-\contentsline {section}{\numberline {3.2}\uppercase {CEBAF Large Acceptance Spectrometer}}{20}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}\uppercase {Torus Magnet}}{21}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}\uppercase {Cherenkov Counters}}{22}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}\uppercase {Drift Chambers}}{23}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}\uppercase {Forward Time of Flight}}{23}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}\uppercase {Electromagnetic Calorimeter}}{24}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}\uppercase {Solenoid Magnet}}{25}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}\uppercase {Central Time of Flight}}{25}{subsection.3.2.7}
-\contentsline {section}{\numberline {3.3}\uppercase {BONuS12 RTPC}}{25}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}\uppercase {Components and their Purpose}}{26}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}\uppercase {BONuS12 RTPC Drift-gas Monitoring System}}{28}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}\uppercase {Construction and Integration}}{30}{subsection.3.3.3}
-\contentsline {chapter}{\numberline {4.}\uppercase {Simulation and Development}}{32}{chapter.4}
-\contentsline {section}{\numberline {4.1}\uppercase {Geant4 Monte Carlo (GEMC)}}{32}{section.4.1}
-\contentsline {section}{\numberline {4.2}\uppercase {Garfield++}}{33}{section.4.2}
-\contentsline {section}{\numberline {4.3}\uppercase {BONuS12 RTPC Simulations}}{33}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}\uppercase {Geometry $\&$ Materials}}{34}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}\uppercase {Event Generator}}{36}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}\uppercase {Drift Electrons}}{38}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}\uppercase {Gas Optimization}}{40}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}\uppercase {Drift Equations}}{44}{subsection.4.3.5}
-\contentsline {section}{\numberline {4.4}\uppercase {DMS Simulations}}{46}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}\uppercase {Geometry}}{46}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}\uppercase {Electric Field}}{48}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}\uppercase {Drift Velocity}}{50}{subsection.4.4.3}
-\contentsline {chapter}{\numberline {5.}\uppercase {Data Analysis}}{52}{chapter.5}
-\contentsline {section}{\numberline {5.1}\uppercase {Electron Reconstruction}}{52}{section.5.1}
-\contentsline {section}{\numberline {5.2}\uppercase {Proton Reconstruction}}{52}{section.5.2}
-\contentsline {section}{\numberline {5.3}\uppercase {Helix Fitter and Kalman Filter}}{52}{section.5.3}
-\contentsline {section}{\numberline {5.4}\uppercase {Calibration}}{52}{section.5.4}
-\contentsline {section}{\numberline {5.5}\uppercase {Cuts and Corrections}}{52}{section.5.5}
-\contentsline {section}{\numberline {5.6}\uppercase {Kinematic Coverage and Data Binning}}{52}{section.5.6}
-\contentsline {section}{\numberline {5.7}\uppercase {Acceptance Correction}}{52}{section.5.7}
-\contentsline {section}{\numberline {5.8}\uppercase {Electron Detection Efficiency}}{52}{section.5.8}
-\contentsline {section}{\numberline {5.9}\uppercase {Background Subtraction}}{52}{section.5.9}
-\contentsline {section}{\numberline {5.10}\uppercase {Cross Section Calculation}}{52}{section.5.10}
-\contentsline {section}{\numberline {5.11}\uppercase {Radiative Corrections}}{52}{section.5.11}
-\contentsline {section}{\numberline {5.12}\uppercase {Systematic Error Evaluation}}{52}{section.5.12}
-\contentsline {chapter}{\numberline {6.}\uppercase {Results}}{53}{chapter.6}
+\contentsline {section}{\numberline {2.3}\uppercase {Elastic and Resonance Regions}}{19}{section.2.3}
+\contentsline {section}{\numberline {2.4}\uppercase {Deep Inelastic Scattering}}{21}{section.2.4}
+\contentsline {section}{\numberline {2.5}\uppercase {The Quark-Parton Model}}{21}{section.2.5}
+\contentsline {section}{\numberline {2.6}\uppercase {Quantum Chromodynamics}}{21}{section.2.6}
+\contentsline {section}{\numberline {2.7}\uppercase {Nucleon Structure-Function Ratio $F^2_n/F^2_p$}}{21}{section.2.7}
+\contentsline {section}{\numberline {2.8}\uppercase {Difficulties in Extracting $F^2_n/F^2_p$ from Deuterium}}{21}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}\uppercase {Bound Nucleon Structure}}{21}{subsection.2.8.1}
+\contentsline {subsection}{\numberline {2.8.2}\uppercase {Backgrounds}}{21}{subsection.2.8.2}
+\contentsline {section}{\numberline {2.9}\uppercase {Barely Off-Shell Nucleon Structure}}{21}{section.2.9}
+\contentsline {chapter}{\numberline {3.}\uppercase {The BONuS12 Experiment}}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}\uppercase {Continuous Electron Beam Accelerator Facility}}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}\uppercase {CEBAF Large Acceptance Spectrometer}}{24}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}\uppercase {Torus Magnet}}{25}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}\uppercase {Cherenkov Counters}}{26}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}\uppercase {Drift Chambers}}{27}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}\uppercase {Forward Time of Flight}}{27}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}\uppercase {Electromagnetic Calorimeter}}{28}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}\uppercase {Solenoid Magnet}}{29}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}\uppercase {Central Time of Flight}}{29}{subsection.3.2.7}
+\contentsline {section}{\numberline {3.3}\uppercase {BONuS12 RTPC}}{29}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}\uppercase {Components and their Purpose}}{30}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}\uppercase {BONuS12 RTPC Drift-gas Monitoring System}}{32}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}\uppercase {Construction and Integration}}{34}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4.}\uppercase {Simulation and Development}}{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}\uppercase {Geant4 Monte Carlo (GEMC)}}{36}{section.4.1}
+\contentsline {section}{\numberline {4.2}\uppercase {Garfield++}}{37}{section.4.2}
+\contentsline {section}{\numberline {4.3}\uppercase {BONuS12 RTPC Simulations}}{37}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}\uppercase {Geometry $\&$ Materials}}{38}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}\uppercase {Event Generator}}{40}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}\uppercase {Drift Electrons}}{42}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}\uppercase {Gas Optimization}}{44}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}\uppercase {Drift Equations}}{48}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}\uppercase {DMS Simulations}}{50}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}\uppercase {Geometry}}{50}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}\uppercase {Electric Field}}{52}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}\uppercase {Drift Velocity}}{54}{subsection.4.4.3}
+\contentsline {chapter}{\numberline {5.}\uppercase {Data Analysis}}{56}{chapter.5}
+\contentsline {section}{\numberline {5.1}\uppercase {Electron Reconstruction}}{56}{section.5.1}
+\contentsline {section}{\numberline {5.2}\uppercase {Proton Reconstruction}}{56}{section.5.2}
+\contentsline {section}{\numberline {5.3}\uppercase {Helix Fitter and Kalman Filter}}{56}{section.5.3}
+\contentsline {section}{\numberline {5.4}\uppercase {Calibration}}{56}{section.5.4}
+\contentsline {section}{\numberline {5.5}\uppercase {Cuts and Corrections}}{56}{section.5.5}
+\contentsline {section}{\numberline {5.6}\uppercase {Kinematic Coverage and Data Binning}}{56}{section.5.6}
+\contentsline {section}{\numberline {5.7}\uppercase {Acceptance Correction}}{56}{section.5.7}
+\contentsline {section}{\numberline {5.8}\uppercase {Electron Detection Efficiency}}{56}{section.5.8}
+\contentsline {section}{\numberline {5.9}\uppercase {Background Subtraction}}{56}{section.5.9}
+\contentsline {section}{\numberline {5.10}\uppercase {Cross Section Calculation}}{56}{section.5.10}
+\contentsline {section}{\numberline {5.11}\uppercase {Radiative Corrections}}{56}{section.5.11}
+\contentsline {section}{\numberline {5.12}\uppercase {Systematic Error Evaluation}}{56}{section.5.12}
+\contentsline {chapter}{\numberline {6.}\uppercase {Results}}{57}{chapter.6}
 \vspace *{12pt}
 \noindent APPENDICES
 
 \vspace *{12pt}
-\contentsline {chapter}{VITA}{55}{appendix*.31}
+\contentsline {chapter}{VITA}{59}{appendix*.32}

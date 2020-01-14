@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 JAN 2020 15:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 JAN 2020 15:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -949,6 +949,889 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+(/usr/local/texlive/2015/texmf-dist/tex/latex/carlisle/slashed.sty
+Package: slashed 1997/01/16 v0.01 Feynman Slashed Character Notation (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vnabla with sig. '' on line 25.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \varE with sig. '' on line 29.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ordersymbol with sig. '' on line 30.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \lparen with sig. '' on line 31.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \rparen with sig. '' on line 32.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \quantity with sig. '' on line 35.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \@quantity with sig. ' t\big t\Big t\bigg t\Bigg g o d()
+. d|| ' on line 62.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qty with sig. '' on line 63.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \pqty with sig. ' l m ' on line 64.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bqty with sig. ' l m ' on line 65.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Bqty with sig. ' l m ' on line 66.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vqty with sig. ' l m ' on line 67.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \pmqty with sig. 'm' on line 70.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Pmqty with sig. 'm' on line 71.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmqty with sig. 'm' on line 72.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vmqty with sig. 'm' on line 73.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \matrixquantity with sig. '' on line 74.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \@matrixquantity with sig. ' s g o d() d|| ' on line 100.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mqty with sig. '' on line 101.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \matrixdeterminant with sig. 'm' on line 102.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mdet with sig. '' on line 103.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \spmqty with sig. 'm' on line 105.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sPmqty with sig. 'm' on line 106.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sbmqty with sig. 'm' on line 107.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \svmqty with sig. 'm' on line 108.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \smallmatrixquantity with sig. ' s g o d() d|| ' on line
+. 133.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \smqty with sig. '' on line 134.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \smallmatrixdeterminant with sig. 'm' on line 135.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \smdet with sig. '' on line 136.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \argopen with sig. 's' on line 138.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \argclose with sig. 's' on line 139.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \braces with sig. '' on line 141.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \@braces with sig. ' s t\big t\Big t\bigg t\Bigg m m m ' on
+. line 156.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fbraces with sig. ' s t\big t\Big t\bigg t\Bigg m m m m '
+. on line 174.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \absolutevalue with sig. ' l m ' on line 176.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \abs with sig. '' on line 177.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \norm with sig. ' l m ' on line 178.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \order with sig. ' l m ' on line 179.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \evaluated with sig. ' s g d[| d(| ' on line 194.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \eval with sig. '' on line 195.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \poissonbracket with sig. ' l m m ' on line 197.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \pb with sig. '' on line 198.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \commutator with sig. ' l m m ' on line 201.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \comm with sig. '' on line 202.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \anticommutator with sig. ' l m m ' on line 203.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \acommutator with sig. '' on line 204.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \acomm with sig. '' on line 205.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vectorbold with sig. ' s m ' on line 208.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vb with sig. '' on line 209.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vectorarrow with sig. ' s m ' on line 211.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \va with sig. '' on line 212.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vectorunit with sig. ' s m ' on line 214.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vu with sig. '' on line 215.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dotproduct with sig. '' on line 217.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vdot with sig. '' on line 218.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \crossproduct with sig. '' on line 220.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \cross with sig. '' on line 221.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \cp with sig. '' on line 222.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \gradient with sig. ' g o d() ' on line 232.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \grad with sig. '' on line 233.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \divergence with sig. ' g o d() ' on line 243.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \div with sig. '' on line 246.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \curl with sig. ' g o d() ' on line 256.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \laplacian with sig. ' g o d() ' on line 266.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \principalvalue with sig. 'g' on line 274.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \pv with sig. '' on line 275.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \PV with sig. 'g' on line 276.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \Re with sig. 'g' on line 277.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \Im with sig. 'g' on line 278.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \opbraces with sig. ' m g o d() ' on line 299.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \trigbraces with sig. ' m o d() ' on line 305.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \sin with sig. '' on line 309.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \cos with sig. '' on line 310.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \tan with sig. '' on line 311.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \csc with sig. '' on line 312.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \sec with sig. '' on line 313.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \cot with sig. '' on line 314.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \arcsin with sig. '' on line 316.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \arccos with sig. '' on line 317.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \arctan with sig. '' on line 318.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \arccsc with sig. '' on line 320.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \arcsec with sig. '' on line 322.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \arccot with sig. '' on line 324.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \asin with sig. '' on line 327.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \acos with sig. '' on line 329.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \atan with sig. '' on line 331.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \acsc with sig. '' on line 333.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \asec with sig. '' on line 335.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \acot with sig. '' on line 337.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \sinh with sig. '' on line 339.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \cosh with sig. '' on line 340.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \tanh with sig. '' on line 341.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \csch with sig. '' on line 343.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sech with sig. '' on line 345.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \coth with sig. '' on line 346.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \exp with sig. '' on line 348.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \log with sig. '' on line 349.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \ln with sig. '' on line 350.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \det with sig. '' on line 351.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \Pr with sig. '' on line 352.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tr with sig. '' on line 353.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Tr with sig. '' on line 354.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Res with sig. '' on line 355.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qqtext with sig. ' s m ' on line 377.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qq with sig. '' on line 378.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qcomma with sig. '' on line 380.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qc with sig. '' on line 381.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qif with sig. 's' on line 383.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qthen with sig. 's' on line 384.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qelse with sig. 's' on line 385.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qotherwise with sig. 's' on line 386.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qunless with sig. 's' on line 387.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qgiven with sig. 's' on line 388.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qusing with sig. 's' on line 389.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qassume with sig. 's' on line 390.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qsince with sig. 's' on line 391.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qlet with sig. 's' on line 392.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qfor with sig. 's' on line 393.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qall with sig. 's' on line 394.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qeven with sig. 's' on line 395.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qodd with sig. 's' on line 396.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qinteger with sig. 's' on line 397.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qand with sig. 's' on line 398.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qor with sig. 's' on line 399.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qas with sig. 's' on line 400.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qin with sig. 's' on line 401.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \qcc with sig. 's' on line 402.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \differential with sig. ' o g d() ' on line 415.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dd with sig. '' on line 416.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \derivative with sig. ' s o m g d() ' on line 435.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dv with sig. '' on line 436.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \partialderivative with sig. ' s o m g g d() ' on line 460.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \pderivative with sig. '' on line 461.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \pdv with sig. '' on line 462.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \variation with sig. ' o g d() ' on line 474.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \var with sig. '' on line 475.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \functionalderivative with sig. ' s o m g d() ' on line
+. 494.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fderivative with sig. '' on line 495.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fdv with sig. '' on line 496.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bra with sig. ' s m t\ket s g ' on line 526.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ket with sig. ' s m ' on line 533.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \innerproduct with sig. ' s m g ' on line 548.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \braket with sig. '' on line 549.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ip with sig. '' on line 550.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \outerproduct with sig. ' s m g ' on line 565.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dyad with sig. '' on line 566.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \op with sig. '' on line 567.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ketbra with sig. '' on line 568.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \expectationvalue with sig. ' s s m g ' on line 587.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \expval with sig. '' on line 588.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ev with sig. '' on line 589.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \vev with sig. ' m ' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \matrixelement with sig. ' s s m m m ' on line 601.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \matrixel with sig. '' on line 602.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mel with sig. '' on line 603.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \identitymatrix with sig. 'm' on line 633.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \imat with sig. '' on line 634.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xmatrix with sig. ' s m m m ' on line 659.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xmat with sig. '' on line 660.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zeromatrix with sig. ' m g ' on line 662.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zmat with sig. '' on line 663.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \paulixmatrix with sig. '' on line 665.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \pauliymatrix with sig. '' on line 666.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \paulizmatrix with sig. '' on line 667.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \paulimatrix with sig. 'm' on line 678.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \pmat with sig. '' on line 679.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \diagonalmatrix with sig. 'O{} >{\SplitList {,}}m ' on line
+. 681.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \@dmat with sig. 'mmggggggg' on line 714.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmat with sig. '' on line 715.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \antidiagonalmatrix with sig. 'O{} >{\SplitList {,}}m ' on
+. line 717.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \@admat with sig. 'mmggggggg' on line 750.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \admat with sig. '' on line 751.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \flatfrac with sig. ' m m ' on line 754.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \homework with sig. '' on line 764.
+.................................................
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/textgreek/textgreek.sty
 Package: textgreek 2011/10/09 v0.7 Greek symbols in text
 Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
@@ -975,26 +1858,26 @@ File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 41.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 43.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    ... okay on input line 43.
 
 ABD: EveryShipout initializing macros
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -1026,7 +1909,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box63
-Package hyperref Info: Link coloring OFF on input line 41.
+Package hyperref Info: Link coloring OFF on input line 43.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1036,9 +1919,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count223
 )
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
@@ -1073,7 +1956,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 [6
 
-] <figures/standard_model.png, id=351, 722.7pt x 542.025pt>
+] <figures/standard_model.png, id=346, 722.7pt x 542.025pt>
 File: figures/standard_model.png Graphic file (type png)
 
 <use figures/standard_model.png>
@@ -1110,7 +1993,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 [12
 
-] <figures/neutron_decay.png, id=404, 722.7pt x 542.025pt>
+] <figures/neutron_decay.png, id=400, 722.7pt x 542.025pt>
 File: figures/neutron_decay.png Graphic file (type png)
 
 <use figures/neutron_decay.png>
@@ -1121,115 +2004,118 @@ Package pdftex.def Info: figures/neutron_decay.png used on input line 24.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 36.
 
-[14] [15] <figures/feyn_epscatt.png, id=439, 722.7pt x 542.025pt>
+[14] [15] <figures/feyn_epscatt.png, id=435, 722.7pt x 542.025pt>
 File: figures/feyn_epscatt.png Graphic file (type png)
 
 <use figures/feyn_epscatt.png>
 Package pdftex.def Info: figures/feyn_epscatt.png used on input line 79.
 (pdftex.def)             Requested size: 258.44043pt x 193.83035pt.
  [16 <./figures/feyn_epscatt.png>]
-<figures/diff_xsec.png, id=450, 722.7pt x 542.025pt>
+<figures/diff_xsec.png, id=446, 722.7pt x 542.025pt>
 File: figures/diff_xsec.png Graphic file (type png)
 
 <use figures/diff_xsec.png>
 Package pdftex.def Info: figures/diff_xsec.png used on input line 103.
 (pdftex.def)             Requested size: 258.44043pt x 193.83035pt.
- [17 <./figures/diff_xsec.png>]
+ [17 <./figures/diff_xsec.png>] [18]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 112.
+(hyperref)                removing `\uppercase' on input line 130.
 
+[19] <figures/feyn_sum.png, id=486, 963.6pt x 180.675pt>
+File: figures/feyn_sum.png Graphic file (type png)
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 115.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 116.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 118.
-
+<use figures/feyn_sum.png>
+Package pdftex.def Info: figures/feyn_sum.png used on input line 172.
+(pdftex.def)             Requested size: 430.72968pt x 80.75989pt.
+ [20 <./figures/feyn_sum.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 119.
+(hyperref)                removing `\uppercase' on input line 194.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 120.
+(hyperref)                removing `\uppercase' on input line 196.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 120.
+(hyperref)                removing `\uppercase' on input line 197.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 120.
+(hyperref)                removing `\uppercase' on input line 198.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 120.
+(hyperref)                removing `math shift' on input line 198.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 120.
+(hyperref)                removing `superscript' on input line 198.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 120.
+(hyperref)                removing `subscript' on input line 198.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 120.
+(hyperref)                removing `superscript' on input line 198.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 121.
+(hyperref)                removing `subscript' on input line 198.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 121.
+(hyperref)                removing `math shift' on input line 198.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 121.
+(hyperref)                removing `\uppercase' on input line 199.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 121.
+(hyperref)                removing `math shift' on input line 199.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 121.
+(hyperref)                removing `superscript' on input line 199.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 121.
+(hyperref)                removing `subscript' on input line 199.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 121.
+(hyperref)                removing `superscript' on input line 199.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 122.
+(hyperref)                removing `subscript' on input line 199.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 123.
+(hyperref)                removing `math shift' on input line 199.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 124.
+(hyperref)                removing `\uppercase' on input line 200.
 
-) (./chapters/03_bonus12.tex [18]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 202.
+
+) (./chapters/03_bonus12.tex [21] [22]
 CHAPTER 3
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 1.
 
-<figures/cebaf.png, id=468, 231.921pt x 141.5835pt>
+<figures/cebaf.png, id=511, 231.921pt x 141.5835pt>
 File: figures/cebaf.png Graphic file (type png)
  <use figures/cebaf.png>
 Package pdftex.def Info: figures/cebaf.png used on input line 7.
@@ -1239,14 +2125,14 @@ Package pdftex.def Info: figures/cebaf.png used on input line 7.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 12.
 
-[19
+[23
 
  <./figures/cebaf.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 17.
 
-<figures/clas12.png, id=477, 2164.085pt x 2140.99875pt>
+<figures/clas12.png, id=519, 2164.085pt x 2140.99875pt>
 File: figures/clas12.png Graphic file (type png)
 
 <use figures/clas12.png>
@@ -1256,22 +2142,22 @@ Package pdftex.def Info: figures/clas12.png used on input line 22.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[20]
+[24]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 29.
 
-[21 <./figures/clas12.png>]
+[25 <./figures/clas12.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 34.
 
-<figures/htcc.png, id=490, 722.7pt x 542.025pt>
+<figures/htcc.png, id=533, 722.7pt x 542.025pt>
 File: figures/htcc.png Graphic file (type png)
  <use figures/htcc.png>
 Package pdftex.def Info: figures/htcc.png used on input line 39.
 (pdftex.def)             Requested size: 135.68127pt x 101.76176pt.
- [22 <./figures/htcc.png>]
+ [26 <./figures/htcc.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 45.
@@ -1280,17 +2166,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 52.
 
-[23]
+[27]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 57.
 
-<figures/ecal.png, id=503, 722.7pt x 542.025pt>
+<figures/ecal.png, id=546, 722.7pt x 542.025pt>
 File: figures/ecal.png Graphic file (type png)
  <use figures/ecal.png>
 Package pdftex.def Info: figures/ecal.png used on input line 62.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
- [24 <./figures/ecal.png>]
+ [28 <./figures/ecal.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 71.
@@ -1299,7 +2185,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 76.
 
-<figures/ctof.png, id=514, 722.7pt x 542.025pt>
+<figures/ctof.png, id=557, 722.7pt x 542.025pt>
 File: figures/ctof.png Graphic file (type png)
  <use figures/ctof.png>
 Package pdftex.def Info: figures/ctof.png used on input line 79.
@@ -1309,54 +2195,54 @@ Package pdftex.def Info: figures/ctof.png used on input line 79.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 85.
 
-[25 <./figures/ctof.png>]
+[29 <./figures/ctof.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 88.
 
-<figures/rtpc_op.png, id=523, 722.7pt x 542.025pt>
+<figures/rtpc_op.png, id=565, 722.7pt x 542.025pt>
 File: figures/rtpc_op.png Graphic file (type png)
  <use figures/rtpc_op.png>
 Package pdftex.def Info: figures/rtpc_op.png used on input line 93.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
 
-[26 <./figures/rtpc_op.png>]
-<figures/rtpc_design.png, id=532, 722.7pt x 542.025pt>
+[30 <./figures/rtpc_op.png>]
+<figures/rtpc_design.png, id=574, 722.7pt x 542.025pt>
 File: figures/rtpc_design.png Graphic file (type png)
 
 <use figures/rtpc_design.png>
 Package pdftex.def Info: figures/rtpc_design.png used on input line 106.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
- [27 <./figures/rtpc_design.png>]
+ [31 <./figures/rtpc_design.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 113.
 
-<figures/dms_concept.png, id=540, 722.7pt x 542.025pt>
+<figures/dms_concept.png, id=584, 722.7pt x 542.025pt>
 File: figures/dms_concept.png Graphic file (type png)
 
 <use figures/dms_concept.png>
 Package pdftex.def Info: figures/dms_concept.png used on input line 118.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
- [28 <./figures/dms_concept.png>]
-<figures/dms_gui.png, id=548, 722.7pt x 397.485pt>
+ [32 <./figures/dms_concept.png>]
+<figures/dms_gui.png, id=592, 722.7pt x 397.485pt>
 File: figures/dms_gui.png Graphic file (type png)
  <use figures/dms_gui.png>
 Package pdftex.def Info: figures/dms_gui.png used on input line 129.
 (pdftex.def)             Requested size: 344.58505pt x 189.52301pt.
 
-[29 <./figures/dms_gui.png>]
+[33 <./figures/dms_gui.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 137.
 
-<figures/rtpc_assembly.png, id=557, 722.7pt x 542.025pt>
+<figures/rtpc_assembly.png, id=601, 722.7pt x 542.025pt>
 File: figures/rtpc_assembly.png Graphic file (type png)
 
 <use figures/rtpc_assembly.png>
 Package pdftex.def Info: figures/rtpc_assembly.png used on input line 142.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
-) (./chapters/04_simdev.tex [30 <./figures/rtpc_assembly.png>] [31]
+) (./chapters/04_simdev.tex [34 <./figures/rtpc_assembly.png>] [35]
 CHAPTER 4
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1366,7 +2252,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 7.
 
-[32
+[36
 
 ]
 
@@ -1377,7 +2263,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 20.
 
-[33]
+[37]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 23.
@@ -1390,7 +2276,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 23.
 
-<figures/rtpc.png, id=578, 1244.65pt x 1244.65pt>
+<figures/rtpc.png, id=621, 1244.65pt x 1244.65pt>
 File: figures/rtpc.png Graphic file (type png)
  <use figures/rtpc.png>
 Package pdftex.def Info: figures/rtpc.png used on input line 41.
@@ -1399,28 +2285,28 @@ Package pdftex.def Info: figures/rtpc.png used on input line 41.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[34] [35 <./figures/rtpc.png (PNG copy)>]
+[38] [39 <./figures/rtpc.png (PNG copy)>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 61.
 
-[36]
+[40]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[37]
+[41]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 120.
 
-[38] <figures/solenoid_map.png, id=628, 806.01125pt x 626.34pt>
+[42] <figures/solenoid_map.png, id=669, 806.01125pt x 626.34pt>
 File: figures/solenoid_map.png Graphic file (type png)
 
 <use figures/solenoid_map.png>
 Package pdftex.def Info: figures/solenoid_map.png used on input line 127.
 (pdftex.def)             Requested size: 344.58505pt x 267.77267pt.
 
-<figures/bfield.png, id=629, 722.7pt x 542.025pt>
+<figures/bfield.png, id=670, 722.7pt x 542.025pt>
 File: figures/bfield.png Graphic file (type png)
  <use figures/bfield.png>
 Package pdftex.def Info: figures/bfield.png used on input line 134.
@@ -1430,48 +2316,48 @@ Package pdftex.def Info: figures/bfield.png used on input line 134.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `bfield' on page 39 undefined on input line 139.
+LaTeX Warning: Reference `bfield' on page 43 undefined on input line 139.
 
-[39 <./figures/solenoid_map.png>]
+[43 <./figures/solenoid_map.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 145.
 
-[40 <./figures/bfield.png>]
-<figures/gas_opt_phi_vs_t.png, id=642, 543.02875pt x 411.5375pt>
+[44 <./figures/bfield.png>]
+<figures/gas_opt_phi_vs_t.png, id=684, 543.02875pt x 411.5375pt>
 File: figures/gas_opt_phi_vs_t.png Graphic file (type png)
 
 <use figures/gas_opt_phi_vs_t.png>
 Package pdftex.def Info: figures/gas_opt_phi_vs_t.png used on input line 151.
 (pdftex.def)             Requested size: 344.58505pt x 261.15385pt.
- [41 <./figures/gas_opt_phi_vs_t.png>]
-<figures/gas_opt_sigphi_vs_sigt.png, id=655, 515.9275pt x 393.47pt>
+ [45 <./figures/gas_opt_phi_vs_t.png>]
+<figures/gas_opt_sigphi_vs_sigt.png, id=697, 515.9275pt x 393.47pt>
 File: figures/gas_opt_sigphi_vs_sigt.png Graphic file (type png)
 
 <use figures/gas_opt_sigphi_vs_sigt.png>
 Package pdftex.def Info: figures/gas_opt_sigphi_vs_sigt.png used on input line 
 164.
 (pdftex.def)             Requested size: 344.58505pt x 262.801pt.
- [42 <./figures/gas_opt_sigphi_vs_sigt.png>] <figures/gas_opt_pot.png, id=663, 
+ [46 <./figures/gas_opt_sigphi_vs_sigt.png>] <figures/gas_opt_pot.png, id=706, 
 524.96124pt x 411.5375pt>
 File: figures/gas_opt_pot.png Graphic file (type png)
 
 <use figures/gas_opt_pot.png>
 Package pdftex.def Info: figures/gas_opt_pot.png used on input line 173.
 (pdftex.def)             Requested size: 344.58505pt x 270.1399pt.
- [43 <./figures/gas_opt_pot.png>]
+ [47 <./figures/gas_opt_pot.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 185.
 
-<figures/drifte_t_vs_r.png, id=676, 722.7pt x 542.025pt>
+<figures/drifte_t_vs_r.png, id=718, 722.7pt x 542.025pt>
 File: figures/drifte_t_vs_r.png Graphic file (type png)
 
 <use figures/drifte_t_vs_r.png>
 Package pdftex.def Info: figures/drifte_t_vs_r.png used on input line 191.
 (pdftex.def)             Requested size: 211.0599pt x 158.29147pt.
 
-<figures/drifte_phi_vs_r.png, id=677, 722.7pt x 542.025pt>
+<figures/drifte_phi_vs_r.png, id=719, 722.7pt x 542.025pt>
 File: figures/drifte_phi_vs_r.png Graphic file (type png)
 
 <use figures/drifte_phi_vs_r.png>
@@ -1481,7 +2367,7 @@ Package pdftex.def Info: figures/drifte_phi_vs_r.png used on input line 196.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/drifte_a_and_b.png, id=680, 722.7pt x 542.025pt>
+<figures/drifte_a_and_b.png, id=722, 722.7pt x 542.025pt>
 File: figures/drifte_a_and_b.png Graphic file (type png)
 
 <use figures/drifte_a_and_b.png>
@@ -1491,35 +2377,35 @@ Package pdftex.def Info: figures/drifte_a_and_b.png used on input line 207.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[44]
+[48]
 Overfull \vbox (24.4182pt too high) has occurred while \output is active []
 
 
-[45 <./figures/drifte_t_vs_r.png> <./figures/drifte_phi_vs_r.png> <./figures/dr
+[49 <./figures/drifte_t_vs_r.png> <./figures/drifte_phi_vs_r.png> <./figures/dr
 ifte_a_and_b.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 224.
 
 
-LaTeX Warning: Reference `sec:dms' on page 46 undefined on input line 226.
+LaTeX Warning: Reference `sec:dms' on page 50 undefined on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 227.
 
-[46] [47]
+[50] [51]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 285.
 
-<figures/efield.png, id=754, 542.025pt x 361.35pt>
+<figures/efield.png, id=796, 542.025pt x 361.35pt>
 File: figures/efield.png Graphic file (type png)
  <use figures/efield.png>
 Package pdftex.def Info: figures/efield.png used on input line 293.
 (pdftex.def)             Requested size: 142.14157pt x 94.7593pt.
 
-<figures/efield_goodsep.png, id=755, 722.7pt x 542.025pt>
+<figures/efield_goodsep.png, id=797, 722.7pt x 542.025pt>
 File: figures/efield_goodsep.png Graphic file (type png)
 
 <use figures/efield_goodsep.png>
@@ -1535,7 +2421,7 @@ Underfull \hbox (badness 3668) in paragraph at lines 299--299
 \OT1/cmr/m/n/10.95 along the plane of the
  []
 
-<figures/efield_zoom.png, id=756, 578.16pt x 361.35pt>
+<figures/efield_zoom.png, id=798, 578.16pt x 361.35pt>
 File: figures/efield_zoom.png Graphic file (type png)
 
 <use figures/efield_zoom.png>
@@ -1554,7 +2440,7 @@ Underfull \hbox (badness 1281) in paragraph at lines 304--304
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[48] <figures/efield_bigsep.png, id=771, 722.7pt x 542.025pt>
+[52] <figures/efield_bigsep.png, id=813, 722.7pt x 542.025pt>
 File: figures/efield_bigsep.png Graphic file (type png)
 
 <use figures/efield_bigsep.png>
@@ -1570,7 +2456,7 @@ Underfull \hbox (badness 1189) in paragraph at lines 316--316
 \OT1/cmr/m/n/10.95 with elec-trode sep-a-ra-tion
  []
 
-<figures/efield_midsep.png, id=772, 722.7pt x 542.025pt>
+<figures/efield_midsep.png, id=814, 722.7pt x 542.025pt>
 File: figures/efield_midsep.png Graphic file (type png)
 
 <use figures/efield_midsep.png>
@@ -1600,20 +2486,20 @@ Underfull \hbox (badness 1189) in paragraph at lines 326--326
 \OT1/cmr/m/n/10.95 with elec-trode sep-a-ra-tion
  []
 
-[49 <./figures/efield.png> <./figures/efield_goodsep.png> <./figures/efield_zoo
+[53 <./figures/efield.png> <./figures/efield_goodsep.png> <./figures/efield_zoo
 m.png> <./figures/efield_bigsep.png> <./figures/efield_midsep.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 337.
 
-<figures/vdc_sim_td.png, id=785, 800.9925pt x 576.1525pt>
+<figures/vdc_sim_td.png, id=826, 800.9925pt x 576.1525pt>
 File: figures/vdc_sim_td.png Graphic file (type png)
 
 <use figures/vdc_sim_td.png>
 Package pdftex.def Info: figures/vdc_sim_td.png used on input line 342.
 (pdftex.def)             Requested size: 344.58505pt x 247.86382pt.
- [50 <./figures/vdc_sim_td.png>])
-(./chapters/05_analysis.tex [51]
+ [54 <./figures/vdc_sim_td.png>])
+(./chapters/05_analysis.tex [55]
 CHAPTER 5
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1667,7 +2553,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 26.
 
-) (./chapters/06_results.tex [52
+) (./chapters/06_results.tex [56
 
 ]
 CHAPTER 6
@@ -1675,63 +2561,65 @@ CHAPTER 6
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 1.
 
-) (./main.bbl [53
+) (./main.bbl [57
 
 ])
 runsystem(ls appendices/*.tex | xargs cat >> appendices/main.tmp)...disabled (r
 estricted).
 
- [54
+ [58
 
-] [55
+] [59
 
 ]
 runsystem(rm -f appendices/main.tmp)...disabled (restricted).
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 693DE27B180F13848D3725AAEBA48C79;4317.
+(rerunfilecheck)             Checksum: 0C3ACAE118BC706B8019BA7017A9100B;4268.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 29305 strings out of 493089
- 556274 string characters out of 6134842
- 748965 words of memory out of 5000000
- 31996 multiletter control sequences out of 15000+600000
+ 29719 strings out of 493089
+ 560463 string characters out of 6134842
+ 760725 words of memory out of 5000000
+ 32381 multiletter control sequences out of 15000+600000
  13643 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,97p,10377b,2039s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb>
-Output written on main.pdf (55 pages, 11238513 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/amsfonts/euler/eurm10.pfb>
+Output written on main.pdf (59 pages, 11305865 bytes).
 PDF statistics:
- 932 PDF objects out of 1000 (max. 8388607)
- 794 compressed objects within 8 object streams
- 244 named destinations out of 1000 (max. 500000)
- 646 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 984 PDF objects out of 1000 (max. 8388607)
+ 837 compressed objects within 9 object streams
+ 264 named destinations out of 1000 (max. 500000)
+ 643 words of extra memory for PDF output out of 10000 (max. 10000000)
 
