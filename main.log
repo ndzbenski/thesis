@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 JAN 2020 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 MAR 2020 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2028,94 +2028,137 @@ File: figures/feyn_sum.png Graphic file (type png)
 <use figures/feyn_sum.png>
 Package pdftex.def Info: figures/feyn_sum.png used on input line 172.
 (pdftex.def)             Requested size: 430.72968pt x 80.75989pt.
- [20 <./figures/feyn_sum.png>]
+ [20 <./figures/feyn_sum.png>] [21] [22pdfTeX warning (ext4): destination with 
+the same identifier (name{equation.2.3.34}) has been already used, duplicate ig
+nored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.247 
+      pdfTeX warning (ext4): destination with the same identifier (name{equatio
+n.2.3.34}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.247 
+      ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 194.
+(hyperref)                removing `\uppercase' on input line 248.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 196.
-
+[23]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 197.
+(hyperref)                removing `\uppercase' on input line 285.
 
+[24] <figures/feyn_inelscatt.png, id=540, 722.7pt x 542.025pt>
+File: figures/feyn_inelscatt.png Graphic file (type png)
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 198.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 198.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 198.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 198.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 198.
+<use figures/feyn_inelscatt.png>
+Package pdftex.def Info: figures/feyn_inelscatt.png used on input line 290.
+(pdftex.def)             Requested size: 258.44043pt x 193.83035pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 198.
+(hyperref)                removing `\uppercase' on input line 305.
+
+[25 <./figures/feyn_inelscatt.png>]
+<figures/inel_to_dis.png, id=554, 722.7pt x 252.945pt>
+File: figures/inel_to_dis.png Graphic file (type png)
+
+<use figures/inel_to_dis.png>
+Package pdftex.def Info: figures/inel_to_dis.png used on input line 315.
+(pdftex.def)             Requested size: 387.65407pt x 135.67738pt.
+ [26 <./figures/inel_to_dis.png>] [27pdfTeX warning (ext4): destination with th
+e same identifier (name{equation.2.6.49}) has been already used, duplicate igno
+red
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.369 \end{eqnarray}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{equation.2.6.50}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.369 \end{eqnarray}
+                    ]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 389.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 198.
+(hyperref)                removing `math shift' on input line 389.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 199.
+(hyperref)                removing `superscript' on input line 389.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 199.
+(hyperref)                removing `subscript' on input line 389.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 199.
+(hyperref)                removing `superscript' on input line 389.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 199.
+(hyperref)                removing `subscript' on input line 389.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 199.
+(hyperref)                removing `math shift' on input line 389.
+
+[28]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 199.
+(hyperref)                removing `math shift' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 199.
+(hyperref)                removing `superscript' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 200.
+(hyperref)                removing `subscript' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 201.
+(hyperref)                removing `superscript' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 202.
+(hyperref)                removing `subscript' on input line 417.
 
-) (./chapters/03_bonus12.tex [21] [22]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 417.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 418.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 419.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 420.
+
+) (./chapters/03_bonus12.tex [29]
 CHAPTER 3
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 1.
 
-<figures/cebaf.png, id=511, 231.921pt x 141.5835pt>
+<figures/cebaf.png, id=598, 231.921pt x 141.5835pt>
 File: figures/cebaf.png Graphic file (type png)
  <use figures/cebaf.png>
 Package pdftex.def Info: figures/cebaf.png used on input line 7.
@@ -2125,14 +2168,14 @@ Package pdftex.def Info: figures/cebaf.png used on input line 7.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 12.
 
-[23
+[30
 
  <./figures/cebaf.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 17.
 
-<figures/clas12.png, id=519, 2164.085pt x 2140.99875pt>
+<figures/clas12.png, id=606, 2164.085pt x 2140.99875pt>
 File: figures/clas12.png Graphic file (type png)
 
 <use figures/clas12.png>
@@ -2142,22 +2185,22 @@ Package pdftex.def Info: figures/clas12.png used on input line 22.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24]
+[31]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 29.
 
-[25 <./figures/clas12.png>]
+[32 <./figures/clas12.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 34.
 
-<figures/htcc.png, id=533, 722.7pt x 542.025pt>
+<figures/htcc.png, id=620, 722.7pt x 542.025pt>
 File: figures/htcc.png Graphic file (type png)
  <use figures/htcc.png>
 Package pdftex.def Info: figures/htcc.png used on input line 39.
 (pdftex.def)             Requested size: 135.68127pt x 101.76176pt.
- [26 <./figures/htcc.png>]
+ [33 <./figures/htcc.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 45.
@@ -2166,17 +2209,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 52.
 
-[27]
+[34]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 57.
 
-<figures/ecal.png, id=546, 722.7pt x 542.025pt>
+<figures/ecal.png, id=633, 722.7pt x 542.025pt>
 File: figures/ecal.png Graphic file (type png)
  <use figures/ecal.png>
 Package pdftex.def Info: figures/ecal.png used on input line 62.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
- [28 <./figures/ecal.png>]
+ [35 <./figures/ecal.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 71.
@@ -2185,7 +2228,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 76.
 
-<figures/ctof.png, id=557, 722.7pt x 542.025pt>
+<figures/ctof.png, id=644, 722.7pt x 542.025pt>
 File: figures/ctof.png Graphic file (type png)
  <use figures/ctof.png>
 Package pdftex.def Info: figures/ctof.png used on input line 79.
@@ -2195,54 +2238,54 @@ Package pdftex.def Info: figures/ctof.png used on input line 79.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 85.
 
-[29 <./figures/ctof.png>]
+[36 <./figures/ctof.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 88.
 
-<figures/rtpc_op.png, id=565, 722.7pt x 542.025pt>
+<figures/rtpc_op.png, id=652, 722.7pt x 542.025pt>
 File: figures/rtpc_op.png Graphic file (type png)
  <use figures/rtpc_op.png>
 Package pdftex.def Info: figures/rtpc_op.png used on input line 93.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
 
-[30 <./figures/rtpc_op.png>]
-<figures/rtpc_design.png, id=574, 722.7pt x 542.025pt>
+[37 <./figures/rtpc_op.png>]
+<figures/rtpc_design.png, id=662, 722.7pt x 542.025pt>
 File: figures/rtpc_design.png Graphic file (type png)
 
 <use figures/rtpc_design.png>
 Package pdftex.def Info: figures/rtpc_design.png used on input line 106.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
- [31 <./figures/rtpc_design.png>]
+ [38 <./figures/rtpc_design.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 113.
 
-<figures/dms_concept.png, id=584, 722.7pt x 542.025pt>
+<figures/dms_concept.png, id=670, 722.7pt x 542.025pt>
 File: figures/dms_concept.png Graphic file (type png)
 
 <use figures/dms_concept.png>
 Package pdftex.def Info: figures/dms_concept.png used on input line 118.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
- [32 <./figures/dms_concept.png>]
-<figures/dms_gui.png, id=592, 722.7pt x 397.485pt>
+ [39 <./figures/dms_concept.png>]
+<figures/dms_gui.png, id=678, 722.7pt x 397.485pt>
 File: figures/dms_gui.png Graphic file (type png)
  <use figures/dms_gui.png>
 Package pdftex.def Info: figures/dms_gui.png used on input line 129.
 (pdftex.def)             Requested size: 344.58505pt x 189.52301pt.
 
-[33 <./figures/dms_gui.png>]
+[40 <./figures/dms_gui.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 137.
 
-<figures/rtpc_assembly.png, id=601, 722.7pt x 542.025pt>
+<figures/rtpc_assembly.png, id=687, 722.7pt x 542.025pt>
 File: figures/rtpc_assembly.png Graphic file (type png)
 
 <use figures/rtpc_assembly.png>
 Package pdftex.def Info: figures/rtpc_assembly.png used on input line 142.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
-) (./chapters/04_simdev.tex [34 <./figures/rtpc_assembly.png>] [35]
+) (./chapters/04_simdev.tex [41 <./figures/rtpc_assembly.png>] [42]
 CHAPTER 4
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2252,7 +2295,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 7.
 
-[36
+[43
 
 ]
 
@@ -2263,7 +2306,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 20.
 
-[37]
+[44]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 23.
@@ -2276,7 +2319,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 23.
 
-<figures/rtpc.png, id=621, 1244.65pt x 1244.65pt>
+<figures/rtpc.png, id=708, 1244.65pt x 1244.65pt>
 File: figures/rtpc.png Graphic file (type png)
  <use figures/rtpc.png>
 Package pdftex.def Info: figures/rtpc.png used on input line 41.
@@ -2285,28 +2328,28 @@ Package pdftex.def Info: figures/rtpc.png used on input line 41.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[38] [39 <./figures/rtpc.png (PNG copy)>]
+[45] [46 <./figures/rtpc.png (PNG copy)>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 61.
 
-[40]
+[47]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[41]
+[48]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 120.
 
-[42] <figures/solenoid_map.png, id=669, 806.01125pt x 626.34pt>
+[49] <figures/solenoid_map.png, id=757, 806.01125pt x 626.34pt>
 File: figures/solenoid_map.png Graphic file (type png)
 
 <use figures/solenoid_map.png>
 Package pdftex.def Info: figures/solenoid_map.png used on input line 127.
 (pdftex.def)             Requested size: 344.58505pt x 267.77267pt.
 
-<figures/bfield.png, id=670, 722.7pt x 542.025pt>
+<figures/bfield.png, id=758, 722.7pt x 542.025pt>
 File: figures/bfield.png Graphic file (type png)
  <use figures/bfield.png>
 Package pdftex.def Info: figures/bfield.png used on input line 134.
@@ -2316,48 +2359,48 @@ Package pdftex.def Info: figures/bfield.png used on input line 134.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `bfield' on page 43 undefined on input line 139.
+LaTeX Warning: Reference `bfield' on page 50 undefined on input line 139.
 
-[43 <./figures/solenoid_map.png>]
+[50 <./figures/solenoid_map.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 145.
 
-[44 <./figures/bfield.png>]
-<figures/gas_opt_phi_vs_t.png, id=684, 543.02875pt x 411.5375pt>
+[51 <./figures/bfield.png>]
+<figures/gas_opt_phi_vs_t.png, id=771, 543.02875pt x 411.5375pt>
 File: figures/gas_opt_phi_vs_t.png Graphic file (type png)
 
 <use figures/gas_opt_phi_vs_t.png>
 Package pdftex.def Info: figures/gas_opt_phi_vs_t.png used on input line 151.
 (pdftex.def)             Requested size: 344.58505pt x 261.15385pt.
- [45 <./figures/gas_opt_phi_vs_t.png>]
-<figures/gas_opt_sigphi_vs_sigt.png, id=697, 515.9275pt x 393.47pt>
+ [52 <./figures/gas_opt_phi_vs_t.png>]
+<figures/gas_opt_sigphi_vs_sigt.png, id=784, 515.9275pt x 393.47pt>
 File: figures/gas_opt_sigphi_vs_sigt.png Graphic file (type png)
 
 <use figures/gas_opt_sigphi_vs_sigt.png>
 Package pdftex.def Info: figures/gas_opt_sigphi_vs_sigt.png used on input line 
 164.
 (pdftex.def)             Requested size: 344.58505pt x 262.801pt.
- [46 <./figures/gas_opt_sigphi_vs_sigt.png>] <figures/gas_opt_pot.png, id=706, 
+ [53 <./figures/gas_opt_sigphi_vs_sigt.png>] <figures/gas_opt_pot.png, id=792, 
 524.96124pt x 411.5375pt>
 File: figures/gas_opt_pot.png Graphic file (type png)
 
 <use figures/gas_opt_pot.png>
 Package pdftex.def Info: figures/gas_opt_pot.png used on input line 173.
 (pdftex.def)             Requested size: 344.58505pt x 270.1399pt.
- [47 <./figures/gas_opt_pot.png>]
+ [54 <./figures/gas_opt_pot.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 185.
 
-<figures/drifte_t_vs_r.png, id=718, 722.7pt x 542.025pt>
+<figures/drifte_t_vs_r.png, id=803, 722.7pt x 542.025pt>
 File: figures/drifte_t_vs_r.png Graphic file (type png)
 
 <use figures/drifte_t_vs_r.png>
 Package pdftex.def Info: figures/drifte_t_vs_r.png used on input line 191.
 (pdftex.def)             Requested size: 211.0599pt x 158.29147pt.
 
-<figures/drifte_phi_vs_r.png, id=719, 722.7pt x 542.025pt>
+<figures/drifte_phi_vs_r.png, id=804, 722.7pt x 542.025pt>
 File: figures/drifte_phi_vs_r.png Graphic file (type png)
 
 <use figures/drifte_phi_vs_r.png>
@@ -2367,7 +2410,7 @@ Package pdftex.def Info: figures/drifte_phi_vs_r.png used on input line 196.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/drifte_a_and_b.png, id=722, 722.7pt x 542.025pt>
+<figures/drifte_a_and_b.png, id=807, 722.7pt x 542.025pt>
 File: figures/drifte_a_and_b.png Graphic file (type png)
 
 <use figures/drifte_a_and_b.png>
@@ -2377,35 +2420,35 @@ Package pdftex.def Info: figures/drifte_a_and_b.png used on input line 207.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[48]
+[55]
 Overfull \vbox (24.4182pt too high) has occurred while \output is active []
 
 
-[49 <./figures/drifte_t_vs_r.png> <./figures/drifte_phi_vs_r.png> <./figures/dr
+[56 <./figures/drifte_t_vs_r.png> <./figures/drifte_phi_vs_r.png> <./figures/dr
 ifte_a_and_b.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 224.
 
 
-LaTeX Warning: Reference `sec:dms' on page 50 undefined on input line 226.
+LaTeX Warning: Reference `sec:dms' on page 57 undefined on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 227.
 
-[50] [51]
+[57] [58]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 285.
 
-<figures/efield.png, id=796, 542.025pt x 361.35pt>
+<figures/efield.png, id=882, 542.025pt x 361.35pt>
 File: figures/efield.png Graphic file (type png)
  <use figures/efield.png>
 Package pdftex.def Info: figures/efield.png used on input line 293.
 (pdftex.def)             Requested size: 142.14157pt x 94.7593pt.
 
-<figures/efield_goodsep.png, id=797, 722.7pt x 542.025pt>
+<figures/efield_goodsep.png, id=883, 722.7pt x 542.025pt>
 File: figures/efield_goodsep.png Graphic file (type png)
 
 <use figures/efield_goodsep.png>
@@ -2421,7 +2464,7 @@ Underfull \hbox (badness 3668) in paragraph at lines 299--299
 \OT1/cmr/m/n/10.95 along the plane of the
  []
 
-<figures/efield_zoom.png, id=798, 578.16pt x 361.35pt>
+<figures/efield_zoom.png, id=884, 578.16pt x 361.35pt>
 File: figures/efield_zoom.png Graphic file (type png)
 
 <use figures/efield_zoom.png>
@@ -2440,7 +2483,7 @@ Underfull \hbox (badness 1281) in paragraph at lines 304--304
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[52] <figures/efield_bigsep.png, id=813, 722.7pt x 542.025pt>
+[59] <figures/efield_bigsep.png, id=899, 722.7pt x 542.025pt>
 File: figures/efield_bigsep.png Graphic file (type png)
 
 <use figures/efield_bigsep.png>
@@ -2456,7 +2499,7 @@ Underfull \hbox (badness 1189) in paragraph at lines 316--316
 \OT1/cmr/m/n/10.95 with elec-trode sep-a-ra-tion
  []
 
-<figures/efield_midsep.png, id=814, 722.7pt x 542.025pt>
+<figures/efield_midsep.png, id=900, 722.7pt x 542.025pt>
 File: figures/efield_midsep.png Graphic file (type png)
 
 <use figures/efield_midsep.png>
@@ -2486,20 +2529,20 @@ Underfull \hbox (badness 1189) in paragraph at lines 326--326
 \OT1/cmr/m/n/10.95 with elec-trode sep-a-ra-tion
  []
 
-[53 <./figures/efield.png> <./figures/efield_goodsep.png> <./figures/efield_zoo
+[60 <./figures/efield.png> <./figures/efield_goodsep.png> <./figures/efield_zoo
 m.png> <./figures/efield_bigsep.png> <./figures/efield_midsep.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 337.
 
-<figures/vdc_sim_td.png, id=826, 800.9925pt x 576.1525pt>
+<figures/vdc_sim_td.png, id=912, 800.9925pt x 576.1525pt>
 File: figures/vdc_sim_td.png Graphic file (type png)
 
 <use figures/vdc_sim_td.png>
 Package pdftex.def Info: figures/vdc_sim_td.png used on input line 342.
 (pdftex.def)             Requested size: 344.58505pt x 247.86382pt.
- [54 <./figures/vdc_sim_td.png>])
-(./chapters/05_analysis.tex [55]
+ [61 <./figures/vdc_sim_td.png>])
+(./chapters/05_analysis.tex [62]
 CHAPTER 5
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2553,7 +2596,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 26.
 
-) (./chapters/06_results.tex [56
+) (./chapters/06_results.tex [63
 
 ]
 CHAPTER 6
@@ -2561,15 +2604,15 @@ CHAPTER 6
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 1.
 
-) (./main.bbl [57
+) (./main.bbl [64
 
 ])
 runsystem(ls appendices/*.tex | xargs cat >> appendices/main.tmp)...disabled (r
 estricted).
 
- [58
+ [65
 
-] [59
+] [66
 
 ]
 runsystem(rm -f appendices/main.tmp)...disabled (restricted).
@@ -2580,7 +2623,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0C3ACAE118BC706B8019BA7017A9100B;4268.
+(rerunfilecheck)             Checksum: C73805547199B9DD640F277A23353336;4256.
 
 
 LaTeX Warning: There were undefined references.
@@ -2588,13 +2631,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 29719 strings out of 493089
- 560463 string characters out of 6134842
+ 29789 strings out of 493089
+ 561671 string characters out of 6134842
  760725 words of memory out of 5000000
- 32381 multiletter control sequences out of 15000+600000
+ 32408 multiletter control sequences out of 15000+600000
  13643 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,97p,10377b,2039s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,12n,97p,10377b,2039s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
@@ -2610,16 +2653,17 @@ live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf
--dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2015/texmf-
-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb>
-Output written on main.pdf (59 pages, 11305865 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/amsfonts/euler/eurm10.pfb>
+Output written on main.pdf (66 pages, 11503797 bytes).
 PDF statistics:
- 984 PDF objects out of 1000 (max. 8388607)
- 837 compressed objects within 9 object streams
- 264 named destinations out of 1000 (max. 500000)
- 643 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1083 PDF objects out of 1200 (max. 8388607)
+ 923 compressed objects within 10 object streams
+ 305 named destinations out of 1000 (max. 500000)
+ 653 words of extra memory for PDF output out of 10000 (max. 10000000)
 

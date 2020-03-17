@@ -2,10 +2,19 @@
 
 \bibitem{clasnote:CEBAF}
 C.~L. D.~Douglas and G.~Krafft, ``The continuous electron beam accelerator
-  facility: Cebaf at the jefferson laboratory,'' 2001.
+  facility: CEBAF at the Jefferson Laboratory,'' 2001.
 
 \bibitem{clasnote:EC_geo}
-G.~{Gilfoyle} and K.~Sherman, ``{Geometry Update for the Electromagnetic
-  Calorimeter in CLAS12},'' {\em CLAS12 Note 2014-008}, 2014.
+G.~{Gilfoyle} and K.~Sherman, ``Geometry update for the electromagnetic
+  calorimeter in CLAS12,'' {\em CLAS12 Note 2014-008}, 2014.
+
+\bibitem{physrep:resonance}
+P.~{Stoler}, ``Baryon form factors at high $Q^2$ and the transition to
+  perturbative QCD,'' {\em Physics Report}, vol.~226, pp.~103--171, 1993.
+
+\bibitem{book:halzen}
+F.~{Halzen} and A.~Martin, {\em Quarks and Leptons: An Introductory Course in
+  Modern Particle Physics}.
+\newblock John Wiley and Sons, 1984.
 
 \end{thebibliography}

@@ -127,7 +127,7 @@ As that target mass $M$ increases, this equation reduces to the Mott cross secti
 
 We are beginning to approach a more realistic mathematical description of scattering, so we must discuss the various types that exist. In Fig. \ref{fig:feyn_epscatt} if both particles remain intact after the collision, it is called \textit{elastic scattering}. Like pool balls, they essentially bounce off each other, of course through the exchange of that virtual photon. When the amount of energy transfer increases ($i.e.$ when $q$ increases), different types of scattering arise. We need to understand these types of scattering in more depth to understand the BONuS12 Experiment.
 \newpage
-\section{Elastic and Resonance Regions}
+\section{Elastic Scattering}
 When the momentum transfer, or more specifically $Q^2$, is low, there is a higher probability that the lepton (at JLab, that lepton is an electron) essentially bounces off of the target particle (typically a nucleon) in what is known as elastic scattering. Whatever momentum is transferred does not force the nucleon into excited states (called resonances) or break it apart entirely (deep inelastic scattering). In a situation like Fig. \ref{fig:feyn_epscatt} when scattering elastically
 \begin{equation}
 k+p \longrightarrow k' + p'
@@ -161,9 +161,9 @@ where we neglect the small electron mass, $M_p$ is the mass of the proton, $E$ i
 \begin{equation}
 |\mathcal{M}_{fi}|^2 = |\bra{f} \mathcal{M} \ket{i}|^2,
 \end{equation}
-which means that we find the modulus squared expectation value of the observable $\mathcal{M}$ for the initial and final states. This must be averaged over initial spin states of the modulus squared of the scattering amplitudes and the summed over the final spin states of $|\mathcal{M}|^2$. Mathematically, using $s_1$ and $s_2$ for initial spin states and $s_3$ and $s_4$ for final spin states, it can be expressed as
+which means that we find the modulus squared expectation value of the observable $\mathcal{M}$ for the initial and final states. If the polarizations are not observed, this must be averaged over initial spin states of the modulus squared of the scattering amplitudes and the summed over the final spin states of $|\mathcal{M}|^2$. Mathematically, using $s$ and $S$ for initial spin states of the electron and proton respectively and $s'$ and $S'$ for final spin states, it can be expressed as
 \begin{equation}
-|\mathcal{M}_{fi}|^2 = \frac{1}{2} \frac{1}{2} \sum_{s_1 s_2} \sum_{s_3 s_4} |\mathcal{M}|^2,
+|\mathcal{M}_{fi}|^2 = \frac{1}{2} \frac{1}{2} \sum_{s,S} \sum_{s',S'} |\mathcal{M}|^2,
 \end{equation}
 where $\mathcal{M}$ is the scattering probability amplitude. 
 
@@ -176,26 +176,244 @@ where $\mathcal{M}$ is the scattering probability amplitude.
 
 The scattering probability amplitude cannot be known exactly because of the processes beyond the first order (tree level) that could occur in Fig. \ref{fig:feyn_epscatt} at the proton-$\gamma^{*}$ vertex blob (these contributions can be seen in Fig. \ref{fig:feyn_sum}). However, we can handle the mathematical description of these processes by expressing the scattering probability amplitude matrix it in terms of the leptonic and hadronic tensors, we have
 \begin{equation}
+\label{eqn:el_M2}
 |\mathcal{M}|^2 = \frac{e^4}{Q^4} \ell_{\mu\nu} W^{\mu \nu}.
 \end{equation}
 The leptonic tensor $\ell_{\mu\nu}$ is associated with the coupling of the virtual photon to the electron (more generally the coupling of the exchange boson to the lepton), and for unpolarized scattering can be expressed as
 \begin{equation}
 \label{eqn:lep_tens}
-\ell_{\mu\nu} = \bar{u}(k')\gamma^{\mu}u(k) \bar{u}(k) \gamma^{\nu} u(k').
+\ell_{\mu\nu} = \bar{u}(k',s')\gamma^{\mu}u(k,s) \bar{u}(k,s) \gamma^{\nu} u(k',s').
 \end{equation}
-The $u(k)$ is the Dirac spinor. For the electron, there are two spin states ($i.e.$ up or down) so there are two associated spinors that could exist here
+The term $u(k)$ is the Dirac spinor. For the electron (a spin-$1/2$ fermion), there are two spin states ($i.e.$ up or down) so there are two associated spinors that could exist here
 \begin{equation}
-u_{\uparrow} = \left( \begin{array}{c} 1 \\ 0 \\ 0 \\ 0 \end{array} \right) \; \; \mathrm{and} \; \;
-u_{\downarrow} = \left( \begin{array}{c} 0 \\ 1 \\ 0 \\ 0 \end{array} \right)
+u_{\uparrow}(k) = \left( \begin{array}{c} 1 \\ 0 \\ \frac{k_z}{E+m} \\ \frac{k_x+ik_y}{E+m} \end{array} \right) \; \; \mathrm{and} \; \;
+u_{\downarrow}(k) = \left( \begin{array}{c} 0 \\ 1 \\ \frac{k_x-ik_y}{E+m} \\ \frac{-k_z}{E+m} \end{array} \right).
 \end{equation}
+In Eq. \ref{eqn:lep_tens}, $\gamma^{\mu}$ are the gamma matrices. When summed and averaged over spins, the leptonic tensor becomes
+\begin{eqnarray}
+\nonumber
+\ell_{\mu\nu} &=& \mathrm{Tr} \left[ \frac{\slashed{k}'+m}{2m} \gamma^{\mu} \frac{\slashed{k}+m}{2m} \gamma^{\nu} \right] \\
+\nonumber
+&=& \frac{1}{m^2} \mathrm{Tr} (\slashed{k}'\gamma^{\mu}\slashed{k}\gamma^{\nu} + m^2\gamma^{\mu}\gamma^{\nu}) \\
+&=& 2 (k'^{\mu}k^{\nu} + k^{\mu}k'^{\nu} - g^{\mu\nu}k' \cdot k).
+\end{eqnarray}
+Thus far we have from Eq. \ref{eqn:el_M2}
+\begin{equation}
+|\mathcal{M}|^2 = \frac{e^4}{Q^4} 2 (k'^{\mu}k^{\nu} + k^{\mu}k'^{\nu} - g^{\mu\nu}k' \cdot k) W^{\mu \nu},
+\end{equation}
+where $g{\mu\nu}$ is the metric tensor.
 
-As $Q^2$ increases, there is a highly likelihood that the quarks within the nucleon become excited 
+We must now take a look at the hadronic tensor $W^{\mu\nu}$, which is more complicated because we must take into account for the proton's structure. In fact, the hadronic tensor cannot be known exactly. It can, however, be expanded to the second order as
+\begin{equation}
+W^{\mu\nu} = \bra{p}J^{\nu}\ket{p'}\bra{p'}J^{\mu}\ket{p},
+\end{equation}
+which depends on the $J^{\mu}$ current matrix elements. That current between two nucleon states
+\begin{equation}
+\bra{p}J^{\mu}(0)\ket{p'} = \bar{U}(p')\left[ F_1(Q^2)\gamma^{\mu}+F_2(Q^2)\frac{i\sigma^{\mu\nu}}{2M_N} \right]U(p)
+\end{equation}
+gives rise to two form factors, $F_1(Q^2)$ which is called the Dirac form factor and $F_2(Q^2)$ called the Pauli form factor. Here $\sigma^{\mu\nu}=\tfrac{i}{2}[\gamma^{\mu},\gamma^{\nu}]$ and we denote the difference between the lower-case $u(k,s)$ electron spinors from Eq. \ref{eqn:lep_tens} and upper-case $U(p)$ nucleon spinors. If we introduce the more physically interesting Sach's electric and magnetic form factors respectively
+\begin{equation}
+\nonumber
+G_E(Q^2) = F_1(Q^2) + \frac{Q^2}{4M_N^2} F_2(Q^2)
+\end{equation}
+\begin{equation}
+\nonumber
+G_M(Q^2) = F_1(Q^2) + F_2(Q^2),
+\end{equation}
+then the hadronic tensor can be written as
+\begin{eqnarray}
+\nonumber
+W^{\mu\nu} &=& 2(p'^{\mu}p^{\nu} + p'^{\nu}p^{\mu} - g^{\mu\nu}(pp'-M_N^2))G_M^2 \\
+\nonumber
+&&- 2F_2G_M(p+p')^{\mu}(p+p')^{\nu}+F_2^2\frac{M_N^2+p \cdot p'}{2M_N^2}(p+p')^{\mu}(p+p')^{\nu} \\
+\nonumber
+&=& (-q^{\mu}q^{\nu}+g^{\mu\nu}q^2)G_M^2+(p+p')^{\mu}(p+p')^{\nu}\frac{G_E^2+\tau G_M^2}{1+\tau} \\
+&=& g^{\mu\nu}q^2G_M^2+4p^{\mu}p^{\nu}\frac{G_E^2+\tau G_M^2}{1+\tau} + ...,
+\end{eqnarray} 
+where we define $\tau = Q^2/4M_N^2$ to simplify the expression. Because of current conservation, the terms contain factors of $q^{\mu}$ are omitted with the ellipses, since they do not contribute to the cross section.
+
+Substituting our expressions for the leptonic and hadronic tensors for elastic scattering in the lab frame and contracting them, we arrive at
+\begin{equation}
+\label{eqn:el_cs}
+\frac{d\sigma}{d\Omega} = \left( \frac{d\sigma}{d\Omega} \right)_{\mathrm{Mott}} f_{\mathrm{rec}} \left[ \frac{G_E^2(Q^2) + \tau G_M^2(Q^2)}{1+\tau} + 2\tau G_M^2 \tan \frac{\theta}{2} \right],
+\end{equation}
+where $\left( \tfrac{\mathrm{d}\sigma}{\mathrm{d}\Omega} \right)_{\mathrm{Mott}}$ comes from Eq.\ref{eqn:mott} ($i.e.$ the Mott cross section) and $f_{\mathrm{rec}}$ is the recoil factor equal here to $E'/E$. As $Q^2$ gets very high, $\tau$ increases and magnetic form factor $G_M(Q^2)$ dominates. This gives a more physical description of the elastic scattering cross section in terms of kinematic variables that can be measured through scattering experiments.
+
+One more kinematic variable that needs to be introduced offers insight into cases when scattering enters into inelastic regimes. The invariant mass squared $W^2$ (not to be confused with the hadronic tensor $W^{\mu\nu}$) of the photon-nucleon system, is defined mathematically as 
+\begin{equation}
+W^2 = (q+p)^2 =M_N^2 + 2M_N\nu - Q^2,
+\end{equation}
+where $\nu = E-E'$ is the energy transfered from the electron to the nucleon via virtual photon ($\gamma^*$). In the elastic scattering case , $W^2 = M_N^2$, because $Q^2$ and thus $\nu$ tend to be small ($i.e.$ $E << M_N$). As $Q^2$ increases, instead of simply bouncing off of the nucleon, the energy transfered to the nucleon begins changing the state of the quarks within the nucleon. 
+
+\section{Resonance Region}
+Changing the state of a quark within the nucleon results in excited states of that nucleon, called \textit{resonances}. The region where resonances occur is $M_N^2 < W^2 < 4 \; \mathrm{GeV}^2$, and is called the \textit{resonance region}. There are 6 families of resonances that depend on the characteristics of the resonant particles. Particles containing only $u$ and $d$ quarks whose isospin $I= \tfrac{1}{2}$ are denoted by $N$. The $\Delta$ family of resonances also have only $u$ and $d$ quarks, but have $\tfrac{3}{2}$ isospin. When $I=0$ and the particle contains $u$, $d$ and one $c$, $s$, or $b$ quark, it is called a $\Lambda$ resonance. The $\Sigma$ resonance also has $u$, $d$ plus one $c$, $s$, or $b$ quark, but with $I=1$. When only one $u$ or $d$ quark exists with two $c$, $s$, or $b$ quarks with $I=\tfrac{1}{2}$, it is a $\Xi$ resonance. Finally, when $I=0$ and only $c$, $s$, or $b$ quarks are present, it is known as an $\Omega$ resonance.
+
+Unlike the ground state of nucleons, these excited states are extremely short lived (on the order of $10^{-23}$ seconds). After their short life, these resonances decay into more stable hadrons. Detection of the these hadrons is what provides proof of the existence of resonant states. For example, a common resonance $\Delta^0(1232)$, which is the lowest lying resonance with a mass of $1.232$ GeV, predominately decays via the strong interaction into a pion ($\pi^0$) and a neutron ($n$). The entire interaction begins at the first step of creating an excited state
+\begin{equation}
+p+e^- \longrightarrow \Delta^0
+\end{equation}
+then decays into
+\begin{equation}
+\Delta^0 \longrightarrow \pi^0 + n.
+\end{equation}
+However, because these resonances are so short-lived, it is convention to express the entire interaction as
+\begin{equation}
+\label{eqn:delta_res}
+p+e^- \longrightarrow \pi^0 + n.
+\end{equation}
+One reason for this convention is that there are many resonances that can produce the same end particles ($i.e.$ $\pi^0$ and $n$ in our example). Knowing exactly what resonance produced those end particles can be difficult. In the example of Eq. \ref{eqn:delta_res}, the $\Delta^0$ has the same quark makeup as the neutron ($i.e.$ $udd$), but is much heavier. Measuring the invariant mass of the resulting particles is one of the few ways to understand what resonance occurred. 
+
+Similar to elastic scattering, interactions with resonances can be described using form factors. The analogous cross section is
+\begin{equation}
+\frac{d\sigma}{d\Omega} = \left( \frac{d\sigma}{d\Omega} \right)_{\mathrm{Mott}} f_{\mathrm{rec}} \left( \frac{|G_E|^2+\tau^*|G_T|^2}{1+\tau^*} + 2\tau^* |G_T|^2 \tan^2 \frac{\theta}{2} \right) R(W),
+\end{equation}
+where $f_{\mathrm{rec}}$ is the recoil factor of the proton, $\tau^*$ is the analogous kinematic quantity of $\tau$ from elastic scattering, $G_E$ and $G_T$ are the resonance longitudinal and transverse form-factors respectively, and $R(W)$ is called the resonance line shape. In inelastic scattering of resonances
+\begin{equation}
+f_{\mathrm{rec}} = \frac{E'}{E} \left[ \frac{1}{1-\frac{(W_R^2 - M_N^2)}{2M_NE}} \right],
+\end{equation}
+\begin{equation}
+\tau^* |G_T|^2 = \frac{1}{2}(|G_+|^2 + |G_-|^2),
+\end{equation}
+and
+\begin{equation}
+R(W) = \frac{2\pi^{-1}W_R M_N \Gamma_R}{(W^2-W_R^2)^2 + W_R^2 \Gamma_R^2}.
+\end{equation}
+The quantities $W_R$ and $\Gamma_R$ refer to the resonance mass and width respectively. If the resonance width is small enough ($i.e.$ when $W_R=M_N$ and $W_R \Gamma_R \rightarrow 0$), $R(W)$ becomes a $\delta$-function and the resonance cross section reduces to that of an elastic cross section. 
+
+At low $Q^2$, we can describe interactions by constituent quarks models. At high $Q^2$ we enter a region best described with perturbative quantum chromodynamics (pQCD). We will discuss more about pQCD in a later section. The resonant region is an important bridge between these two regimes. Determining resonance form factors allows us to describe the resonance transition the same way elastic form factors describes elastic interactions.
 
 \section{Deep Inelastic Scattering}
+Once the energy transfered to the nucleon ($Q^2$) becomes large enough, the probability of creating excited (resonance) states decreases and there becomes a higher probability of the virtual photon ``elastically" scattering off a quark inside the nucleon. This is known as \textit{deep} inelastic scattering. This happens around when $W > 2$ MeV and $Q^2 > 1$ $\mathrm{GeV}^2$ in an area known as the \textit{continuum}. In this regime we can probe the inner structure of the nucleon. 
 
-\section{The Quark-Parton Model}
-\section{Quantum Chromodynamics}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.6\linewidth]{figures/feyn_inelscatt.png}
+	\caption{Feynman diagram of an inelastic electron scattering from a proton.}
+	\label{fig:feyn_inelscatt}
+\end{figure}
+
+However, because the energy transfer is so high, the proton often breaks apart in the interaction
+\begin{equation}
+ep \longrightarrow eX,
+\end{equation}
+where $X$ denotes all possible particles that might emerge from the proton-electron collision. The Feynman diagram also must be altered from Fig. \ref{fig:feyn_epscatt} to Fig. \ref{fig:feyn_inelscatt}, where $X$ again represents all possible emerging particles. The other change from elastic and inelastic resonance-region scattering is to the cross section. This deep-inelastic scattering cross section can be written as
+\begin{equation}
+\frac{d\sigma}{dE'\Omega} = \frac{4\alpha^2E'^2}{q^4} W_2(\nu,Q^2)\cos^2\frac{\theta}{2} +2W_1(\nu,Q^2) \sin^2 \frac{\theta}{2},
+\end{equation}
+where $W_1$ and $W_2$ are called inelastic structure functions. These structure functions are the analogs to the form factors in Eq. \ref{eqn:el_cs} for elastic scattering. There is much more to discuss about deep-inelastic scattering, but first we must discuss how to treat scattering off of quarks (or more broadly, partons) within a nucleon with an approach called \textit{scaling}.
+
+\section{Partons and Bjorken-Scaling}
+The way we probe inside nucleons is with the exchange of small wavelength (large $Q^2$) virtual photons, which break apart the proton. This can be handled using the inelastic structure functions $W_1$ and $W_2$, which are functions of the energy lost by the electron due to proton recoil ($i.e.$ $\nu$) and the negative four-momentum squared of the virtual photon ($i.e.$ $Q^2$). When the virtual photon has a small enough wavelength (large enough $Q^2$), the nucleon that was once described by Eq. \ref{eqn:el_cs} starts to look more like a free Dirac particle described by
+\begin{equation}
+\label{eqn:quark_scatt}
+\frac{d\sigma}{dE'd\Omega} = \frac{4 \alpha^2 e_q^2 E'^2}{q^4} \left( \cos^2 \frac{\theta}{2} - \frac{q^2}{2m^2}\sin^2 \frac{\theta}{2} \right) \delta \left( \nu + \frac{q^2}{2m} \right).
+\end{equation} 
+Remarkably, this is the equation for an electron elastic scattering from a structureless particle. Here $e_q$ is the fractional charge of that structureless particle and $m$ is that particle's mass. This particle inside the nucleon was eventually called a quark.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth]{figures/inel_to_dis.png}
+	\caption{The transition from inelastic scattering to deep inelastic scattering of a virtual photon and the quark within a nucleon.}
+	\label{fig:feyn_inel_to_dis}
+\end{figure}
+
+In this case, where the photon elastically scatters off of a quark within the nucleon described by Eq. \ref{eqn:quark_scatt}, the nucleon structure functions become
+\begin{equation}
+\label{eqn:dis_sf_1}
+2W_1^{\mathrm{point}} = \frac{Q^2}{2m^2} \delta \left( \nu - \frac{Q^2}{2m} \right)
+\end{equation}
+and
+\begin{equation}
+\label{eqn:dis_sf_2}
+W_2^{\mathrm{point}} = \delta \left( \nu - \frac{Q^2}{2m} \right).
+\end{equation}
+Here and thus in Eq. \ref{eqn:quark_scatt} there exists the delta function that conserves energy in the interaction. Fig. \ref{fig:feyn_inel_to_dis} shows the resulting diagram when we take the right side of Fig. \ref{fig:feyn_inelscatt} (the left side of Fig. \ref{fig:feyn_inel_to_dis}) and begin to probe a single quark inside the nucleon (the right side of Fig. \ref{fig:feyn_inel_to_dis}). This reduction is representative of the electron elastically scattering off a quark in the nucleon.
+
+If we take Eq. \ref{eqn:dis_sf_1} and \ref{eqn:dis_sf_2}, using the identity $\delta(x/a) = a\delta(x)$, we can write
+\begin{equation}
+\nonumber
+2mW_1^{\mathrm{point}}(\nu,Q^2) = \frac{Q^2}{2m\nu} \delta \left( 1- \frac{Q^2}{2m\nu} \right)
+\end{equation}
+\begin{equation}
+\nu W_2^{\mathrm{point}}(\nu,Q^2) = \delta \left( 1- \frac{Q^2}{2m\nu} \right).
+\end{equation}
+These equations for the structure functions are now dimensionless and depend on only the ratio $Q^2/2m\nu$, which is both important and useful. That usefulness is as follows: when $Q^2$ is high enough, the virtual photon begins to elastically scatter off of structureless (point) particles  within the nucleon and can be described using the dimensionless structure functions
+\begin{equation}
+\nonumber
+MW_1(\nu,Q^2) \xrightarrow[\text{large $Q^2$}]{} F_1(x_B)
+\end{equation}
+\begin{equation}
+\nu W_2(\nu,Q^2) \xrightarrow[\text{large $Q^2$}]{} F_2(x_B).
+\end{equation}
+Here $x_B$ is introduced as the Bjorken-$x$ scaling variable defined as
+\begin{equation}
+x_B = \frac{Q^2}{2M\nu},
+\end{equation}
+which describes the momentum fraction of a quark or gluon within a nucleon. Up to this point, we have only been discussing interactions between the virtual photon and the quarks within the nucleon, but that virtual photon can also interact with gluons that exits in the nucleon. Collectively, these quarks and gluons in the nucleon are known as partons. The Bjorken-$x$ scaling variable can describe the momentum fraction of any parton within a nucleon.
+
+The relationship between the structure functions $F_1(x_B)$ and $F_2(x_B)$ is
+\begin{equation}
+2x_B F_1(x_B) = F_2(x_B) = \sum_i e_i^2 f_i (x_B), 
+\end{equation} 
+where in the right side of this expression we have a sum over partons (the parton index is $i$) of the square of that parton's charge squared ($e_i^2$) times $f_i(x_B)$ known at the parton distribution function. The parton distribution function (or PDF) 
+\begin{equation}
+f_i(x_B) = \frac{dP_i}{dx_B}
+\end{equation}
+describes the probability $P_i$ that a struck parton $i$ carries a fraction ($x_B$) of the nucleon's momentum.
+
+Because $F_1(x_B)$ can be calculated using $F_2(x_B)$ using the Callan-Gross relation $2x_B F_1(x_B) = F_2(x_B)$, the $F_2$ structure function is the more important term here to examine experimentally and is of interest in the BONuS12 Experiment. For deep-inelastic electron-proton scattering, the $F_2^p(x_B)$ structure function is
+\begin{eqnarray}
+\label{eqn:F_p}
+\frac{1}{x_B} F_2^p(x_B) &=& \left( \frac{2}{3} \right)^2 [u^p(x_B)+\bar{u}^p(x_B)] + \left( \frac{1}{3} \right)^2 [d^p(x_B)+\bar{d}^p(x_B)] \\
+&& + \left( \frac{1}{3} \right)^2 [s^p(x_B)+\bar{s}^p(x_B)],
+\end{eqnarray}
+where $p$ superscript denotes that we are dealing with the proton structure, and the PDF $f_i(x_B)$ is replaced with the first letter of the quark name ($e.g.$ the up quark and antiquark PDF's are denoted as $u^p(x_B)$ and $\bar{u}^p(x_B)$ respectively). The contributions of quarks heavier than the strange quark have been assumed to be negligible here. The neutron structure function $F-2^n(x)$, where we have dropped the $B$ in $x_B$, is
+\begin{eqnarray}
+\label{eqn:F_n}
+\frac{1}{x} F_2^n(x) &=& \left( \frac{2}{3} \right)^2 [u^n(x)+\bar{u}^n(x)] + \left( \frac{1}{3} \right)^2 [d^n(x)+\bar{d}^n(x)] \\
+&& + \left( \frac{1}{3} \right)^2 [s^n(x)+\bar{s}^n(x)].
+\end{eqnarray}
+This looks similar to the $F_2^p$ structure function because the proton and neutron are together part of an isospin doublet. When particles are members of an isospin doublet, they can transform into each other under an $SU(2)$ transformation
+\begin{equation*}
+\begin{pmatrix}
+p \\ n 
+\end{pmatrix}
+\xrightarrow[\text{$SU(2)$}]{}
+\exp \left( -\frac{i}{2}\theta_a \sigma_a \right)
+\begin{pmatrix}
+p \\ n
+\end{pmatrix},
+\end{equation*}
+where $p$ and $n$ are proton and neutron states, and $\sigma_a$ are the Pauli matrices. This transformation means that the quark contents of the proton and neutron are related.
+
 \section{Nucleon Structure-Function Ratio $F^2_n/F^2_p$}
+We can exploit this relation between quark contents of protons and neutrons to study the structure of nucleons, in particular the neutron structure. That relationship between quark contents means
+\begin{eqnarray}
+\nonumber
+u^p(x) &=& d^n(x) \equiv u(x), \\
+d^p(x) &=& u^n(x) \equiv d(x), \\
+\nonumber
+s^p(x) &=& s^n(x) \equiv s(x). \\
+\end{eqnarray}
+Each nucleon consists not only of $u_v$ and $d_v$ quarks that determine the quantum numbers of the nucleon (called \textit{valence} quarks, hence the subscript $v$), but many quark-antiquark pairs in a constant state of creation and annihilation (known as \textit{sea} quarks). In the first order approximation, we can assume that the lighter quark-antiquark pairs $u_s\bar{u}_s$, $d_s\bar{d}_s$, and $s_s\bar{s}_s$ contribute to this "sea" and we can neglect contributions from the heavier quark-antiquark pairs $c_s\bar{c}_s$ and so on.
+
+This approximation of the nucleon structure results in adding the sea quarks to the contributions of each quark type. That is
+\begin{eqnarray}
+\nonumber
+u(x) &=& u_v(x) + u_s(x), \\
+d(x) &=& d_v(x) + u_s(x), \\
+u_s(x) &=& \bar{u}_s(x) = d_s(x) = \ bar{d}_s(x) = s_s(x) = \bar{s}_s(x) = S(x),
+\end{eqnarray}
+where we now use $S(x)$ for all sea quark contributions. If we combine this relationship with our expressions for the proton and neutron structure functions Eq. \ref{eqn:F_p} and Eq. \ref{eqn:F_n} respectively, we get
+\begin{equation}
+\frac{1}{x} F_2^p = \frac{1}{9}[4u_v + d_v] + \frac{4}{3} S
+\end{equation}
+and 
+\begin{equation}
+\frac{1}{x} F_2^n = \frac{1}{9}[u_v + 4d_v] + \frac{4}{3} S,
+\end{equation}
+where the $\tfrac{4}{3}$ comes from summing over all six sea quark distributions. In the low $x$ limit, ADD PLOT OF QUARK CONTENT AS F'N OF X
+
 \section{Difficulties in Extracting $F^2_n/F^2_p$ from Deuterium}
 \subsection{Bound Nucleon Structure}
 \subsection{Backgrounds}
