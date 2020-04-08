@@ -15,8 +15,7 @@
 \usepackage{slashed}
 \usepackage{physics}
 \usepackage[euler]{textgreek}
-
-\input{config}
+\usepackage[scr]{rsfso}
 
 \definecolor{dkgreen}{rgb}{0,0.6,0}
 \definecolor{gray}{rgb}{0.5,0.5,0.5}
@@ -39,23 +38,22 @@
 	tabsize=3
 }
 
+\input{config}
 
 \begin{document}
 
-	
 \setrevision
-%\input{config}
-
-\addtocontents{toc}{\vspace*{12pt}}
-%\addcontentsline{TOC}{chapter}{TOC}
-\addcontentsline{toc}{chapter}{}
-
 \input{pages/vita}
 \input{pages/abstract}
-%\beforepreface
+\beforepreface
 \input{pages/preface}
-%\afterpreface
-\tableofcontents
+\afterpreface
+
+%\addtocontents{toc}{\vspace*{12pt}}
+%\addcontentsline{TOC}{chapter}{TOC}
+\addcontentsline{toc}{chapter}{toc}
+
+%\tableofcontents
 \input{chapters/01_introduction}
 \input{chapters/02_review}
 \input{chapters/03_bonus12}

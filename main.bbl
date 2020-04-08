@@ -1,20 +1,119 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{clasnote:CEBAF}
-C.~L. D.~Douglas and G.~Krafft, ``The continuous electron beam accelerator
-  facility: CEBAF at the Jefferson Laboratory,'' 2001.
+\bibitem{CJ15}
+A.~A. \textit{et al}., ``Constraints on large-$x$ parton distributions from new
+  weak boson production and deep-inelastic scattering data,'' {\em Phys.Rev.
+  D}, vol.~93, 2016.
+
+\bibitem{marathon}
+J.~{Arlignton}, ``Measurement of the $f_2^n/f_2^p$, $d/u$ ratios and a=3 emc
+  effect in deep inelastic electron scattering off the tritium and helium
+  mirror nuclei,'' {\em Jefferson Lab PAC37 Proposal}, 2010.
+
+\bibitem{emc1}
+J.~A. \textit{et al}., ``A measurement of the ratio of the nucleon structure
+  function in copper and deuterium,'' {\em Z. Phys. C}, vol.~57, p.~211, 1993.
+
+\bibitem{emc2}
+J.~G. \textit{et al}., ``Measurement of the a-dependence of deep inelastic
+  electron scattering,'' {\em Phys. Rev D}, vol.~49, p.~4348, 1994.
 
 \bibitem{clasnote:EC_geo}
 G.~{Gilfoyle} and K.~Sherman, ``Geometry update for the electromagnetic
-  calorimeter in CLAS12,'' {\em CLAS12 Note 2014-008}, 2014.
+  calorimeter in {CLAS}12,'' {\em CLAS12 Note 2014-008}, 2014.
 
-\bibitem{physrep:resonance}
-P.~{Stoler}, ``Baryon form factors at high $Q^2$ and the transition to
-  perturbative QCD,'' {\em Physics Report}, vol.~226, pp.~103--171, 1993.
+\bibitem{book:dalton}
+J.~{Dalton}, {\em A New system of chemical philosophy}.
+\newblock London, 1808.
+
+\bibitem{crookes}
+R.~Carlitz, ``On radiant matter,'' {\em The Popular Science Monthly D},
+  vol.~16, 1880.
+
+\bibitem{thomson}
+J.~Thomson, ``Cathode rays,'' {\em The Electrician}, vol.~39, 1897.
+
+\bibitem{book:rutherford1}
+E.~{Rutherford}, {\em Radioactive Transformations}.
+\newblock Charles Shribner's Sons, 1906.
+
+\bibitem{book:rutherford2}
+E.~{Rutherford}, {\em Radioactive Substances and their radiations}.
+\newblock Cambridge, 1913.
+
+\bibitem{einstein}
+A.~Einstein, ``On a heuristic viewpoint concerning the production and
+  transformation of light,'' {\em Annalen der Physik}, vol.~322, 1905.
+
+\bibitem{book:parts_nucs}
+B.~P. \textit{et al}., {\em {Particles} and {Nuclei}: An Introduction to
+  Physical Concepts}.
+\newblock Springer, 2008.
 
 \bibitem{book:halzen}
 F.~{Halzen} and A.~Martin, {\em Quarks and Leptons: An Introductory Course in
   Modern Particle Physics}.
 \newblock John Wiley and Sons, 1984.
+
+\bibitem{book:bjorken_drell}
+J.~{Bjorken} and S.~{Drell}, {\em Relativistic quantum mechanics}.
+\newblock McGraw-Hill, 1964.
+
+\bibitem{PDG}
+M.~T. \textit{et al}., ``{Particle Data Group},'' {\em Phys. Rev. D}, vol.~98,
+  2018.
+
+\bibitem{stoler}
+M.~T. \textit{et al}., ``Baryon form factors at high {Q}$^2$ and the transition
+  to perturbative {QCD},'' {\em Phys. Rep.}, vol.~226, 1993.
+
+\bibitem{book:close}
+F.~{Close}, {\em An Introduction to Quarks and Partons}.
+\newblock Academic Press, 1979.
+
+\bibitem{physrep:close}
+F.~Close, ``$\nu${W}$_2$ at small $\omega$′ and resonance form factors in a
+  quark model with broken {SU}(6),'' {\em Phys. Lett. B}, vol.~43, p.~422,
+  1973.
+
+\bibitem{physrep:carlitz}
+R.~Carlitz, ``{SU}(6) symmetry breaking effects in deep inelastic scattering,''
+  {\em Phys. Lett. B}, vol.~58, p.~345, 1975.
+
+\bibitem{physrep:insgur1}
+N.~Isgur, ``Violations of {SU}(6) selection rules from quark hyperfine
+  interactions,'' {\em Phys. Rev. Lett}, vol.~41, pp.~1269--1272, 1978.
+
+\bibitem{physrep:insgur2}
+N.~{Insgur}, ``Valence quark spin distribution functions,'' {\em Physical
+  Review D}, vol.~59, p.~034013, 1999.
+
+\bibitem{physlett:farrar}
+G.~{Farrar} and D.~{Jackson}, ``Pion and nucleon structure functions near
+  $x=1$,'' {\em Phys. Rev. Lett.}, vol.~35, p.~1416, 1975.
+
+\bibitem{brodsky}
+S.~B. \textit{et al}., ``Perturbative {QCD} constraints on the shape of
+  polarized quark and gluon distributions,'' {\em Nucl. Phys. B}, vol.~441,
+  pp.~197--214, 1995.
+
+\bibitem{emc_rev}
+D.~G. \textit{et al}., ``The nuclear emc effect,'' {\em Ann. Rev. Nucl. Part.
+  Sci}, vol.~45, pp.~337--390, 1995.
+
+\bibitem{spec_tag}
+M.~{Sargsian} and M.~Strickman, ``Model independent method for determination of
+  the {DIS} structure of free neutron,'' {\em Phys.Lett. B}, vol.~639, p.~223,
+  2006.
+
+\bibitem{FSI}
+C.~C. \textit{et al.}, ``Hadronization and final state interaction effects in
+  semi-exclusive deep inelastic scattering off nuclei,'' {\em Eur. Phys. Jour.
+  A}, vol.~19, pp.~133--137, 2004.
+
+\bibitem{clasnote:CEBAF}
+D.~D. \textit{et al}., ``{The Continuous Electron Beam Accelerator Facility:
+  CEBAF at the Jefferson Laboratory},'' {\em Annu. Rev. Nucl. Part. Sci. 2001},
+  vol.~51, pp.~413--450, 2001.
 
 \end{thebibliography}
