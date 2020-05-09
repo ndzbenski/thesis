@@ -1,0 +1,41 @@
+\chapter{DMS Garfield++ Code Snippet}
+\label{apdx:B}
+
+\begin{lstlisting} 
+// Setup the gas
+MediumMagboltz* gas = new MediumMagboltz();
+gas->SetComposition("He",80.,"CO2",20.);
+gas->SetTemperature(293.);
+gas->SetPressure(760.);
+gas->EnableDrift();             // Allow for drifting in this medium
+gas->PrintGas();
+
+// Build the geometry
+GeometrySimple* geo = new GeometrySimple();
+SolidBox* box = new SolidBox(L_x/2., L_y/2., L_z/2., L_x/2., L_y/2., L_z/2.);
+geo->AddSolid(box, gas);
+
+// Make a component with analytic electric field
+ComponentAnalyticField* comp = new ComponentAnalyticField();
+comp->SetGeometry(geo);
+
+// Create a sensor for readouts
+Sensor* sensor = new Sensor();
+sensor->AddComponent(comp);
+
+// Create grounded planes at the edges of the box
+comp->AddPlaneX(0.,0.,"x_min");
+comp->AddPlaneX(L_x,0.,"x_max");
+comp->AddPlaneY(0.,0.,"y_min");
+comp->AddPlaneY(L_y,0.,"y_max");
+
+comp->AddReadout("x_min");
+comp->AddReadout("x_max");
+comp->AddReadout("y_min");
+comp->AddReadout("y_max");
+
+sensor->AddElectrode(comp, "x_min");
+sensor->AddElectrode(comp, "x_max");
+sensor->AddElectrode(comp, "y_min");
+sensor->AddElectrode(comp, "y_max");
+\end{lstlisting}

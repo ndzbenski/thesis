@@ -1,5 +1,5 @@
 \noindent Table\hfill Page\par 
-\contentsline {table}{\numberline {I}{\ignorespaces Lund file header\relax }}{54}{table.caption.29}
-\contentsline {table}{\numberline {II}{\ignorespaces Lund particles\relax }}{55}{table.caption.30}
-\contentsline {table}{\numberline {III}{\ignorespaces Summary of calibrations done for Run Group A.\relax }}{72}{table.caption.41}
-\contentsline {table}{\numberline {IV}{\ignorespaces Summary of binning in $x$ and $y$.\relax }}{83}{table.caption.57}
+\contentsline {table}{\numberline {I}{\ignorespaces Lund file header\relax }}{62}{table.caption.40}
+\contentsline {table}{\numberline {II}{\ignorespaces Details about each simulated particle in an event (Lund format).\relax }}{63}{table.caption.41}
+\contentsline {table}{\numberline {III}{\ignorespaces Summary of calibrated runs for Run Group A. The run number on the far-left column is the run that represents the calibration constants for the run range on the far right.\relax }}{82}{table.caption.56}
+\contentsline {table}{\numberline {IV}{\ignorespaces Summary of binning in $x$ and $y$.\relax }}{98}{table.caption.78}

@@ -1,17 +1,16 @@
 \hfill Page\par 
 \contentsline {chapter}{\uppercase {List of Tables}}{viii}{chapter*.3}
-\contentsline {chapter}{\uppercase {List of Figures}}{xii}{chapter*.4}
+\contentsline {chapter}{\uppercase {List of Figures}}{xiv}{chapter*.4}
 \vspace *{12pt}
 \noindent Chapter
 
-\contentsline {chapter}{toc}{1}{chapter*.4}
 \contentsline {chapter}{\numberline {1.}\uppercase {Introduction}}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}\uppercase {Quantum Physics and the Standard Model in a Nutshell}}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}\uppercase {The Trouble with Understanding the Nucleon}}{4}{section.1.2}
 \contentsline {section}{\numberline {1.3}\uppercase {Scattering Experiments and BONuS12}}{5}{section.1.3}
-\contentsline {section}{\numberline {1.4}\uppercase {Inclusive Deep Inelastic Scattering Data Analysis of Run Group A Data}}{5}{section.1.4}
+\contentsline {section}{\numberline {1.4}\uppercase {Data Analysis of CLAS12 First Experiment Data}}{6}{section.1.4}
 \contentsline {chapter}{\numberline {2.}\uppercase {Physics Formalism}}{7}{chapter.2}
-\contentsline {section}{\numberline {2.1}\uppercase {Nucleon Structure}}{7}{section.2.1}
+\contentsline {section}{\numberline {2.1}\uppercase {Nucleon Structure}}{8}{section.2.1}
 \contentsline {section}{\numberline {2.2}\uppercase {Electron-Scattering Kinematics}}{10}{section.2.2}
 \contentsline {section}{\numberline {2.3}\uppercase {Elastic Scattering}}{14}{section.2.3}
 \contentsline {section}{\numberline {2.4}\uppercase {Resonance Region}}{18}{section.2.4}
@@ -19,52 +18,58 @@
 \contentsline {section}{\numberline {2.6}\uppercase {Partons and Bjorken-Scaling}}{21}{section.2.6}
 \contentsline {section}{\numberline {2.7}\uppercase {Nucleon Structure-Function Ratio $F^2_n/F^2_p$}}{24}{section.2.7}
 \contentsline {section}{\numberline {2.8}\uppercase {Models and Predictions}}{26}{section.2.8}
-\contentsline {section}{\numberline {2.9}\uppercase {Difficulties in Extracting $F_2^n/F_2^p$ from Deuterium}}{29}{section.2.9}
+\contentsline {section}{\numberline {2.9}\uppercase {Difficulties in Extracting $F_2^n/F_2^p$ from Deuterium}}{28}{section.2.9}
 \contentsline {section}{\numberline {2.10}\uppercase {Spectator Tagging}}{30}{section.2.10}
 \contentsline {subsection}{\numberline {2.10.1}\uppercase {Impulse Approximation}}{32}{subsection.2.10.1}
 \contentsline {subsection}{\numberline {2.10.2}\uppercase {Minimizing Final State Interactions}}{33}{subsection.2.10.2}
 \contentsline {chapter}{\numberline {3.}\uppercase {The BONuS12 Experiment}}{36}{chapter.3}
-\contentsline {section}{\numberline {3.1}\uppercase {Continuous Electron Beam Accelerator Facility}}{36}{section.3.1}
+\contentsline {section}{\numberline {3.1}\uppercase {Continuous Electron Beam Accelerator Facility}}{37}{section.3.1}
 \contentsline {section}{\numberline {3.2}\uppercase {CEBAF Large Acceptance Spectrometer}}{37}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}\uppercase {Torus Magnet}}{38}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.1}\uppercase {Torus Magnet}}{39}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}\uppercase {Cherenkov Counters}}{39}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}\uppercase {Drift Chambers}}{40}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}\uppercase {Forward Time of Flight}}{40}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.4}\uppercase {Forward Time of Flight}}{41}{subsection.3.2.4}
 \contentsline {subsection}{\numberline {3.2.5}\uppercase {Electromagnetic Calorimeter}}{41}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}\uppercase {Solenoid Magnet}}{42}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}\uppercase {Central Time of Flight}}{42}{subsection.3.2.7}
-\contentsline {section}{\numberline {3.3}\uppercase {BONuS12 RTPC}}{42}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}\uppercase {Components and their Purpose}}{43}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}\uppercase {BONuS12 RTPC Drift-gas Monitoring System}}{45}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}\uppercase {Construction and Integration}}{47}{subsection.3.3.3}
-\contentsline {chapter}{\numberline {4.}\uppercase {Simulation and Development}}{49}{chapter.4}
-\contentsline {section}{\numberline {4.1}\uppercase {Geant4 Monte Carlo (GEMC)}}{49}{section.4.1}
-\contentsline {section}{\numberline {4.2}\uppercase {Garfield++}}{50}{section.4.2}
-\contentsline {section}{\numberline {4.3}\uppercase {BONuS12 RTPC Simulations}}{50}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}\uppercase {Geometry $\&$ Materials}}{51}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}\uppercase {Event Generator}}{53}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}\uppercase {Drift Electrons}}{55}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}\uppercase {Gas Optimization}}{57}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}\uppercase {Drift Equations}}{61}{subsection.4.3.5}
-\contentsline {section}{\numberline {4.4}\uppercase {DMS Simulations}}{63}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}\uppercase {Geometry}}{63}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}\uppercase {Electric Field}}{65}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}\uppercase {Drift Velocity}}{67}{subsection.4.4.3}
-\contentsline {chapter}{\numberline {5.}\uppercase {Data Analysis}}{69}{chapter.5}
-\contentsline {section}{\numberline {5.1}\uppercase {CLAS12 Offline Software}}{69}{section.5.1}
-\contentsline {section}{\numberline {5.2}\uppercase {Calibration}}{71}{section.5.2}
-\contentsline {section}{\numberline {5.3}\uppercase {Fiducial Cuts}}{73}{section.5.3}
-\contentsline {section}{\numberline {5.4}\uppercase {Kinematic Cuts}}{74}{section.5.4}
-\contentsline {section}{\numberline {5.5}\uppercase {Binning and Acceptance}}{82}{section.5.5}
-\contentsline {section}{\numberline {5.6}\uppercase {Faraday Cup and Integrated Luminosity}}{83}{section.5.6}
-\contentsline {section}{\numberline {5.7}\uppercase {Cross section}}{86}{section.5.7}
-\contentsline {chapter}{\numberline {6.}\uppercase {Results}}{88}{chapter.6}
-\contentsline {section}{\numberline {6.1}\uppercase {RGA Cross Section}}{88}{section.6.1}
-\contentsline {section}{\numberline {6.2}\uppercase {BONuS12}}{90}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}\uppercase {DMS}}{90}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}\uppercase {RTPC}}{93}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {3.2.6}\uppercase {Faraday Cup}}{43}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}\uppercase {Solenoid Magnet}}{43}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}\uppercase {Central Time of Flight}}{43}{subsection.3.2.8}
+\contentsline {section}{\numberline {3.3}\uppercase {BONuS12 RTPC}}{44}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}\uppercase {Components and their Purpose}}{44}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}\uppercase {RTPC Construction and Integration}}{48}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}\uppercase {BONuS12 Drift-gas Monitoring System}}{51}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4.}\uppercase {BONuS12 Simulation and Development}}{57}{chapter.4}
+\contentsline {section}{\numberline {4.1}\uppercase {Geant4 Monte Carlo (GEMC)}}{57}{section.4.1}
+\contentsline {section}{\numberline {4.2}\uppercase {Garfield++}}{58}{section.4.2}
+\contentsline {section}{\numberline {4.3}\uppercase {BONuS12 RTPC Simulations}}{58}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}\uppercase {Geometry $\&$ Materials}}{59}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}\uppercase {Event Generator}}{61}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}\uppercase {Drift Electrons}}{63}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}\uppercase {Gas Optimization}}{66}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}\uppercase {Drift Equations}}{69}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}\uppercase {DMS Simulations}}{70}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}\uppercase {Geometry}}{71}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}\uppercase {Electric Field}}{72}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}\uppercase {Drift Velocity}}{76}{subsection.4.4.3}
+\contentsline {chapter}{\numberline {5.}\uppercase {Data Analysis}}{78}{chapter.5}
+\contentsline {section}{\numberline {5.1}\uppercase {CLAS12 Offline Software}}{78}{section.5.1}
+\contentsline {section}{\numberline {5.2}\uppercase {Calibration}}{81}{section.5.2}
+\contentsline {section}{\numberline {5.3}\uppercase {Christy-Bosted Model and MC Simulated Data}}{82}{section.5.3}
+\contentsline {section}{\numberline {5.4}\uppercase {Fiducial Cuts}}{83}{section.5.4}
+\contentsline {section}{\numberline {5.5}\uppercase {Kinematic and PID Cuts}}{88}{section.5.5}
+\contentsline {section}{\numberline {5.6}\uppercase {Binning and Acceptance}}{97}{section.5.6}
+\contentsline {section}{\numberline {5.7}\uppercase {Faraday Cup and Integrated Luminosity}}{98}{section.5.7}
+\contentsline {section}{\numberline {5.8}\uppercase {Differential Cross section Extraction}}{101}{section.5.8}
+\contentsline {chapter}{\numberline {6.}\uppercase {Results and Conclusions}}{102}{chapter.6}
+\contentsline {section}{\numberline {6.1}\uppercase {RGA Cross Section}}{102}{section.6.1}
+\contentsline {section}{\numberline {6.2}\uppercase {BONuS12}}{104}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}\uppercase {DMS}}{104}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}\uppercase {RTPC}}{108}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}\uppercase {Conclusions}}{112}{section.6.3}
 \vspace *{12pt}
 \noindent APPENDICES
 
+\contentsline {section}{\numberline {A.}\uppercase {DMS Engineering Drawings}}{117}{appendix.A}
+\contentsline {section}{\numberline {B.}\uppercase {DMS Garfield++ Code Snippet}}{125}{appendix.B}
+\contentsline {section}{\numberline {C.}\uppercase {RGA Cross Section Data}}{127}{appendix.C}
 \vspace *{12pt}
-\contentsline {chapter}{VITA}{100}{appendix*.80}
+\contentsline {chapter}{VITA}{133}{appendix*.111}

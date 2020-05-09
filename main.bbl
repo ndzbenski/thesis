@@ -1,27 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{CJ15}
-A.~A. \textit{et al}., ``Constraints on large-$x$ parton distributions from new
-  weak boson production and deep-inelastic scattering data,'' {\em Phys.Rev.
-  D}, vol.~93, 2016.
-
-\bibitem{marathon}
-J.~{Arlignton}, ``Measurement of the $f_2^n/f_2^p$, $d/u$ ratios and a=3 emc
-  effect in deep inelastic electron scattering off the tritium and helium
-  mirror nuclei,'' {\em Jefferson Lab PAC37 Proposal}, 2010.
-
-\bibitem{emc1}
-J.~A. \textit{et al}., ``A measurement of the ratio of the nucleon structure
-  function in copper and deuterium,'' {\em Z. Phys. C}, vol.~57, p.~211, 1993.
-
-\bibitem{emc2}
-J.~G. \textit{et al}., ``Measurement of the a-dependence of deep inelastic
-  electron scattering,'' {\em Phys. Rev D}, vol.~49, p.~4348, 1994.
-
-\bibitem{clasnote:EC_geo}
-G.~{Gilfoyle} and K.~Sherman, ``Geometry update for the electromagnetic
-  calorimeter in {CLAS}12,'' {\em CLAS12 Note 2014-008}, 2014.
-
 \bibitem{book:dalton}
 J.~{Dalton}, {\em A New system of chemical philosophy}.
 \newblock London, 1808.
@@ -46,7 +24,7 @@ A.~Einstein, ``On a heuristic viewpoint concerning the production and
   transformation of light,'' {\em Annalen der Physik}, vol.~322, 1905.
 
 \bibitem{book:parts_nucs}
-B.~P. \textit{et al}., {\em {Particles} and {Nuclei}: An Introduction to
+B.~{Povh \textit{et al}.}, {\em {Particles} and {Nuclei}: An Introduction to
   Physical Concepts}.
 \newblock Springer, 2008.
 
@@ -60,12 +38,17 @@ J.~{Bjorken} and S.~{Drell}, {\em Relativistic quantum mechanics}.
 \newblock McGraw-Hill, 1964.
 
 \bibitem{PDG}
-M.~T. \textit{et al}., ``{Particle Data Group},'' {\em Phys. Rev. D}, vol.~98,
-  2018.
+M.~{Tanabashi \textit{et al}.}, ``{Particle Data Group},'' {\em Phys. Rev. D},
+  vol.~98, 2018.
 
 \bibitem{stoler}
-M.~T. \textit{et al}., ``Baryon form factors at high {Q}$^2$ and the transition
-  to perturbative {QCD},'' {\em Phys. Rep.}, vol.~226, 1993.
+M.~{Tanabashi \textit{et al}.}, ``Baryon form factors at high {Q}$^2$ and the
+  transition to perturbative {QCD},'' {\em Phys. Rep.}, vol.~226, 1993.
+
+\bibitem{CJ15}
+A.~{Accardi \textit{et al}.}, ``Constraints on large-$x$ parton distributions
+  from new weak boson production and deep-inelastic scattering data,'' {\em
+  Phys.Rev. D}, vol.~93, 2016.
 
 \bibitem{book:close}
 F.~{Close}, {\em An Introduction to Quarks and Partons}.
@@ -85,21 +68,35 @@ N.~Isgur, ``Violations of {SU}(6) selection rules from quark hyperfine
   interactions,'' {\em Phys. Rev. Lett}, vol.~41, pp.~1269--1272, 1978.
 
 \bibitem{physrep:insgur2}
-N.~{Insgur}, ``Valence quark spin distribution functions,'' {\em Physical
-  Review D}, vol.~59, p.~034013, 1999.
+N.~Insgur, ``Valence quark spin distribution functions,'' {\em Physical Review
+  D}, vol.~59, p.~034013, 1999.
+
+\bibitem{marathon}
+J.~Arlignton, ``{MeAsurement of the $F_2^n/F_2^p$, $d/u$ RAtios and A=3 EMC
+  Effect in Deep Inelastic Electron Scattering Off the Tritium and Helium
+  MirrOr Nuclei},'' {\em Jefferson Lab {PAC37} Proposal}, 2010.
 
 \bibitem{physlett:farrar}
 G.~{Farrar} and D.~{Jackson}, ``Pion and nucleon structure functions near
   $x=1$,'' {\em Phys. Rev. Lett.}, vol.~35, p.~1416, 1975.
 
 \bibitem{brodsky}
-S.~B. \textit{et al}., ``Perturbative {QCD} constraints on the shape of
+S.~{Brodsky \textit{et al}.}, ``Perturbative {QCD} constraints on the shape of
   polarized quark and gluon distributions,'' {\em Nucl. Phys. B}, vol.~441,
   pp.~197--214, 1995.
 
+\bibitem{emc1}
+J.~{Ashman \textit{et al}.}, ``A measurement of the ratio of the nucleon
+  structure function in copper and deuterium,'' {\em Z. Phys. C}, vol.~57,
+  p.~211, 1993.
+
+\bibitem{emc2}
+J.~{Gomez \textit{et al}.}, ``Measurement of the {A}-dependence of deep
+  inelastic electron scattering,'' {\em Phys. Rev D}, vol.~49, p.~4348, 1994.
+
 \bibitem{emc_rev}
-D.~G. \textit{et al}., ``The nuclear emc effect,'' {\em Ann. Rev. Nucl. Part.
-  Sci}, vol.~45, pp.~337--390, 1995.
+D.~{Geesaman \textit{et al}.}, ``The nuclear {EMC} effect,'' {\em Ann. Rev.
+  Nucl. Part. Sci}, vol.~45, pp.~337--390, 1995.
 
 \bibitem{spec_tag}
 M.~{Sargsian} and M.~Strickman, ``Model independent method for determination of
@@ -107,13 +104,93 @@ M.~{Sargsian} and M.~Strickman, ``Model independent method for determination of
   2006.
 
 \bibitem{FSI}
-C.~C. \textit{et al.}, ``Hadronization and final state interaction effects in
-  semi-exclusive deep inelastic scattering off nuclei,'' {\em Eur. Phys. Jour.
-  A}, vol.~19, pp.~133--137, 2004.
+C.~{Ciofi degli Atti \textit{et al}.}, ``Hadronization and final state
+  interaction effects in semi-exclusive deep inelastic scattering off nuclei,''
+  {\em Eur. Phys. Jour. A}, vol.~19, pp.~133--137, 2004.
+
+\bibitem{pres:CEBAF}
+M.~{Spata}, ``{CEBAF} overview.''
 
 \bibitem{clasnote:CEBAF}
-D.~D. \textit{et al}., ``{The Continuous Electron Beam Accelerator Facility:
-  CEBAF at the Jefferson Laboratory},'' {\em Annu. Rev. Nucl. Part. Sci. 2001},
-  vol.~51, pp.~413--450, 2001.
+D.~{Douglas \textit{et al}.}, ``{The Continuous Electron Beam Accelerator
+  Facility: CEBAF at the Jefferson Laboratory},'' {\em Annu. Rev. Nucl. Part.
+  Sci. 2001}, vol.~51, pp.~413--450, 2001.
+
+\bibitem{clas12:mags}
+R.~{Fair \textit{et al}.}, ``The {CLAS12} superconducting magnets,'' {\em Nucl.
+  Inst. and Meth. A}, vol.~962, p.~163578, 2020.
+
+\bibitem{clas12:HTCC}
+Y.~{Sharabian \textit{et al}.}, ``The {CLAS12} high threshold cherenkov
+  counter,'' {\em Nucl. Inst. and Meth. A}, vol.~in press, 2020.
+
+\bibitem{clas12:LTCC}
+M.~{Ungaro \textit{et al}.}, ``The {CLAS12} low threshold cherenkov detector,''
+  {\em Nucl. Inst. and Meth. A}, vol.~957, p.~163420, 2020.
+
+\bibitem{clas12:DC}
+M.~{Mestayer \textit{et al}.}, ``The {CLAS12} drift chamber system,'' {\em
+  Nucl. Inst. and Meth. A}, vol.~959, p.~163518, 2020.
+
+\bibitem{clas12:FTOF}
+D.~{Carman \textit{et al}.}, ``The {CLAS12} forward time-of-flight system,''
+  {\em Nucl. Inst. and Meth. A}, vol.~960, p.~163629, 2020.
+
+\bibitem{clasnote:EC_geo}
+G.~{Gilfoyle} and K.~Sherman, ``Geometry update for the electromagnetic
+  calorimeter in {CLAS}12,'' {\em CLAS12 Note 2014-008}, 2014.
+
+\bibitem{clas12:EC}
+G.~{Asryan \textit{et al}.}, ``The {CLAS12} forward electromagnetic
+  calorimeter,'' {\em Nucl. Inst. and Meth. A}, vol.~959, p.~163425, 2020.
+
+\bibitem{CLAS12}
+V.~{Burkert \textit{et al}. [CLAS12 Collaboration]}, ``The {CLAS12}
+  {Spectrometer at Jefferson Lab},'' {\em Nuc. Inst. and Meth. A}, vol.~959,
+  p.~163419, 2020.
+
+\bibitem{clas12:CTOF}
+D.~{Carman \textit{et al}.}, ``The {CLAS12} central time-of-flight system,''
+  {\em Nucl. Inst. and Meth. A}, vol.~960, p.~163626, 2020.
+
+\bibitem{GEM}
+F.~Sauli, ``The gas electron multiplier {(GEM)}: Operating principles and
+  applications,'' {\em Nucl. Inst. and Meth. A}, vol.~805, pp.~2--24, 2016.
+
+\bibitem{dream}
+P.~{Baron \textit{et al}.}, ``{DREAM} user manual, version 3.0.''
+
+\bibitem{clas12:data}
+S.~{Boyarinov \textit{et al}.}, ``The {CLAS12} data acquisition system,'' {\em
+  Nucl. Inst. and Meth. A}, vol.~966, p.~163698, 2020.
+
+\bibitem{clas12:MVT}
+A.~{Acker \textit{et al}.}, ``The {CLAS12} micromegas vertex tracker,'' {\em
+  Nucl. Inst. and Meth. A}, vol.~957, p.~163423, 2020.
+
+\bibitem{clas12:FT}
+A.~{Acker \textit{et al}.}, ``The {CLAS12} forward tagger,'' {\em Nucl. Inst.
+  and Meth. A}, vol.~959, p.~163475, 2020.
+
+\bibitem{clas12:GEMC}
+M.~{Ungaro \textit{et al}.}, ``The {CLAS12} {Geant4} simulation,'' {\em Nucl.
+  Inst. and Meth. A}, vol.~959, p.~163422, 2020.
+
+\bibitem{geant4}
+S.~{Agostinelli \textit{et al}.}, ``Geant4 - a simulation toolkit,'' {\em Nuc.
+  Inst. Meth. A}, vol.~506, pp.~250--303, 2003.
+
+\bibitem{book:drift_electrons}
+W.~Blum and L.~Rolandi, {\em The Drift of Electrons and Ions in Gases}.
+\newblock Springer, 1993.
+
+\bibitem{clas12:CLARA}
+V.~{Ziegler \textit{et al}.}, ``The {CLAS12} software framework and event
+  reconstruction,'' {\em Nucl. Inst. and Meth. A}, vol.~959, p.~163472, 2020.
+
+\bibitem{christy_bosted}
+{M.E. Christy and P.B. Bosted}, ``Empirical fit to precision inclusive
+electron-proton cross sections in the resonance region,'' {\em Phys. Rev. C},
+vol.~81, p.~055213, 2010.
 
 \end{thebibliography}

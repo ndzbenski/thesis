@@ -1,4 +1,4 @@
-\documentclass[revision]{wsdlthesis}
+\documentclass{wsdlthesis}
 
 \usepackage{custommacros}
 \usepackage{listings}
@@ -49,11 +49,8 @@
 \input{pages/preface}
 \afterpreface
 
-%\addtocontents{toc}{\vspace*{12pt}}
-%\addcontentsline{TOC}{chapter}{TOC}
-\addcontentsline{toc}{chapter}{toc}
+\addcontentsline{}{chapter}{}
 
-%\tableofcontents
 \input{chapters/01_introduction}
 \input{chapters/02_review}
 \input{chapters/03_bonus12}
@@ -67,7 +64,9 @@
 \bibliography{ref}
 
 \appendix
-
+\input{appendices/a_dms_specs}
+\input{appendices/b_dms_simcode}
+\input{appendices/c_xsec_values}
 \inputAllFiles{appendices}
 
 \newpage

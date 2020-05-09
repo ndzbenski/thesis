@@ -1,67 +1,86 @@
 \noindent Figure\hfill Page\par 
-\contentsline {figure}{\numberline {1}{\ignorespaces The 17 fundamental particles of The Standard Model of Particle Physics.\relax }}{2}{figure.caption.5}
+\contentsline {figure}{\numberline {1}{\ignorespaces The 17 fundamental particles of The Standard Model of Particle Physics.\relax }}{3}{figure.caption.5}
 \contentsline {figure}{\numberline {2}{\ignorespaces The Feynman diagram of neutron decay.\relax }}{9}{figure.caption.6}
-\contentsline {figure}{\numberline {3}{\ignorespaces Feynman diagram of an electron scattering from a proton.\relax }}{12}{figure.caption.7}
+\contentsline {figure}{\numberline {3}{\ignorespaces Feynman diagram of an electron scattering from a nucleon.\relax }}{12}{figure.caption.7}
 \contentsline {figure}{\numberline {4}{\ignorespaces Scattering process on a quasi-static differential cross section.\relax }}{13}{figure.caption.8}
 \contentsline {figure}{\numberline {5}{\ignorespaces The contributions of higher order diagrams.\relax }}{16}{figure.caption.9}
 \contentsline {figure}{\numberline {6}{\ignorespaces Feynman diagram of deep inelastic electron scattering from a proton.\relax }}{20}{figure.caption.10}
 \contentsline {figure}{\numberline {7}{\ignorespaces The transition from inelastic scattering to deep inelastic scattering of a virtual photon and the quark within a nucleon.\relax }}{22}{figure.caption.11}
-\contentsline {figure}{\numberline {8}{\ignorespaces Comparison of CJ15 PDFs $xf(x,Q2)$ for different flavors ($f = u, d, \mathaccentV {bar}016{d}+\mathaccentV {bar}016{u}, \mathaccentV {bar}016{d}−\mathaccentV {bar}016{u}, s$ and $g/10$) at a scale $Q^2 = 10$ GeV$^2$, with 90\% CL uncertainty bands. Note the combined logarithimic/linear scale along the x-axis.\cite {CJ15}\relax }}{25}{figure.caption.12}
-\contentsline {figure}{\numberline {9}{\ignorespaces Model dependence of $F_2^n/F_2^p$. \cite {marathon}\relax }}{27}{figure.caption.13}
-\contentsline {figure}{\numberline {10}{\ignorespaces Measured values of $F_2^p$ vs $Q^2$ for different values of $x$. \cite {CJ15}\relax }}{28}{figure.caption.14}
-\contentsline {figure}{\numberline {11}{\ignorespaces Variations of the $F_2^A/F_2^D$ ratio from unity indicating various nuclear binding effects. \cite {emc1}\cite {emc2}\relax }}{29}{figure.caption.15}
+\contentsline {figure}{\numberline {8}{\ignorespaces Comparison of CJ15 PDFs $xf(x,Q2)$ for different flavors ($f = u$, $d$, $\mathaccentV {bar}016{d} + \mathaccentV {bar}016{u}$, $\mathaccentV {bar}016{d}$$- \mathaccentV {bar}016{u}$, $s$ and $g/10$).}}{25}{figure.caption.12}
+\contentsline {figure}{\numberline {9}{\ignorespaces Model dependence of $F_2^n/F_2^p$.}}{27}{figure.caption.13}
+\contentsline {figure}{\numberline {10}{\ignorespaces Measured values of $F_2^p$ vs $Q^2$ for different values of $x$.}}{29}{figure.caption.14}
+\contentsline {figure}{\numberline {11}{\ignorespaces Variations of the $F_2^A/F_2^D$ ratio from unity indicating various nuclear binding effects.}}{30}{figure.caption.15}
 \contentsline {figure}{\numberline {12}{\ignorespaces Impulse approximation (a) and final state interaction diagrams (b).\relax }}{31}{figure.caption.16}
-\contentsline {figure}{\numberline {13}{\ignorespaces (a) The Deep Inelastic Scattering ratio $n_{D}^{FSI}/n_D$ with $n_{D}^{FSI}$ and $n_D$, calculated $vs.$ the momentum $p_s \equiv |\mathbf {p}_s|$ of the spectator nucleon emitted at different angles $\theta _s$. The full lines correspond to the $Q^2$- and $z$-dependent debris-nucleon effective cross section $\sigma _{\mathrm {eff}}$, whereas the dashed lines correspond to a constant cross section $\sigma _{\mathrm {eff}} = 20$ mb. (b) The Deep Inelastic Scattering ratio $n_{D}^{FSI}/n_D$ with $n_{D}^{FSI}$ and $n_D$, calculated $vs.$ the emission angle $\theta _s$ of the spectator, for different values of the spectator momentum. Calculations were performed at $Q^2 = 5$ (GeV/c)$^2$ and $x = 0.2$ for the both graphs.\relax }}{34}{figure.caption.17}
-\contentsline {figure}{\numberline {14}{\ignorespaces CEBAF upgraded for the 12 GeV era.\relax }}{36}{figure.caption.18}
-\contentsline {figure}{\numberline {15}{\ignorespaces The CEBAF Large Acceptance Spectrometer at 12 GeV (CLAS12).\relax }}{38}{figure.caption.19}
-\contentsline {figure}{\numberline {16}{\ignorespaces The High Threshold Cerenkov Counter.\relax }}{39}{figure.caption.20}
-\contentsline {figure}{\numberline {17}{\ignorespaces Exploded view of a sector of the Electromagnetic Calorimeter (EC) for CLAS12. \cite {clasnote:EC_geo} \relax }}{41}{figure.caption.21}
-\contentsline {figure}{\numberline {18}{\ignorespaces The Central Time of Flight Detector.\relax }}{42}{figure.caption.22}
-\contentsline {figure}{\numberline {19}{\ignorespaces Cross section of the RTPC showing a proton traversing the detector with ionization electrons drifting toward the readout pad board.\relax }}{43}{figure.caption.23}
-\contentsline {figure}{\numberline {20}{\ignorespaces Design of the RTPC with only one-quarter of the translation boards attached.\relax }}{44}{figure.caption.24}
-\contentsline {figure}{\numberline {21}{\ignorespaces Design concept of the Drift-gas Monitoring System (DMS) for the BONuS12 Experiment.\relax }}{45}{figure.caption.25}
-\contentsline {figure}{\numberline {22}{\ignorespaces Monitoring output of the DMS.\relax }}{46}{figure.caption.26}
-\contentsline {figure}{\numberline {23}{\ignorespaces Assembly station for the RTPC.\relax }}{47}{figure.caption.27}
-\contentsline {figure}{\numberline {24}{\ignorespaces BONuS12 RTPC geometry implemented in GEMC\relax }}{52}{figure.caption.28}
-\contentsline {figure}{\numberline {25}{\ignorespaces CLAS12 Solenoid Field Map (V.Lagerquist)\relax }}{56}{figure.caption.31}
-\contentsline {figure}{\numberline {26}{\ignorespaces Magnetic field strength versus $z$ for values of $r$.\relax }}{57}{figure.caption.32}
-\contentsline {figure}{\numberline {27}{\ignorespaces Drift angle vs drift time for various gas mixtures\relax }}{58}{figure.caption.33}
-\contentsline {figure}{\numberline {28}{\ignorespaces Diffusion in drift angle vs diffusion in drift time for various gas mixtures\relax }}{59}{figure.caption.34}
-\contentsline {figure}{\numberline {29}{\ignorespaces Drift time versus drift angle for He:CO$_2$ using various potentials.\relax }}{60}{figure.caption.35}
-\contentsline {figure}{\numberline {30}{\ignorespaces Plots of drift electron properties.\relax }}{62}{figure.caption.36}
-\contentsline {figure}{\numberline {31}{\ignorespaces Parameters $a$ and $b$ for drift angle ($a_{\phi }$ and $b_{\phi }$) and drift time ($a_t$ and $b_t$).\relax }}{62}{figure.caption.37}
-\contentsline {figure}{\numberline {32}{\ignorespaces Simulations of electric field within the DMS. In the profile plots in (b) and (c), the cathode and anode's locations are denoted as blue and red lines respectively. The sources and PMT's location and subsequent electron beams are pictured as green dotted lines.\relax }}{66}{figure.caption.38}
-\contentsline {figure}{\numberline {33}{\ignorespaces Simulations electric field profile within the sensitive region of the DMS with various electrode diameters and distances.\relax }}{66}{figure.caption.39}
-\contentsline {figure}{\numberline {34}{\ignorespaces Simulated drift time for electrons beginning at both the near and far sources from the anode.\relax }}{67}{figure.caption.40}
-\contentsline {figure}{\numberline {35}{\ignorespaces 1D distributions of the U, V, and W sectors of the PCAL. The uncut histograms are on the top and the bottom histograms contain the cuts: $U<30$ cm, $30<V<390$ cm, and $30<W<390$ cm. All plots are normalized to account for any mismatch in total statistics. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{73}{figure.caption.42}
-\contentsline {figure}{\numberline {36}{\ignorespaces 2D histograms of the uncut PCAL hits on the left and the 2D histogram containing the fiducial cuts.\relax }}{74}{figure.caption.43}
-\contentsline {figure}{\numberline {37}{\ignorespaces $v_z$ before and after all described cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{75}{figure.caption.44}
-\contentsline {figure}{\numberline {38}{\ignorespaces Slicing and fitting of the sampling fraction to create a $5\sigma $ cut.\relax }}{75}{figure.caption.45}
-\contentsline {figure}{\numberline {39}{\ignorespaces Kinematics variables before cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{77}{figure.caption.46}
-\contentsline {figure}{\numberline {40}{\ignorespaces Kinematics variables after all described cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{77}{figure.caption.47}
-\contentsline {figure}{\numberline {41}{\ignorespaces E' and EC energies before cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{78}{figure.caption.48}
-\contentsline {figure}{\numberline {42}{\ignorespaces E' and EC energies after all described cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{78}{figure.caption.49}
-\contentsline {figure}{\numberline {43}{\ignorespaces $E'$ vs. $\theta $ and $W$ vs. $x_B$ before cuts.\relax }}{79}{figure.caption.50}
-\contentsline {figure}{\numberline {44}{\ignorespaces $E'$ vs. $\theta $ and $W$ vs. $x_B$ after all described cuts.\relax }}{79}{figure.caption.51}
-\contentsline {figure}{\numberline {45}{\ignorespaces $Q^2$ vs. $W$ and $Q^2$ vs $x_B$ before cuts.\relax }}{80}{figure.caption.52}
-\contentsline {figure}{\numberline {46}{\ignorespaces $Q^2$ vs. $W$ and $Q^2$ vs $x_B$ after all described cuts.\relax }}{80}{figure.caption.53}
-\contentsline {figure}{\numberline {47}{\ignorespaces $E_{EC_{tot}}$ vs $E_{PCAL}$ and Sampling fraction before cuts.\relax }}{81}{figure.caption.54}
-\contentsline {figure}{\numberline {48}{\ignorespaces $E_{EC_{tot}}$ vs $E_{PCAL}$ and Sampling fraction after all described cuts.\relax }}{81}{figure.caption.55}
-\contentsline {figure}{\numberline {49}{\ignorespaces Binning in the $x,y$ space.\relax }}{82}{figure.caption.56}
-\contentsline {figure}{\numberline {50}{\ignorespaces \relax }}{83}{figure.caption.58}
-\contentsline {figure}{\numberline {51}{\ignorespaces \relax }}{84}{figure.caption.59}
-\contentsline {figure}{\numberline {52}{\ignorespaces \relax }}{84}{figure.caption.60}
-\contentsline {figure}{\numberline {53}{\ignorespaces Accumulated charge vs. file for Run 5036.\relax }}{85}{figure.caption.61}
-\contentsline {figure}{\numberline {56}{\ignorespaces Plots of inclusive DIS differential cross section vs $x_B$ for various values of $y$.\relax }}{87}{figure.caption.64}
-\contentsline {figure}{\numberline {59}{\ignorespaces Graph of the ratio of the differential cross section ratio for RGA data over Model data vs $x_B$ for various values of $y$.\relax }}{89}{figure.caption.67}
-\contentsline {figure}{\numberline {60}{\ignorespaces DMS drift time histograms for CH1 (left) and CH2 (right) on Run 11953.\relax }}{91}{figure.caption.68}
-\contentsline {figure}{\numberline {61}{\ignorespaces DMS drift velocity vs. time graph during Run 11953.\relax }}{91}{figure.caption.69}
-\contentsline {figure}{\numberline {62}{\ignorespaces DMS drift velocity for channel 1 vs. run.\relax }}{92}{figure.caption.70}
-\contentsline {figure}{\numberline {63}{\ignorespaces DMS drift velocity for channel 2 vs. run.\relax }}{92}{figure.caption.71}
-\contentsline {figure}{\numberline {64}{\ignorespaces DMS gas pressure vs. run.\relax }}{93}{figure.caption.72}
-\contentsline {figure}{\numberline {65}{\ignorespaces DMS drift velocity over all RGF runs.\relax }}{93}{figure.caption.73}
-\contentsline {figure}{\numberline {66}{\ignorespaces Two examples of reconstructed hits in an event in the RTPC using Version 27 of the reconstruction software in an Cartesian $x,y$ space for Run 11637 (a 2.14 GeV run). [\textit {Courtesy D. Payette.}]\relax }}{94}{figure.caption.74}
-\contentsline {figure}{\numberline {67}{\ignorespaces Two examples of reconstructed hits in an event in the RTPC using Version 26 of the reconstruction software in an Cartesian $x,y$ space for Run 12240 (a 10.4 GeV run). [\textit {Courtesy D. Payette.}]\relax }}{94}{figure.caption.75}
-\contentsline {figure}{\numberline {68}{\ignorespaces The time shift ($t_{\mathrm {shift}}$), momentum, and theta ($\theta $) of the reconstructed protons in Run 11637.\relax }}{95}{figure.caption.76}
-\contentsline {figure}{\numberline {69}{\ignorespaces On the left: 2D distributions of the calculated momentum (``mom\_predicted" in the plot) on the $x$-axis and reconstructed momentum (``mom\_measured" in the plot) for protons on the $y$-axis in Run 11637. On the right: The difference between the predicted and measured values of the momentum for Run 11637.\relax }}{96}{figure.caption.77}
-\contentsline {figure}{\numberline {70}{\ignorespaces On the left: 2D distributions of the calculated theta (``theta\_predicted" in the plot) on the $x$-axis and reconstructed theta (``theta\_measured" in the plot) for protons on the $y$-axis in Run 11637. On the right: The difference between the predicted and measured values of theta for Run 11637.\relax }}{97}{figure.caption.78}
+\contentsline {figure}{\numberline {13}{\ignorespaces (a) The Deep Inelastic Scattering ratio $n_{D}^{FSI}/n_D$ calculated $vs.$ the momentum $p_s$ of the spectator nucleon emitted at different angles $\theta _s$. (b) The Deep Inelastic Scattering ratio $n_{D}^{FSI}/n_D$ calculated $vs.$ the emission angle $\theta _s$ of the spectator for different values of the spectator momentum.}}{34}{figure.caption.17}
+\contentsline {figure}{\numberline {14}{\ignorespaces CEBAF upgraded for the 12 GeV era.}}{36}{figure.caption.18}
+\contentsline {figure}{\numberline {15}{\ignorespaces The CEBAF Large Acceptance Spectrometer at 12 GeV (CLAS12).}}{38}{figure.caption.19}
+\contentsline {figure}{\numberline {16}{\ignorespaces The High Threshold Cerenkov Counter.}}{40}{figure.caption.20}
+\contentsline {figure}{\numberline {17}{\ignorespaces Hexagonal wire layout for the drift chamber.}}{40}{figure.caption.21}
+\contentsline {figure}{\numberline {18}{\ignorespaces Exploded view of a sector of the Electromagnetic Calorimeter (EC) for CLAS12.}}{42}{figure.caption.22}
+\contentsline {figure}{\numberline {19}{\ignorespaces The Central Time of Flight Detector.}}{44}{figure.caption.23}
+\contentsline {figure}{\numberline {20}{\ignorespaces Cross section of the RTPC showing a proton traversing the detector with ionization electrons drifting toward the readout pad board.\relax }}{45}{figure.caption.24}
+\contentsline {figure}{\numberline {21}{\ignorespaces (a) Electron microscope picture of a section of typical GEM electrode, 50 \textmu m thick. The holes pitch and diameter are 140 and 70 \textmu m, respectively. (b) Electric field in the region of the holes of a GEM electrode.}}{46}{figure.caption.25}
+\contentsline {figure}{\numberline {22}{\ignorespaces Design of the RTPC with only one-quarter of the translation boards attached.\relax }}{47}{figure.caption.26}
+\contentsline {figure}{\numberline {23}{\ignorespaces Map of the DREAM chip.}}{47}{figure.caption.27}
+\contentsline {figure}{\numberline {24}{\ignorespaces The BONuS12 data acquisition map. Signals from the readout pad board go through the translation boards to the front-end unit electronics. The raw events get read into the slow controls and gets uploaded to the back end unit computer systems.\relax }}{48}{figure.caption.28}
+\contentsline {figure}{\numberline {25}{\ignorespaces Assembly station for the RTPC.\relax }}{49}{figure.caption.29}
+\contentsline {figure}{\numberline {26}{\ignorespaces The fully assembled BONuS12 RTPC with the FEUs attached, but not yet with the 3-layer FMTs attahced.\relax }}{50}{figure.caption.30}
+\contentsline {figure}{\numberline {27}{\ignorespaces The RTPC gas panel. The target gas flows through the top part of the panel, the buffer gas flows through the middle region of the panel, and the drift gas flows through the bottom region of the panel.\relax }}{51}{figure.caption.31}
+\contentsline {figure}{\numberline {28}{\ignorespaces Design concept of the Drift-gas Monitoring System (DMS) for the BONuS12 experiment.\relax }}{52}{figure.caption.32}
+\contentsline {figure}{\numberline {29}{\ignorespaces Partial assembly of the DMS showing the wired cathode at the top and the anode ground plate at the bottom with the field shaping electrodes in between.\relax }}{53}{figure.caption.33}
+\contentsline {figure}{\numberline {30}{\ignorespaces Assembled DMS with electrode wiring.\relax }}{53}{figure.caption.34}
+\contentsline {figure}{\numberline {31}{\ignorespaces Fully assembled DMS with electronics panel shown in the back.\relax }}{54}{figure.caption.35}
+\contentsline {figure}{\numberline {32}{\ignorespaces Cathode and electrode HV supply circuit.\relax }}{55}{figure.caption.36}
+\contentsline {figure}{\numberline {33}{\ignorespaces Anode HV supply circuit.\relax }}{55}{figure.caption.37}
+\contentsline {figure}{\numberline {34}{\ignorespaces The DMS DAQ flow from signal to computer.\relax }}{56}{figure.caption.38}
+\contentsline {figure}{\numberline {35}{\ignorespaces BONuS12 RTPC geometry implemented in GEMC\relax }}{60}{figure.caption.39}
+\contentsline {figure}{\numberline {36}{\ignorespaces CLAS12 Solenoid Field Map (courtesy of V. Lagerquist)\relax }}{64}{figure.caption.42}
+\contentsline {figure}{\numberline {37}{\ignorespaces Magnetic field strength versus $z$ for values of $r$.\relax }}{65}{figure.caption.43}
+\contentsline {figure}{\numberline {38}{\ignorespaces Drift angle vs drift time for various gas mixtures. Only electrons created at $r=$ 6 cm are included in this plot.\relax }}{66}{figure.caption.44}
+\contentsline {figure}{\numberline {39}{\ignorespaces Diffusion in drift angle vs diffusion in drift time for various gas mixtures.\relax }}{68}{figure.caption.45}
+\contentsline {figure}{\numberline {40}{\ignorespaces Drift time versus drift angle for He:CO$_2$ using various potentials.\relax }}{69}{figure.caption.46}
+\contentsline {figure}{\numberline {41}{\ignorespaces Plots of drift electron properties.\relax }}{70}{figure.caption.47}
+\contentsline {figure}{\numberline {42}{\ignorespaces Parameters $a$ and $b$ for drift angle ($a_{\phi }$ and $b_{\phi }$) and drift time ($a_t$ and $b_t$).\relax }}{71}{figure.caption.48}
+\contentsline {figure}{\numberline {43}{\ignorespaces Electric-field contour map along the cross-section in $x-y$ plane.\relax }}{73}{figure.caption.49}
+\contentsline {figure}{\numberline {44}{\ignorespaces Electric-field profile along the plane of the anode. The cathode and anode's locations are denoted as blue and red lines respectively. The sources and PMT's location and subsequent electron beams are pictured as green dotted lines.\relax }}{73}{figure.caption.50}
+\contentsline {figure}{\numberline {45}{\ignorespaces Zoomed in electric-field profile to between the two sources. The cathode and anode's locations are denoted as blue and red lines respectively. The sources and PMT's location and subsequent electron beams are pictured as green dotted lines.\relax }}{74}{figure.caption.51}
+\contentsline {figure}{\numberline {46}{\ignorespaces Electric field profile with electrode separation of 1.2 mm and diameter of 50 \textmu m.\relax }}{75}{figure.caption.52}
+\contentsline {figure}{\numberline {47}{\ignorespaces Electric field profile with electrode separation of 1.2 mm and diameter of 1 mm.\relax }}{75}{figure.caption.53}
+\contentsline {figure}{\numberline {48}{\ignorespaces Electric field profile with electrode separation of 0.6 mm and diameter of 2 mm.\relax }}{76}{figure.caption.54}
+\contentsline {figure}{\numberline {49}{\ignorespaces Simulated drift time for ionization electrons created by radiation electrons from the near and far sources to the anode. The gas mixture is 80:20 He:CO2 with a cathode potential of -6 kV and an anode potential of +1800V.\relax }}{77}{figure.caption.55}
+\contentsline {figure}{\numberline {50}{\ignorespaces Total cross section vs. $W^2$ for existing data (black triangles) and the Christy-Bosted fit in red.}}{83}{figure.caption.57}
+\contentsline {figure}{\numberline {51}{\ignorespaces Count distributions of the U, V, and W dimensions of the pre-shower calorimeter (PCAL). The raw histograms are on the top and the bottom histograms contain the cuts: $U>30$ cm, $30<V<390$ cm, and $30<W<390$ cm. All plots are normalized to account for any mismatch in total statistics. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{84}{figure.caption.58}
+\contentsline {figure}{\numberline {52}{\ignorespaces Count distributions of the U, V, and W dimensions of the inner EC. The raw histograms are on the top and the bottom histograms contain the cuts on the PCAL: $U>30$ cm, $30<V<390$ cm, and $30<W<390$ cm. All plots are normalized to account for any mismatch in total statistics. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{85}{figure.caption.59}
+\contentsline {figure}{\numberline {53}{\ignorespaces Count distributions of the U, V, and W dimensions of the outer EC. The raw histograms are on the top and the bottom histograms contain the cuts on the PCAL: $U>30$ cm, $30<V<390$ cm, and $30<W<390$ cm. All plots are normalized to account for any mismatch in total statistics. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{86}{figure.caption.60}
+\contentsline {figure}{\numberline {54}{\ignorespaces 2D histograms of the uncut PCAL hits on the left and after the fiducial cuts are applied (right).\relax }}{86}{figure.caption.61}
+\contentsline {figure}{\numberline {55}{\ignorespaces 2D histograms of the inner EC hits. On the left is before cuts on the PCAL, and on the right is after the fiducial cuts on the PCAL are applied.\relax }}{87}{figure.caption.62}
+\contentsline {figure}{\numberline {56}{\ignorespaces 2D histograms of the outer EC hits. On the left is before cuts on the PCAL, and on the right is after the fiducial cuts on the PCAL are applied.\relax }}{87}{figure.caption.63}
+\contentsline {figure}{\numberline {57}{\ignorespaces The electron vertex $v_z$ before (left) and after (right) all described cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{89}{figure.caption.64}
+\contentsline {figure}{\numberline {58}{\ignorespaces Sampling fraction as a function of particle momentum. The dots represent the mean along the center and values $\pm 2.5\sigma $ from that mean. The red lines are the fitted polynomials.\relax }}{89}{figure.caption.65}
+\contentsline {figure}{\numberline {59}{\ignorespaces Slice of the sampling fraction for $2.58<p<3.66$ GeV fitted to a Gaussian. The sigma is used to find the $\pm 2.5 \sigma $ fit seen in Fig. \ref {fig:rga_etot_p}.\relax }}{90}{figure.caption.66}
+\contentsline {figure}{\numberline {60}{\ignorespaces Kinematic variables before cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{92}{figure.caption.67}
+\contentsline {figure}{\numberline {61}{\ignorespaces Kinematic variables after all described cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{92}{figure.caption.68}
+\contentsline {figure}{\numberline {62}{\ignorespaces $E^{\prime }$, EC energies, and nphe before cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{93}{figure.caption.69}
+\contentsline {figure}{\numberline {63}{\ignorespaces $E^{\prime }$, EC energies, and nphe after all described cuts. Red lines are from RGA data and black lines are for the Monte-Carlo (MC) data.\relax }}{93}{figure.caption.70}
+\contentsline {figure}{\numberline {64}{\ignorespaces $E'$ vs. $\theta $ and $W$ vs. $x_B$ before cuts. The Monte Carlo data is on the left and the RGA data is on the right.\relax }}{94}{figure.caption.71}
+\contentsline {figure}{\numberline {65}{\ignorespaces $E'$ vs. $\theta $ and $W$ vs. $x_B$ after all described cuts. The Monte Carlo data is on the left and the RGA data is on the right.\relax }}{94}{figure.caption.72}
+\contentsline {figure}{\numberline {66}{\ignorespaces $Q^2$ vs. $W$ and $Q^2$ vs $x_B$ before cuts. The Monte Carlo data is on the left and the RGA data is on the right.\relax }}{95}{figure.caption.73}
+\contentsline {figure}{\numberline {67}{\ignorespaces $Q^2$ vs. $W$ and $Q^2$ vs $x_B$ after all described cuts. The Monte Carlo data is on the left and the RGA data is on the right.\relax }}{95}{figure.caption.74}
+\contentsline {figure}{\numberline {68}{\ignorespaces $E_{EC_{tot}}$ vs $E_{PCAL}$ and Sampling fraction vs. $p$ before cuts. The Monte Carlo data is on the left and the RGA data is on the right.\relax }}{96}{figure.caption.75}
+\contentsline {figure}{\numberline {69}{\ignorespaces $E_{EC_{tot}}$ vs $E_{PCAL}$ and Sampling fraction vs. $p$ after all described cuts. The Monte Carlo data is on the left and the RGA data is on the right.\relax }}{96}{figure.caption.76}
+\contentsline {figure}{\numberline {70}{\ignorespaces Binning in the $x,y$ space for MC data (left) and RGA Run 5036 data (right). These plots contain all events that pass the inclusive DIS cuts imposed as described in Section \ref {sec:cuts}.\relax }}{97}{figure.caption.77}
+\contentsline {figure}{\numberline {71}{\ignorespaces Acceptance for $y=$0.3375 (left) and $y=$0.4175 (right) $vs$ $x$.\relax }}{99}{figure.caption.79}
+\contentsline {figure}{\numberline {72}{\ignorespaces Acceptance for $y=$0.4875 (left) and $y=$0.5625 (right) $vs$ $x$.\relax }}{99}{figure.caption.80}
+\contentsline {figure}{\numberline {73}{\ignorespaces Acceptance for $y=$0.6375 (left) and $y=$0.7125 (right) $vs$ $x$.\relax }}{100}{figure.caption.81}
+\contentsline {figure}{\numberline {76}{\ignorespaces Plots of inclusive DIS differential cross section vs $x_B$ for various values of $y$. The green band represents the uncertainty of the DIS cross section calculated from the Christy-Bosted fits to $F_1$ and $F_2$ \cite {christy_bosted}.\relax }}{103}{figure.caption.84}
+\contentsline {figure}{\numberline {77}{\ignorespaces DMS drift time histograms for CH1 (left) and CH2 (right) on Run 11953.\relax }}{105}{figure.caption.85}
+\contentsline {figure}{\numberline {78}{\ignorespaces DMS drift velocity vs. time graph during Run 11953.\relax }}{105}{figure.caption.86}
+\contentsline {figure}{\numberline {79}{\ignorespaces DMS drift velocity for channel 1 vs. run.\relax }}{106}{figure.caption.87}
+\contentsline {figure}{\numberline {80}{\ignorespaces DMS drift velocity for channel 2 vs. run.\relax }}{106}{figure.caption.88}
+\contentsline {figure}{\numberline {81}{\ignorespaces DMS gas pressure vs. run.\relax }}{107}{figure.caption.89}
+\contentsline {figure}{\numberline {82}{\ignorespaces DMS drift velocity over all RGF runs.\relax }}{107}{figure.caption.90}
+\contentsline {figure}{\numberline {83}{\ignorespaces Two examples of reconstructed tracks in one time window in the RTPC using Version 27 of the reconstruction software in a Cartesian $x,y$ space for Run 11637 (2.14 GeV). [\textit {Courtesy D. Payette.}]\relax }}{108}{figure.caption.91}
+\contentsline {figure}{\numberline {84}{\ignorespaces Two examples of reconstructed tracks in one time window in the RTPC using Version 26 of the reconstruction software in an Cartesian $x,y$ space for Run 12240 (10.4 GeV). [\textit {Courtesy D. Payette.}]\relax }}{109}{figure.caption.92}
+\contentsline {figure}{\numberline {85}{\ignorespaces The time shift ($t_{\mathrm {shift}}$), momentum, and theta ($\theta $) of the reconstructed protons in Run 11637.\relax }}{110}{figure.caption.93}
+\contentsline {figure}{\numberline {86}{\ignorespaces On the left: 2D distributions of the calculated momentum (``mom\_predicted" in the plot) on the $x$-axis and reconstructed momentum (``mom\_measured" in the plot) for protons on the $y$-axis in Run 11637. On the right: The difference between the predicted and measured values of the momentum for Run 11637.\relax }}{111}{figure.caption.94}
+\contentsline {figure}{\numberline {87}{\ignorespaces On the left: 2D distributions of the calculated theta (``theta\_predicted" in the plot) on the $x$-axis and reconstructed theta (``theta\_measured" in the plot) for protons on the $y$-axis in Run 11637. On the right: The difference between the predicted and measured values of theta for Run 11637.\relax }}{111}{figure.caption.95}

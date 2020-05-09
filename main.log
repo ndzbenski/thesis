@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 APR 2020 18:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 MAY 2020 14:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1964,14 +1964,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--48
 
  []
 
-[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[1
 
-]
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2
 
 ] [3
 
-] (./pages/preface.tex [4]) [5
+] (./pages/preface.tex [4]
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+
+ []
+
+) [5
 
 
 ] (./main.toc [6
@@ -1993,27 +1998,28 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [8
 
 
-] (./main.lof
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
- [9
+] (./main.lof [9
 
 
 ]
-Overfull \hbox (7.97568pt too wide) in paragraph at lines 22--22
+LaTeX Font Info:    Try loading font information for U+eur on input line 22.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+)
+Overfull \hbox (7.97568pt too wide) in paragraph at lines 29--29
  [][] [][]\OT1/cmr/m/n/12 Design con-cept of the Drift-gas Mon-i-tor-ing Sys-te
 m (DMS) for the BONuS12 
  []
 
-[10] [11]
-Overfull \hbox (11.99588pt too wide) in paragraph at lines 66--66
+[10] [11] [12] [13]
+Overfull \hbox (11.99588pt too wide) in paragraph at lines 85--85
  [][] [][]\OT1/cmr/m/n/12 On the left: 2D dis-tri-bu-tions of the cal-cu-lated 
 mo-men-tum (``mom[]predicted" 
  []
 
 
-Overfull \hbox (0.30078pt too wide) in paragraph at lines 66--66
+Overfull \hbox (0.30078pt too wide) in paragraph at lines 85--85
  \OT1/cmr/m/n/12 in the plot) on the $\OML/cmm/m/it/12 x$\OT1/cmr/m/n/12 -axis 
 and re-con-structed mo-men-tum (``mom[]measured" 
  []
@@ -2027,7 +2033,7 @@ and re-con-structed mo-men-tum (``mom[]measured"
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 50.
 
-[12] (./chapters/01_introduction.tex
+[14] (./chapters/01_introduction.tex
 CHAPTER 1
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2040,18 +2046,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [1
 
 
-] <figures/standard_model.png, id=587, 722.7pt x 542.025pt>
+] <figures/standard_model.png, id=693, 722.7pt x 542.025pt>
 File: figures/standard_model.png Graphic file (type png)
 
 <use figures/standard_model.png>
 Package pdftex.def Info: figures/standard_model.png used on input line 16.
 (pdftex.def)             Requested size: 426.42474pt x 319.81679pt.
- [2 <./figures/standard_model.png>]
-LaTeX Font Info:    Try loading font information for U+eur on input line 25.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/ueur.fd
-File: ueur.fd 2013/01/14 v3.01 Euler Roman
-) [3]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2] [3 <./figures/standard_model.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 29.
@@ -2059,115 +2064,116 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 37.
+(hyperref)                removing `\uppercase' on input line 36.
 
+[5]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 44.
 
-) (./chapters/02_review.tex [5] [6]
+) (./chapters/02_review.tex [6]
 CHAPTER 2
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 1.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 9.
-
 [7
 
-] [8] <figures/neutron_decay.png, id=656, 722.7pt x 542.025pt>
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 10.
+
+[8] <figures/neutron_decay.png, id=759, 722.7pt x 542.025pt>
 File: figures/neutron_decay.png Graphic file (type png)
 
 <use figures/neutron_decay.png>
-Package pdftex.def Info: figures/neutron_decay.png used on input line 28.
+Package pdftex.def Info: figures/neutron_decay.png used on input line 27.
 (pdftex.def)             Requested size: 258.44043pt x 193.83035pt.
  [9 <./figures/neutron_decay.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 40.
+(hyperref)                removing `\uppercase' on input line 38.
 
-[10] <figures/feyn_epscatt.png, id=677, 722.7pt x 542.025pt>
+[10] [11] <figures/feyn_epscatt.png, id=793, 722.7pt x 542.025pt>
 File: figures/feyn_epscatt.png Graphic file (type png)
 
 <use figures/feyn_epscatt.png>
-Package pdftex.def Info: figures/feyn_epscatt.png used on input line 83.
+Package pdftex.def Info: figures/feyn_epscatt.png used on input line 81.
 (pdftex.def)             Requested size: 258.44043pt x 193.83035pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11] [12 <./figures/feyn_epscatt.png>]
-<figures/diff_xsec.png, id=698, 722.7pt x 542.025pt>
+ [12 <./figures/feyn_epscatt.png>]
+<figures/diff_xsec.png, id=804, 722.7pt x 542.025pt>
 File: figures/diff_xsec.png Graphic file (type png)
 
 <use figures/diff_xsec.png>
-Package pdftex.def Info: figures/diff_xsec.png used on input line 107.
+Package pdftex.def Info: figures/diff_xsec.png used on input line 105.
 (pdftex.def)             Requested size: 258.44043pt x 193.83035pt.
  [13 <./figures/diff_xsec.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 136.
+(hyperref)                removing `\uppercase' on input line 134.
 
-[14] <figures/feyn_sum.png, id=729, 963.6pt x 180.675pt>
+[14] <figures/feyn_sum.png, id=834, 963.6pt x 180.675pt>
 File: figures/feyn_sum.png Graphic file (type png)
 
 <use figures/feyn_sum.png>
-Package pdftex.def Info: figures/feyn_sum.png used on input line 173.
+Package pdftex.def Info: figures/feyn_sum.png used on input line 171.
 (pdftex.def)             Requested size: 430.72968pt x 80.75989pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15]
-
-LaTeX Warning: Citation `' on page 16 undefined on input line 193.
-
-[16 <./figures/feyn_sum.png>] [17pdfTeX warning (ext4): destination with the sa
-me identifier (name{equation.2.3.33}) has been already used, duplicate ignored
+[15] [16 <./figures/feyn_sum.png>] [17pdfTeX warning (ext4): destination with t
+he same identifier (name{equation.2.3.33}) has been already used, duplicate ign
+ored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.240 \end{equation}
+l.238 \end{equation}
                     pdfTeX warning (ext4): destination with the same identifier
  (name{equation.2.3.33}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.240 \end{equation}
+l.238 \end{equation}
                     ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 249.
+(hyperref)                removing `\uppercase' on input line 247.
 
 [18] [19pdfTeX warning (ext4): destination with the same identifier (name{equat
-ion.2.4.38}) has been already used, duplicate ignored
+ion.2.4.37}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.284 
-      ]
+l.286 \end{equation}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{equation.2.4.38}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.286 \end{equation}
+                    ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 287.
+(hyperref)                removing `\uppercase' on input line 291.
 
-<figures/feyn_inelscatt.png, id=792, 722.7pt x 542.025pt>
+<figures/feyn_inelscatt.png, id=895, 722.7pt x 542.025pt>
 File: figures/feyn_inelscatt.png Graphic file (type png)
 
 <use figures/feyn_inelscatt.png>
-Package pdftex.def Info: figures/feyn_inelscatt.png used on input line 292.
+Package pdftex.def Info: figures/feyn_inelscatt.png used on input line 296.
 (pdftex.def)             Requested size: 258.44043pt x 193.83035pt.
  [20 <./figures/feyn_inelscatt.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 307.
+(hyperref)                removing `\uppercase' on input line 312.
 
-<figures/inel_to_dis.png, id=806, 722.7pt x 252.945pt>
+<figures/inel_to_dis.png, id=910, 722.7pt x 252.945pt>
 File: figures/inel_to_dis.png Graphic file (type png)
 
 <use figures/inel_to_dis.png>
-Package pdftex.def Info: figures/inel_to_dis.png used on input line 317.
+Package pdftex.def Info: figures/inel_to_dis.png used on input line 322.
 (pdftex.def)             Requested size: 387.65407pt x 135.67738pt.
 
 
@@ -2178,53 +2184,47 @@ ion.2.6.47}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.355 
-      pdfTeX warning (ext4): destination with the same identifier (name{equatio
-n.2.6.48}) has been already used, duplicate ignored
+l.358 \end{equation}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{equation.2.6.48}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.355 
-       <./figures/inel_to_dis.png>] [23]
+l.358 \end{equation}
+                     <./figures/inel_to_dis.png>] [23]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 391.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 391.
+(hyperref)                removing `\uppercase' on input line 396.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 391.
+(hyperref)                removing `math shift' on input line 396.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 391.
+(hyperref)                removing `superscript' on input line 396.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 391.
+(hyperref)                removing `subscript' on input line 396.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 391.
+(hyperref)                removing `superscript' on input line 396.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 391.
+(hyperref)                removing `subscript' on input line 396.
 
-<figures/xf_x.png, id=839, 703.62875pt x 597.23125pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 396.
+
+<figures/xf_x.png, id=944, 703.62875pt x 597.23125pt>
 File: figures/xf_x.png Graphic file (type png)
  <use figures/xf_x.png>
-Package pdftex.def Info: figures/xf_x.png used on input line 404.
+Package pdftex.def Info: figures/xf_x.png used on input line 409.
 (pdftex.def)             Requested size: 387.65407pt x 329.03409pt.
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2232,242 +2232,369 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [24] [25 <./figures/xf_x.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 441.
+(hyperref)                removing `\uppercase' on input line 447.
 
-[26] <figures/f2n_f2p_models.png, id=880, 722.7pt x 542.025pt>
+[26] <figures/f2n_f2p_models.png, id=985, 722.7pt x 542.025pt>
 File: figures/f2n_f2p_models.png Graphic file (type png)
 
 <use figures/f2n_f2p_models.png>
-Package pdftex.def Info: figures/f2n_f2p_models.png used on input line 463.
+Package pdftex.def Info: figures/f2n_f2p_models.png used on input line 469.
 (pdftex.def)             Requested size: 387.65407pt x 290.73726pt.
  [27 <./figures/f2n_f2p_models.png>]
-<figures/F2p.png, id=894, 529.98pt x 647.41875pt>
+<figures/F2p.png, id=1000, 529.98pt x 647.41875pt>
 File: figures/F2p.png Graphic file (type png)
  <use figures/F2p.png>
-Package pdftex.def Info: figures/F2p.png used on input line 476.
+Package pdftex.def Info: figures/F2p.png used on input line 482.
 (pdftex.def)             Requested size: 387.65407pt x 473.56012pt.
 
-[28 <./figures/F2p.png>]
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 483.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 483.
+(hyperref)                removing `\uppercase' on input line 489.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 483.
+(hyperref)                removing `math shift' on input line 489.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 483.
+(hyperref)                removing `subscript' on input line 489.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 483.
+(hyperref)                removing `superscript' on input line 489.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 483.
+(hyperref)                removing `subscript' on input line 489.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 483.
+(hyperref)                removing `superscript' on input line 489.
 
-<figures/EMC.png, id=908, 722.7pt x 542.025pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 489.
+
+<figures/EMC.png, id=1007, 722.7pt x 542.025pt>
 File: figures/EMC.png Graphic file (type png)
  <use figures/EMC.png>
-Package pdftex.def Info: figures/EMC.png used on input line 488.
+Package pdftex.def Info: figures/EMC.png used on input line 495.
 (pdftex.def)             Requested size: 387.65407pt x 290.73726pt.
- [29 <./figures/EMC.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28] [29 <./figures/F2p.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 499.
+(hyperref)                removing `\uppercase' on input line 506.
 
-
-Overfull \hbox (27.33008pt too wide) in paragraph at lines 513--513
-[] 
- []
-
-[30] <figures/spec_tag1.png, id=930, 361.35pt x 180.675pt>
+[30 <./figures/EMC.png>]
+<figures/spec_tag1.png, id=1040, 361.35pt x 180.675pt>
 File: figures/spec_tag1.png Graphic file (type png)
 
 <use figures/spec_tag1.png>
-Package pdftex.def Info: figures/spec_tag1.png used on input line 532.
+Package pdftex.def Info: figures/spec_tag1.png used on input line 539.
 (pdftex.def)             Requested size: 172.28923pt x 86.14406pt.
 
-<figures/spec_tag2.png, id=931, 361.35pt x 180.675pt>
+<figures/spec_tag2.png, id=1041, 361.35pt x 180.675pt>
 File: figures/spec_tag2.png Graphic file (type png)
 
 <use figures/spec_tag2.png>
-Package pdftex.def Info: figures/spec_tag2.png used on input line 537.
+Package pdftex.def Info: figures/spec_tag2.png used on input line 544.
 (pdftex.def)             Requested size: 172.28923pt x 86.14406pt.
-
+ [31 <./figures/spec_tag1.png> <./figures/spec_tag2.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 547.
+(hyperref)                removing `\uppercase' on input line 554.
 
-[31 <./figures/spec_tag1.png> <./figures/spec_tag2.png>]
-Overfull \hbox (9.5016pt too wide) in paragraph at lines 567--567
+
+Overfull \hbox (9.5016pt too wide) in paragraph at lines 574--574
 [] 
  []
 
 [32]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 585.
+(hyperref)                removing `\uppercase' on input line 592.
 
-<figures/fsi_p.png, id=963, 492.84125pt x 445.665pt>
+[33] <figures/fsi_p.png, id=1080, 492.84125pt x 445.665pt>
 File: figures/fsi_p.png Graphic file (type png)
- <use figures/fsi_p.png>
-Package pdftex.def Info: figures/fsi_p.png used on input line 604.
+
+<use figures/fsi_p.png>
+Package pdftex.def Info: figures/fsi_p.png used on input line 613.
 (pdftex.def)             Requested size: 172.28923pt x 155.79468pt.
 
-<figures/fsi_th.png, id=964, 492.84125pt x 419.5675pt>
+<figures/fsi_th.png, id=1081, 492.84125pt x 419.5675pt>
 File: figures/fsi_th.png Graphic file (type png)
 
 <use figures/fsi_th.png>
-Package pdftex.def Info: figures/fsi_th.png used on input line 609.
+Package pdftex.def Info: figures/fsi_th.png used on input line 618.
 (pdftex.def)             Requested size: 172.28923pt x 146.67155pt.
- [33] [34 <./figures/fsi_p.png> <./figures/fsi_th.png>]) (./chapters/03_bonus12
-.tex [35]
+) (./chapters/03_bonus12.tex [34 <./figures/fsi_p.png> <./figures/fsi_th.png>] 
+[35]
 CHAPTER 3
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 1.
 
-<figures/cebaf.png, id=987, 231.921pt x 141.5835pt>
+<figures/cebaf.png, id=1105, 231.921pt x 141.5835pt>
 File: figures/cebaf.png Graphic file (type png)
  <use figures/cebaf.png>
-Package pdftex.def Info: figures/cebaf.png used on input line 7.
+Package pdftex.def Info: figures/cebaf.png used on input line 9.
 (pdftex.def)             Requested size: 344.58505pt x 210.37419pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 12.
+(hyperref)                removing `\uppercase' on input line 14.
 
 [36
 
  <./figures/cebaf.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 17.
+(hyperref)                removing `\uppercase' on input line 19.
 
-<figures/clas12.png, id=994, 2164.085pt x 2140.99875pt>
+[37] <figures/clas12.png, id=1122, 2164.085pt x 2140.99875pt>
 File: figures/clas12.png Graphic file (type png)
 
 <use figures/clas12.png>
-Package pdftex.def Info: figures/clas12.png used on input line 22.
+Package pdftex.def Info: figures/clas12.png used on input line 24.
 (pdftex.def)             Requested size: 344.58505pt x 340.90068pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[37]
+ [38 <./figures/clas12.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 29.
+(hyperref)                removing `\uppercase' on input line 31.
 
-[38 <./figures/clas12.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 34.
+(hyperref)                removing `\uppercase' on input line 36.
 
-<figures/htcc.png, id=1007, 722.7pt x 542.025pt>
+<figures/htcc.png, id=1134, 722.7pt x 542.025pt>
 File: figures/htcc.png Graphic file (type png)
  <use figures/htcc.png>
-Package pdftex.def Info: figures/htcc.png used on input line 39.
+Package pdftex.def Info: figures/htcc.png used on input line 45.
 (pdftex.def)             Requested size: 135.68127pt x 101.76176pt.
 
-[39 <./figures/htcc.png>]
+[39]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 45.
+(hyperref)                removing `\uppercase' on input line 50.
+
+<figures/dc_wires.png, id=1149, 767.86874pt x 462.72874pt>
+File: figures/dc_wires.png Graphic file (type png)
+
+<use figures/dc_wires.png>
+Package pdftex.def Info: figures/dc_wires.png used on input line 55.
+(pdftex.def)             Requested size: 344.58505pt x 207.6541pt.
+ [40 <./figures/htcc.png> <./figures/dc_wires.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 64.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 52.
+(hyperref)                removing `\uppercase' on input line 69.
 
-[40]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 57.
-
-<figures/ecal.png, id=1020, 722.7pt x 542.025pt>
+[41] <figures/ecal.png, id=1170, 589.20125pt x 467.7475pt>
 File: figures/ecal.png Graphic file (type png)
- <use figures/ecal.png>
-Package pdftex.def Info: figures/ecal.png used on input line 62.
-(pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
 
-[41 <./figures/ecal.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 71.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 76.
-
-<figures/ctof.png, id=1029, 722.7pt x 542.025pt>
-File: figures/ctof.png Graphic file (type png)
- <use figures/ctof.png>
-Package pdftex.def Info: figures/ctof.png used on input line 79.
-(pdftex.def)             Requested size: 135.68127pt x 101.76176pt.
-
+<use figures/ecal.png>
+Package pdftex.def Info: figures/ecal.png used on input line 75.
+(pdftex.def)             Requested size: 344.58505pt x 273.55623pt.
+ [42 <./figures/ecal.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 85.
 
-[42 <./figures/ctof.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 88.
+(hyperref)                removing `\uppercase' on input line 89.
 
-<figures/rtpc_op.png, id=1036, 722.7pt x 542.025pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 94.
+
+<figures/ctof.png, id=1184, 460.72125pt x 405.515pt>
+File: figures/ctof.png Graphic file (type png)
+ <use figures/ctof.png>
+Package pdftex.def Info: figures/ctof.png used on input line 97.
+(pdftex.def)             Requested size: 344.58505pt x 303.29396pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[43]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 102.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 105.
+
+[44 <./figures/ctof.png>] <figures/rtpc_op.png, id=1199, 722.7pt x 542.025pt>
 File: figures/rtpc_op.png Graphic file (type png)
- <use figures/rtpc_op.png>
-Package pdftex.def Info: figures/rtpc_op.png used on input line 93.
+
+<use figures/rtpc_op.png>
+Package pdftex.def Info: figures/rtpc_op.png used on input line 110.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
 
-[43 <./figures/rtpc_op.png>]
-<figures/rtpc_design.png, id=1045, 722.7pt x 542.025pt>
+<figures/gem_pic.png, id=1202, 585.18625pt x 443.6575pt>
+File: figures/gem_pic.png Graphic file (type png)
+
+<use figures/gem_pic.png>
+Package pdftex.def Info: figures/gem_pic.png used on input line 122.
+(pdftex.def)             Requested size: 189.5221pt x 143.68602pt.
+
+<figures/gem_field.png, id=1203, 581.17125pt x 579.16376pt>
+File: figures/gem_field.png Graphic file (type png)
+
+<use figures/gem_field.png>
+Package pdftex.def Info: figures/gem_field.png used on input line 126.
+(pdftex.def)             Requested size: 189.5221pt x 188.87111pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45 <./figures/rtpc_op.png>]
+<figures/rtpc_design.png, id=1216, 722.7pt x 542.025pt>
 File: figures/rtpc_design.png Graphic file (type png)
 
 <use figures/rtpc_design.png>
-Package pdftex.def Info: figures/rtpc_design.png used on input line 106.
+Package pdftex.def Info: figures/rtpc_design.png used on input line 137.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
- [44 <./figures/rtpc_design.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[46 <./figures/gem_pic.png> <./figures/gem_field.png>]
+<figures/DREAM_map.png, id=1225, 867.24pt x 543.02875pt>
+File: figures/DREAM_map.png Graphic file (type png)
+
+<use figures/DREAM_map.png>
+Package pdftex.def Info: figures/DREAM_map.png used on input line 148.
+(pdftex.def)             Requested size: 258.44043pt x 161.82442pt.
+ [47 <./figures/rtpc_design.png> <./figures/DREAM_map.png>] <figures/rtpc_daq.p
+ng, id=1238, 589.20125pt x 408.52625pt>
+File: figures/rtpc_daq.png Graphic file (type png)
+
+<use figures/rtpc_daq.png>
+Package pdftex.def Info: figures/rtpc_daq.png used on input line 157.
+(pdftex.def)             Requested size: 258.44043pt x 179.19107pt.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 113.
+(hyperref)                removing `\uppercase' on input line 162.
 
-<figures/dms_concept.png, id=1052, 722.7pt x 542.025pt>
-File: figures/dms_concept.png Graphic file (type png)
-
-<use figures/dms_concept.png>
-Package pdftex.def Info: figures/dms_concept.png used on input line 118.
-(pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
- [45 <./figures/dms_concept.png>]
-<figures/dms_gui.png, id=1059, 722.7pt x 397.485pt>
-File: figures/dms_gui.png Graphic file (type png)
- <use figures/dms_gui.png>
-Package pdftex.def Info: figures/dms_gui.png used on input line 129.
-(pdftex.def)             Requested size: 344.58505pt x 189.52301pt.
-
-[46 <./figures/dms_gui.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 137.
-
-<figures/rtpc_assembly.png, id=1067, 722.7pt x 542.025pt>
+<figures/rtpc_assembly.png, id=1240, 722.7pt x 542.025pt>
 File: figures/rtpc_assembly.png Graphic file (type png)
 
 <use figures/rtpc_assembly.png>
-Package pdftex.def Info: figures/rtpc_assembly.png used on input line 142.
+Package pdftex.def Info: figures/rtpc_assembly.png used on input line 167.
 (pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
-) (./chapters/04_simdev.tex [47 <./figures/rtpc_assembly.png>] [48]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[48 <./figures/rtpc_daq.png>]
+<figures/rtpc_complete.png, id=1252, 1445.4pt x 1084.05pt>
+File: figures/rtpc_complete.png Graphic file (type png)
+
+<use figures/rtpc_complete.png>
+Package pdftex.def Info: figures/rtpc_complete.png used on input line 177.
+(pdftex.def)             Requested size: 409.19186pt x 306.8898pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[49 <./figures/rtpc_assembly.png>] [50 <./figures/rtpc_complete.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 183.
+
+<figures/rtpc_gas_panel.png, id=1266, 1445.4pt x 1971.365pt>
+File: figures/rtpc_gas_panel.png Graphic file (type png)
+
+<use figures/rtpc_gas_panel.png>
+Package pdftex.def Info: figures/rtpc_gas_panel.png used on input line 187.
+(pdftex.def)             Requested size: 193.82703pt x 264.34804pt.
+ [51
+
+ <./figures/rtpc_gas_panel.png>]
+<figures/dms_concept.png, id=1275, 722.7pt x 542.025pt>
+File: figures/dms_concept.png Graphic file (type png)
+
+<use figures/dms_concept.png>
+Package pdftex.def Info: figures/dms_concept.png used on input line 198.
+(pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
+
+<figures/dms/const1.png, id=1280, 642.4pt x 481.8pt>
+File: figures/dms/const1.png Graphic file (type png)
+
+<use figures/dms/const1.png>
+Package pdftex.def Info: figures/dms/const1.png used on input line 209.
+(pdftex.def)             Requested size: 323.04726pt x 242.28886pt.
+ [52 <./figures/dms_concept.png>]
+<figures/dms/const2.png, id=1286, 1445.4pt x 1182.4175pt>
+File: figures/dms/const2.png Graphic file (type png)
+
+<use figures/dms/const2.png>
+Package pdftex.def Info: figures/dms/const2.png used on input line 215.
+(pdftex.def)             Requested size: 323.04726pt x 264.26431pt.
+
+<figures/dms/dms_complete.png, id=1287, 3035.34pt x 3035.34pt>
+File: figures/dms/dms_complete.png Graphic file (type png)
+
+<use figures/dms/dms_complete.png>
+Package pdftex.def Info: figures/dms/dms_complete.png used on input line 221.
+(pdftex.def)             Requested size: 258.44043pt x 258.44049pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[53 <./figures/dms/const1.png> <./figures/dms/const2.png>]
+<figures/dms/electrode_supply.png, id=1299, 431.211pt x 338.7054pt>
+File: figures/dms/electrode_supply.png Graphic file (type png)
+
+<use figures/dms/electrode_supply.png>
+Package pdftex.def Info: figures/dms/electrode_supply.png used on input line 23
+0.
+(pdftex.def)             Requested size: 426.42474pt x 334.96277pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/dms/anode_supply.png, id=1300, 451.4466pt x 160.4394pt>
+File: figures/dms/anode_supply.png Graphic file (type png)
+
+<use figures/dms/anode_supply.png>
+Package pdftex.def Info: figures/dms/anode_supply.png used on input line 236.
+(pdftex.def)             Requested size: 426.42474pt x 151.54749pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/dms/DAQ_flowchart.png, id=1301, 1445.4pt x 333.245pt>
+File: figures/dms/DAQ_flowchart.png Graphic file (type png)
+
+<use figures/dms/DAQ_flowchart.png>
+Package pdftex.def Info: figures/dms/DAQ_flowchart.png used on input line 242.
+(pdftex.def)             Requested size: 409.19186pt x 94.3402pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[54 <./figures/dms/dms_complete.png>]
+
+LaTeX Warning: Text page 55 contains only floats.
+
+[55 <./figures/dms/electrode_supply.png (PNG copy)> <./figures/dms/anode_supply
+.png (PNG copy)>]) (./chapters/04_simdev.tex [56 <./figures/dms/DAQ_flowchart.p
+ng>]
 CHAPTER 4
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2477,7 +2604,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 7.
 
-[49
+[57
 
 ]
 
@@ -2488,7 +2615,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 20.
 
-[50]
+[58]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 23.
@@ -2501,230 +2628,179 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 23.
 
-<figures/rtpc.png, id=1086, 1244.65pt x 1244.65pt>
+<figures/rtpc.png, id=1331, 578.16pt x 542.025pt>
 File: figures/rtpc.png Graphic file (type png)
  <use figures/rtpc.png>
 Package pdftex.def Info: figures/rtpc.png used on input line 41.
-(pdftex.def)             Requested size: 344.58505pt x 344.58731pt.
+(pdftex.def)             Requested size: 344.58505pt x 323.04233pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[51] [52 <./figures/rtpc.png (PNG copy)>]
+[59] [60 <./figures/rtpc.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 61.
 
-[53]
+[61]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[54]
+[62]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 120.
 
-[55] <figures/solenoid_map.png, id=1133, 806.01125pt x 626.34pt>
+[63] <figures/solenoid_map.png, id=1378, 806.01125pt x 626.34pt>
 File: figures/solenoid_map.png Graphic file (type png)
 
 <use figures/solenoid_map.png>
 Package pdftex.def Info: figures/solenoid_map.png used on input line 127.
 (pdftex.def)             Requested size: 344.58505pt x 267.77267pt.
 
-<figures/bfield.png, id=1134, 722.7pt x 542.025pt>
+<figures/bfield.png, id=1379, 800.9925pt x 577.15625pt>
 File: figures/bfield.png Graphic file (type png)
- <use figures/bfield.png>
+
+<use figures/bfield.png>
 Package pdftex.def Info: figures/bfield.png used on input line 134.
-(pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
+(pdftex.def)             Requested size: 344.58505pt x 248.29564pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `bfield' on page 56 undefined on input line 139.
-
-[56 <./figures/solenoid_map.png>]
+[64 <./figures/solenoid_map.png>] [65 <./figures/bfield.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 145.
 
-[57 <./figures/bfield.png>]
-<figures/gas_opt_phi_vs_t.png, id=1145, 543.02875pt x 411.5375pt>
+<figures/gas_opt_phi_vs_t.png, id=1393, 543.02875pt x 411.5375pt>
 File: figures/gas_opt_phi_vs_t.png Graphic file (type png)
 
 <use figures/gas_opt_phi_vs_t.png>
 Package pdftex.def Info: figures/gas_opt_phi_vs_t.png used on input line 151.
 (pdftex.def)             Requested size: 344.58505pt x 261.15385pt.
- [58 <./figures/gas_opt_phi_vs_t.png>]
-<figures/gas_opt_sigphi_vs_sigt.png, id=1157, 515.9275pt x 393.47pt>
+ [66 <./figures/gas_opt_phi_vs_t.png>]
+<figures/gas_opt_sigphi_vs_sigt.png, id=1403, 515.9275pt x 393.47pt>
 File: figures/gas_opt_sigphi_vs_sigt.png Graphic file (type png)
 
 <use figures/gas_opt_sigphi_vs_sigt.png>
 Package pdftex.def Info: figures/gas_opt_sigphi_vs_sigt.png used on input line 
 164.
 (pdftex.def)             Requested size: 344.58505pt x 262.801pt.
- [59 <./figures/gas_opt_sigphi_vs_sigt.png>] <figures/gas_opt_pot.png, id=1164,
- 524.96124pt x 411.5375pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/gas_opt_pot.png, id=1405, 524.96124pt x 411.5375pt>
 File: figures/gas_opt_pot.png Graphic file (type png)
 
 <use figures/gas_opt_pot.png>
 Package pdftex.def Info: figures/gas_opt_pot.png used on input line 173.
 (pdftex.def)             Requested size: 344.58505pt x 270.1399pt.
- [60 <./figures/gas_opt_pot.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[67] [68 <./figures/gas_opt_sigphi_vs_sigt.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 185.
 
-<figures/drifte_t_vs_r.png, id=1174, 722.7pt x 542.025pt>
+[69 <./figures/gas_opt_pot.png>]
+<figures/drifte_t_vs_r.png, id=1427, 722.7pt x 542.025pt>
 File: figures/drifte_t_vs_r.png Graphic file (type png)
 
 <use figures/drifte_t_vs_r.png>
 Package pdftex.def Info: figures/drifte_t_vs_r.png used on input line 191.
 (pdftex.def)             Requested size: 211.0599pt x 158.29147pt.
 
-<figures/drifte_phi_vs_r.png, id=1175, 722.7pt x 542.025pt>
+<figures/drifte_phi_vs_r.png, id=1428, 722.7pt x 542.025pt>
 File: figures/drifte_phi_vs_r.png Graphic file (type png)
 
 <use figures/drifte_phi_vs_r.png>
 Package pdftex.def Info: figures/drifte_phi_vs_r.png used on input line 196.
 (pdftex.def)             Requested size: 211.0599pt x 158.29147pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/drifte_a_and_b.png, id=1178, 722.7pt x 542.025pt>
+<figures/drifte_a_and_b.png, id=1434, 722.7pt x 469.755pt>
 File: figures/drifte_a_and_b.png Graphic file (type png)
 
 <use figures/drifte_a_and_b.png>
-Package pdftex.def Info: figures/drifte_a_and_b.png used on input line 207.
-(pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
+Package pdftex.def Info: figures/drifte_a_and_b.png used on input line 217.
+(pdftex.def)             Requested size: 409.19186pt x 265.97833pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[61]
-Overfull \vbox (24.4182pt too high) has occurred while \output is active []
-
-
-[62 <./figures/drifte_t_vs_r.png> <./figures/drifte_phi_vs_r.png> <./figures/dr
-ifte_a_and_b.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 224.
-
-
-LaTeX Warning: Reference `sec:dms' on page 63 undefined on input line 226.
+(hyperref)                removing `\uppercase' on input line 222.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 227.
+(hyperref)                removing `\uppercase' on input line 225.
 
-[63] [64]
+[70 <./figures/drifte_t_vs_r.png> <./figures/drifte_phi_vs_r.png>] [71 <./figur
+es/drifte_a_and_b.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 285.
+(hyperref)                removing `\uppercase' on input line 243.
 
-<figures/efield.png, id=1251, 542.025pt x 361.35pt>
+[72] <figures/efield.png, id=1468, 542.025pt x 361.35pt>
 File: figures/efield.png Graphic file (type png)
- <use figures/efield.png>
-Package pdftex.def Info: figures/efield.png used on input line 293.
-(pdftex.def)             Requested size: 142.14157pt x 94.7593pt.
 
-<figures/efield_goodsep.png, id=1252, 722.7pt x 542.025pt>
+<use figures/efield.png>
+Package pdftex.def Info: figures/efield.png used on input line 250.
+(pdftex.def)             Requested size: 301.50945pt x 201.01477pt.
+
+<figures/efield_goodsep.png, id=1469, 722.7pt x 542.025pt>
 File: figures/efield_goodsep.png Graphic file (type png)
 
 <use figures/efield_goodsep.png>
-Package pdftex.def Info: figures/efield_goodsep.png used on input line 298.
-(pdftex.def)             Requested size: 129.22021pt x 96.91518pt.
+Package pdftex.def Info: figures/efield_goodsep.png used on input line 256.
+(pdftex.def)             Requested size: 301.50945pt x 226.13542pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-[]\OT1/cmr/m/n/10.95 (b) |Electric-field pro-file
- []
-
-
-Underfull \hbox (badness 3668) in paragraph at lines 299--299
-\OT1/cmr/m/n/10.95 along the plane of the
- []
-
-<figures/efield_zoom.png, id=1253, 578.16pt x 361.35pt>
+<figures/efield_zoom.png, id=1470, 578.16pt x 361.35pt>
 File: figures/efield_zoom.png Graphic file (type png)
 
 <use figures/efield_zoom.png>
-Package pdftex.def Info: figures/efield_zoom.png used on input line 303.
-(pdftex.def)             Requested size: 142.14157pt x 88.83754pt.
+Package pdftex.def Info: figures/efield_zoom.png used on input line 262.
+(pdftex.def)             Requested size: 344.58505pt x 215.36156pt.
+ [73 <./figures/efield.png> <./figures/efield_goodsep.png>] <figures/efield_big
+sep.png, id=1484, 722.7pt x 542.025pt>
+File: figures/efield_bigsep.png Graphic file (type png)
 
-Underfull \hbox (badness 1286) in paragraph at lines 304--304
-[]\OT1/cmr/m/n/10.95 (c) |Zoomed in electric-field
- []
+<use figures/efield_bigsep.png>
+Package pdftex.def Info: figures/efield_bigsep.png used on input line 273.
+(pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
 
+<figures/efield_midsep.png, id=1485, 722.7pt x 542.025pt>
+File: figures/efield_midsep.png Graphic file (type png)
 
-Underfull \hbox (badness 1281) in paragraph at lines 304--304
-\OT1/cmr/m/n/10.95 pro-file to be-tween the two
- []
+<use figures/efield_midsep.png>
+Package pdftex.def Info: figures/efield_midsep.png used on input line 279.
+(pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
+ [74 <./figures/efield_zoom.png>]
+File: figures/efield_goodsep.png Graphic file (type png)
+
+<use figures/efield_goodsep.png>
+Package pdftex.def Info: figures/efield_goodsep.png used on input line 285.
+(pdftex.def)             Requested size: 344.58505pt x 258.44048pt.
+ [75 <./figures/efield_bigsep.png> <./figures/efield_midsep.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 292.
+
+<figures/vdc_sim_td.png, id=1497, 800.9925pt x 576.1525pt>
+File: figures/vdc_sim_td.png Graphic file (type png)
+
+<use figures/vdc_sim_td.png>
+Package pdftex.def Info: figures/vdc_sim_td.png used on input line 297.
+(pdftex.def)             Requested size: 344.58505pt x 247.86382pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[65] <figures/efield_bigsep.png, id=1266, 722.7pt x 542.025pt>
-File: figures/efield_bigsep.png Graphic file (type png)
-
-<use figures/efield_bigsep.png>
-Package pdftex.def Info: figures/efield_bigsep.png used on input line 315.
-(pdftex.def)             Requested size: 129.22021pt x 96.91518pt.
-
-Underfull \hbox (badness 3364) in paragraph at lines 316--316
-[]\OT1/cmr/m/n/10.95 (a) |Elec-tric field pro-file
- []
-
-
-Underfull \hbox (badness 1189) in paragraph at lines 316--316
-\OT1/cmr/m/n/10.95 with elec-trode sep-a-ra-tion
- []
-
-<figures/efield_midsep.png, id=1267, 722.7pt x 542.025pt>
-File: figures/efield_midsep.png Graphic file (type png)
-
-<use figures/efield_midsep.png>
-Package pdftex.def Info: figures/efield_midsep.png used on input line 320.
-(pdftex.def)             Requested size: 129.22021pt x 96.91518pt.
-
-Underfull \hbox (badness 3029) in paragraph at lines 321--321
-[]\OT1/cmr/m/n/10.95 (b) |Elec-tric field pro-file
- []
-
-
-Underfull \hbox (badness 1189) in paragraph at lines 321--321
-\OT1/cmr/m/n/10.95 with elec-trode sep-a-ra-tion
- []
-
-File: figures/efield_goodsep.png Graphic file (type png)
-<use figures/efield_goodsep.png>
-Package pdftex.def Info: figures/efield_goodsep.png used on input line 325.
-(pdftex.def)             Requested size: 129.22021pt x 96.91518pt.
-
-Underfull \hbox (badness 3724) in paragraph at lines 326--326
-[]\OT1/cmr/m/n/10.95 (c) |Elec-tric field pro-file
- []
-
-
-Underfull \hbox (badness 1189) in paragraph at lines 326--326
-\OT1/cmr/m/n/10.95 with elec-trode sep-a-ra-tion
- []
-
-[66 <./figures/efield.png> <./figures/efield_goodsep.png> <./figures/efield_zoo
-m.png> <./figures/efield_bigsep.png> <./figures/efield_midsep.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 337.
-
-<figures/vdc_sim_td.png, id=1279, 800.9925pt x 576.1525pt>
-File: figures/vdc_sim_td.png Graphic file (type png)
-
-<use figures/vdc_sim_td.png>
-Package pdftex.def Info: figures/vdc_sim_td.png used on input line 342.
-(pdftex.def)             Requested size: 344.58505pt x 247.86382pt.
- [67 <./figures/vdc_sim_td.png>])
-(./chapters/05_analysis.tex [68]
+[76]) (./chapters/05_analysis.tex [77 <./figures/vdc_sim_td.png>]
 CHAPTER 5
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2734,191 +2810,244 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 7.
 
-[69
+[78
 
-] [70]
+] [79] [80]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 26.
 
-[71] [72]
+[81]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 51.
 
-<figures/rga/1d_ecal.png, id=1308, 1099.10625pt x 653.44125pt>
-File: figures/rga/1d_ecal.png Graphic file (type png)
+<figures/christy_bosted_fit.png, id=1545, 774.895pt x 543.02875pt>
+File: figures/christy_bosted_fit.png Graphic file (type png)
 
-<use figures/rga/1d_ecal.png>
-Package pdftex.def Info: figures/rga/1d_ecal.png used on input line 56.
-(pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
-
-<figures/rga/2d_ecal.png, id=1309, 1182.4175pt x 610.28pt>
-File: figures/rga/2d_ecal.png Graphic file (type png)
-
-<use figures/rga/2d_ecal.png>
-Package pdftex.def Info: figures/rga/2d_ecal.png used on input line 63.
-(pdftex.def)             Requested size: 387.65407pt x 200.08pt.
+<use figures/christy_bosted_fit.png>
+Package pdftex.def Info: figures/christy_bosted_fit.png used on input line 56.
+(pdftex.def)             Requested size: 387.65407pt x 271.66284pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[73 <./figures/rga/1d_ecal.png>]
+[82]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 72.
+(hyperref)                removing `\uppercase' on input line 63.
 
-<figures/rga/vz.png, id=1319, 1192.455pt x 618.31pt>
+<figures/rga/1d_ecal.png, id=1552, 1099.10625pt x 653.44125pt>
+File: figures/rga/1d_ecal.png Graphic file (type png)
+
+<use figures/rga/1d_ecal.png>
+Package pdftex.def Info: figures/rga/1d_ecal.png used on input line 68.
+(pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
+ [83 <./figures/christy_bosted_fit.png>]
+<figures/rga/1d_ecal_ECIN.png, id=1559, 1099.10625pt x 653.44125pt>
+File: figures/rga/1d_ecal_ECIN.png Graphic file (type png)
+
+<use figures/rga/1d_ecal_ECIN.png>
+Package pdftex.def Info: figures/rga/1d_ecal_ECIN.png used on input line 75.
+(pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
+ [84 <./figures/rga/1d_ecal.png>]
+<figures/rga/1d_ecal_ECout.png, id=1565, 1099.10625pt x 653.44125pt>
+File: figures/rga/1d_ecal_ECout.png Graphic file (type png)
+
+<use figures/rga/1d_ecal_ECout.png>
+Package pdftex.def Info: figures/rga/1d_ecal_ECout.png used on input line 82.
+(pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
+ [85 <./figures/rga/1d_ecal_ECIN.png>]
+<figures/rga/2d_ecal.png, id=1571, 1182.4175pt x 610.28pt>
+File: figures/rga/2d_ecal.png Graphic file (type png)
+
+<use figures/rga/2d_ecal.png>
+Package pdftex.def Info: figures/rga/2d_ecal.png used on input line 89.
+(pdftex.def)             Requested size: 387.65407pt x 200.08pt.
+
+<figures/rga/2d_ecal_ECIN.png, id=1572, 1182.4175pt x 610.28pt>
+File: figures/rga/2d_ecal_ECIN.png Graphic file (type png)
+
+<use figures/rga/2d_ecal_ECIN.png>
+Package pdftex.def Info: figures/rga/2d_ecal_ECIN.png used on input line 96.
+(pdftex.def)             Requested size: 387.65407pt x 200.08pt.
+ [86 <./figures/rga/1d_ecal_ECout.png> <./figures/rga/2d_ecal.png>]
+<figures/rga/2d_ecal_ECOUT.png, id=1579, 1182.4175pt x 610.28pt>
+File: figures/rga/2d_ecal_ECOUT.png Graphic file (type png)
+
+<use figures/rga/2d_ecal_ECOUT.png>
+Package pdftex.def Info: figures/rga/2d_ecal_ECOUT.png used on input line 103.
+(pdftex.def)             Requested size: 387.65407pt x 200.08pt.
+ [87 <./figures/rga/2d_ecal_ECIN.png> <./figures/rga/2d_ecal_ECOUT.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 112.
+
+<figures/rga/vz.png, id=1596, 1192.455pt x 618.31pt>
 File: figures/rga/vz.png Graphic file (type png)
  <use figures/rga/vz.png>
-Package pdftex.def Info: figures/rga/vz.png used on input line 77.
+Package pdftex.def Info: figures/rga/vz.png used on input line 118.
 (pdftex.def)             Requested size: 387.65407pt x 201.00497pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/rga/fit_etot_p.png, id=1320, 680.5425pt x 409.53pt>
+<figures/rga/fit_etot_p.png, id=1597, 680.5425pt x 409.53pt>
 File: figures/rga/fit_etot_p.png Graphic file (type png)
 
 <use figures/rga/fit_etot_p.png>
-Package pdftex.def Info: figures/rga/fit_etot_p.png used on input line 84.
+Package pdftex.def Info: figures/rga/fit_etot_p.png used on input line 125.
 (pdftex.def)             Requested size: 387.65407pt x 233.27829pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[74 <./figures/rga/2d_ecal.png>] [75 <./figures/rga/vz.png> <./figures/rga/fit_
-etot_p.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 95.
+<figures/rga/Fit_slice_3.png, id=1598, 722.7pt x 505.89pt>
+File: figures/rga/Fit_slice_3.png Graphic file (type png)
+
+<use figures/rga/Fit_slice_3.png>
+Package pdftex.def Info: figures/rga/Fit_slice_3.png used on input line 132.
+(pdftex.def)             Requested size: 387.65407pt x 271.35478pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[88]
+
+LaTeX Warning: Text page 89 contains only floats.
+
+[89 <./figures/rga/vz.png> <./figures/rga/fit_etot_p.png>] [90 <./figures/rga/F
+it_slice_3.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 152.
+
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 152.
 
-<figures/rga/uncut/kinematics.png, id=1339, 1099.10625pt x 653.44125pt>
+<figures/rga/uncut/kinematics.png, id=1629, 1099.10625pt x 653.44125pt>
 File: figures/rga/uncut/kinematics.png Graphic file (type png)
 
 <use figures/rga/uncut/kinematics.png>
-Package pdftex.def Info: figures/rga/uncut/kinematics.png used on input line 10
-7.
+Package pdftex.def Info: figures/rga/uncut/kinematics.png used on input line 17
+2.
 (pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/rga/kinematics.png, id=1340, 1099.10625pt x 653.44125pt>
+<figures/rga/kinematics.png, id=1630, 722.7pt x 433.62pt>
 File: figures/rga/kinematics.png Graphic file (type png)
 
 <use figures/rga/kinematics.png>
-Package pdftex.def Info: figures/rga/kinematics.png used on input line 114.
-(pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
+Package pdftex.def Info: figures/rga/kinematics.png used on input line 179.
+(pdftex.def)             Requested size: 387.65407pt x 232.58981pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[76]
+[91]
 
-LaTeX Warning: Text page 77 contains only floats.
+LaTeX Warning: Text page 92 contains only floats.
 
-[77 <./figures/rga/uncut/kinematics.png> <./figures/rga/kinematics.png>]
-<figures/rga/uncut/energies.png, id=1351, 1099.10625pt x 653.44125pt>
+[92 <./figures/rga/uncut/kinematics.png> <./figures/rga/kinematics.png>]
+<figures/rga/uncut/energies.png, id=1641, 1099.10625pt x 653.44125pt>
 File: figures/rga/uncut/energies.png Graphic file (type png)
 
 <use figures/rga/uncut/energies.png>
-Package pdftex.def Info: figures/rga/uncut/energies.png used on input line 122.
+Package pdftex.def Info: figures/rga/uncut/energies.png used on input line 187.
 
 (pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
 
-<figures/rga/energies.png, id=1352, 1099.10625pt x 653.44125pt>
+<figures/rga/energies.png, id=1642, 1099.10625pt x 653.44125pt>
 File: figures/rga/energies.png Graphic file (type png)
 
 <use figures/rga/energies.png>
-Package pdftex.def Info: figures/rga/energies.png used on input line 129.
+Package pdftex.def Info: figures/rga/energies.png used on input line 194.
 (pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
- [78 <./figures/rga/uncut/energies.png> <./figures/rga/energies.png>]
-<figures/rga/uncut/2Dkin1.png, id=1359, 1099.10625pt x 653.44125pt>
+ [93 <./figures/rga/uncut/energies.png> <./figures/rga/energies.png>]
+<figures/rga/uncut/2Dkin1.png, id=1649, 1099.10625pt x 653.44125pt>
 File: figures/rga/uncut/2Dkin1.png Graphic file (type png)
 
 <use figures/rga/uncut/2Dkin1.png>
-Package pdftex.def Info: figures/rga/uncut/2Dkin1.png used on input line 137.
+Package pdftex.def Info: figures/rga/uncut/2Dkin1.png used on input line 202.
 (pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
 
-<figures/rga/2Dkin1.png, id=1360, 1099.10625pt x 653.44125pt>
+<figures/rga/2Dkin1.png, id=1650, 1099.10625pt x 653.44125pt>
 File: figures/rga/2Dkin1.png Graphic file (type png)
 
 <use figures/rga/2Dkin1.png>
-Package pdftex.def Info: figures/rga/2Dkin1.png used on input line 144.
+Package pdftex.def Info: figures/rga/2Dkin1.png used on input line 209.
 (pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
- [79 <./figures/rga/uncut/2Dkin1.png> <./figures/rga/2Dkin1.png>]
-<figures/rga/uncut/2Dkin2.png, id=1369, 1099.10625pt x 653.44125pt>
+ [94 <./figures/rga/uncut/2Dkin1.png> <./figures/rga/2Dkin1.png>]
+<figures/rga/uncut/2Dkin2.png, id=1657, 1099.10625pt x 653.44125pt>
 File: figures/rga/uncut/2Dkin2.png Graphic file (type png)
 
 <use figures/rga/uncut/2Dkin2.png>
-Package pdftex.def Info: figures/rga/uncut/2Dkin2.png used on input line 152.
+Package pdftex.def Info: figures/rga/uncut/2Dkin2.png used on input line 217.
 (pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
 
-<figures/rga/2Dkin2.png, id=1370, 1099.10625pt x 653.44125pt>
+<figures/rga/2Dkin2.png, id=1658, 1099.10625pt x 653.44125pt>
 File: figures/rga/2Dkin2.png Graphic file (type png)
 
 <use figures/rga/2Dkin2.png>
-Package pdftex.def Info: figures/rga/2Dkin2.png used on input line 159.
+Package pdftex.def Info: figures/rga/2Dkin2.png used on input line 224.
 (pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
- [80 <./figures/rga/uncut/2Dkin2.png> <./figures/rga/2Dkin2.png>]
-<figures/rga/uncut/sampFrac.png, id=1377, 1099.10625pt x 653.44125pt>
+ [95 <./figures/rga/uncut/2Dkin2.png> <./figures/rga/2Dkin2.png>] <figures/rga/
+uncut/sampFrac.png, id=1667, 722.7pt x 469.755pt>
 File: figures/rga/uncut/sampFrac.png Graphic file (type png)
 
 <use figures/rga/uncut/sampFrac.png>
-Package pdftex.def Info: figures/rga/uncut/sampFrac.png used on input line 167.
+Package pdftex.def Info: figures/rga/uncut/sampFrac.png used on input line 232.
 
-(pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
+(pdftex.def)             Requested size: 387.65407pt x 251.9723pt.
 
-<figures/rga/sampFrac.png, id=1378, 1099.10625pt x 653.44125pt>
+<figures/rga/sampFrac.png, id=1668, 1099.10625pt x 653.44125pt>
 File: figures/rga/sampFrac.png Graphic file (type png)
 
 <use figures/rga/sampFrac.png>
-Package pdftex.def Info: figures/rga/sampFrac.png used on input line 174.
+Package pdftex.def Info: figures/rga/sampFrac.png used on input line 239.
 (pdftex.def)             Requested size: 387.65407pt x 230.4627pt.
- [81 <./figures/rga/uncut/sampFrac.png> <./figures/rga/sampFrac.png>]
+ [96 <./figures/rga/uncut/sampFrac.png> <./figures/rga/sampFrac.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 180.
+(hyperref)                removing `\uppercase' on input line 245.
 
-<figures/rga/xB_vs_y_bins.png, id=1385, 1175.39125pt x 539.01375pt>
+<figures/rga/xB_vs_y_bins.png, id=1676, 1175.39125pt x 539.01375pt>
 File: figures/rga/xB_vs_y_bins.png Graphic file (type png)
 
 <use figures/rga/xB_vs_y_bins.png>
-Package pdftex.def Info: figures/rga/xB_vs_y_bins.png used on input line 194.
+Package pdftex.def Info: figures/rga/xB_vs_y_bins.png used on input line 259.
 (pdftex.def)             Requested size: 387.65407pt x 177.76816pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[82
+ [97
 
  <./figures/rga/xB_vs_y_bins.png>]
-<figures/rga/acceptance0.png, id=1399, 1175.39125pt x 539.01375pt>
+<figures/rga/acceptance0.png, id=1692, 1175.39125pt x 539.01375pt>
 File: figures/rga/acceptance0.png Graphic file (type png)
 
 <use figures/rga/acceptance0.png>
-Package pdftex.def Info: figures/rga/acceptance0.png used on input line 223.
-(pdftex.def)             Requested size: 387.65407pt x 177.76816pt.
-
-<figures/rga/acceptance1.png, id=1400, 1175.39125pt x 539.01375pt>
-File: figures/rga/acceptance1.png Graphic file (type png)
-
-<use figures/rga/acceptance1.png>
-Package pdftex.def Info: figures/rga/acceptance1.png used on input line 229.
+Package pdftex.def Info: figures/rga/acceptance0.png used on input line 292.
 (pdftex.def)             Requested size: 387.65407pt x 177.76816pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/rga/acceptance2.png, id=1401, 1175.39125pt x 539.01375pt>
+<figures/rga/acceptance1.png, id=1693, 1175.39125pt x 539.01375pt>
+File: figures/rga/acceptance1.png Graphic file (type png)
+
+<use figures/rga/acceptance1.png>
+Package pdftex.def Info: figures/rga/acceptance1.png used on input line 298.
+(pdftex.def)             Requested size: 387.65407pt x 177.76816pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/rga/acceptance2.png, id=1694, 1175.39125pt x 539.01375pt>
 File: figures/rga/acceptance2.png Graphic file (type png)
 
 <use figures/rga/acceptance2.png>
-Package pdftex.def Info: figures/rga/acceptance2.png used on input line 235.
+Package pdftex.def Info: figures/rga/acceptance2.png used on input line 304.
 (pdftex.def)             Requested size: 387.65407pt x 177.76816pt.
 
 
@@ -2926,90 +3055,26 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 240.
+(hyperref)                removing `\uppercase' on input line 309.
 
-LaTeX Font Info:    Try loading font information for U+rsfso on input line 241.
+LaTeX Font Info:    Try loading font information for U+rsfso on input line 310.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/rsfso/ursfso.fd
 File: ursfso.fd 2011/02/13 Fontinst v1.933 font definitions for U/rsfso.
 )
 LaTeX Font Info:    Font shape `U/rsfso/m/n' will be
-(Font)              scaled to size 12.0pt on input line 241.
+(Font)              scaled to size 12.0pt on input line 310.
 LaTeX Font Info:    Font shape `U/rsfso/m/n' will be
-(Font)              scaled to size 8.0pt on input line 241.
+(Font)              scaled to size 8.0pt on input line 310.
 LaTeX Font Info:    Font shape `U/rsfso/m/n' will be
-(Font)              scaled to size 6.0pt on input line 241.
- [83 <./figures/rga/acceptance0.png>]
-<figures/rga/charge.png, id=1408, 1183.42125pt x 545.03625pt>
-File: figures/rga/charge.png Graphic file (type png)
-
-<use figures/rga/charge.png>
-Package pdftex.def Info: figures/rga/charge.png used on input line 249.
-(pdftex.def)             Requested size: 387.65407pt x 178.53186pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[84 <./figures/rga/acceptance1.png> <./figures/rga/acceptance2.png>] [85 <./fig
-ures/rga/charge.png>]
+(Font)              scaled to size 6.0pt on input line 310.
+ [98] [99 <./figures/rga/acceptance0.png> <./figures/rga/acceptance1.png>] [100
+ <./figures/rga/acceptance2.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 282.
+(hyperref)                removing `\uppercase' on input line 337.
 
-<figures/rga/xsec_0.png, id=1431, 1001.7425pt x 948.54375pt>
-File: figures/rga/xsec_0.png Graphic file (type png)
-
-<use figures/rga/xsec_0.png>
-Package pdftex.def Info: figures/rga/xsec_0.png used on input line 298.
-(pdftex.def)             Requested size: 189.5221pt x 179.45808pt.
-
-<figures/rga/xsec_1.png, id=1432, 1001.7425pt x 948.54375pt>
-File: figures/rga/xsec_1.png Graphic file (type png)
-
-<use figures/rga/xsec_1.png>
-Package pdftex.def Info: figures/rga/xsec_1.png used on input line 302.
-(pdftex.def)             Requested size: 189.5221pt x 179.45808pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/rga/xsec_2.png, id=1433, 1001.7425pt x 948.54375pt>
-File: figures/rga/xsec_2.png Graphic file (type png)
-
-<use figures/rga/xsec_2.png>
-Package pdftex.def Info: figures/rga/xsec_2.png used on input line 309.
-(pdftex.def)             Requested size: 189.5221pt x 179.45808pt.
-
-<figures/rga/xsec_3.png, id=1434, 1001.7425pt x 948.54375pt>
-File: figures/rga/xsec_3.png Graphic file (type png)
-
-<use figures/rga/xsec_3.png>
-Package pdftex.def Info: figures/rga/xsec_3.png used on input line 313.
-(pdftex.def)             Requested size: 189.5221pt x 179.45808pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/rga/xsec_4.png, id=1435, 1001.7425pt x 948.54375pt>
-File: figures/rga/xsec_4.png Graphic file (type png)
-
-<use figures/rga/xsec_4.png>
-Package pdftex.def Info: figures/rga/xsec_4.png used on input line 320.
-(pdftex.def)             Requested size: 189.5221pt x 179.45808pt.
-
-<figures/rga/xsec_5.png, id=1436, 1001.7425pt x 948.54375pt>
-File: figures/rga/xsec_5.png Graphic file (type png)
-
-<use figures/rga/xsec_5.png>
-Package pdftex.def Info: figures/rga/xsec_5.png used on input line 324.
-(pdftex.def)             Requested size: 189.5221pt x 179.45808pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (./chapters/06_results.tex [86] [87 <./figures/rga/xsec_0.png> <./figures/rga
-/xsec_1.png> <./figures/rga/xsec_2.png> <./figures/rga/xsec_3.png> <./figures/r
-ga/xsec_4.png> <./figures/rga/xsec_5.png>]
+) (./chapters/06_results.tex [101]
 CHAPTER 6
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -3019,234 +3084,375 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 5.
 
-<figures/rga/ratio_0.png, id=1452, 1001.7425pt x 948.54375pt>
-File: figures/rga/ratio_0.png Graphic file (type png)
+<figures/rga/xsec_0.png, id=1731, 1001.7425pt x 948.54375pt>
+File: figures/rga/xsec_0.png Graphic file (type png)
 
-<use figures/rga/ratio_0.png>
-Package pdftex.def Info: figures/rga/ratio_0.png used on input line 12.
-(pdftex.def)             Requested size: 172.28923pt x 163.13187pt.
+<use figures/rga/xsec_0.png>
+Package pdftex.def Info: figures/rga/xsec_0.png used on input line 11.
+(pdftex.def)             Requested size: 163.67937pt x 154.98323pt.
 
-<figures/rga/ratio_1.png, id=1453, 1001.7425pt x 948.54375pt>
-File: figures/rga/ratio_1.png Graphic file (type png)
+<figures/rga/xsec_1.png, id=1732, 1001.7425pt x 948.54375pt>
+File: figures/rga/xsec_1.png Graphic file (type png)
 
-<use figures/rga/ratio_1.png>
-Package pdftex.def Info: figures/rga/ratio_1.png used on input line 16.
-(pdftex.def)             Requested size: 172.28923pt x 163.13187pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/rga/ratio_2.png, id=1454, 1001.7425pt x 948.54375pt>
-File: figures/rga/ratio_2.png Graphic file (type png)
-
-<use figures/rga/ratio_2.png>
-Package pdftex.def Info: figures/rga/ratio_2.png used on input line 23.
-(pdftex.def)             Requested size: 172.28923pt x 163.13187pt.
-
-<figures/rga/ratio_3.png, id=1455, 1001.7425pt x 948.54375pt>
-File: figures/rga/ratio_3.png Graphic file (type png)
-
-<use figures/rga/ratio_3.png>
-Package pdftex.def Info: figures/rga/ratio_3.png used on input line 27.
-(pdftex.def)             Requested size: 172.28923pt x 163.13187pt.
+<use figures/rga/xsec_1.png>
+Package pdftex.def Info: figures/rga/xsec_1.png used on input line 15.
+(pdftex.def)             Requested size: 163.67937pt x 154.98323pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/rga/ratio_4.png, id=1456, 1001.7425pt x 948.54375pt>
-File: figures/rga/ratio_4.png Graphic file (type png)
+<figures/rga/xsec_2.png, id=1733, 1001.7425pt x 948.54375pt>
+File: figures/rga/xsec_2.png Graphic file (type png)
 
-<use figures/rga/ratio_4.png>
-Package pdftex.def Info: figures/rga/ratio_4.png used on input line 34.
-(pdftex.def)             Requested size: 172.28923pt x 163.13187pt.
+<use figures/rga/xsec_2.png>
+Package pdftex.def Info: figures/rga/xsec_2.png used on input line 22.
+(pdftex.def)             Requested size: 163.67937pt x 154.98323pt.
 
-<figures/rga/ratio_5.png, id=1457, 1001.7425pt x 948.54375pt>
-File: figures/rga/ratio_5.png Graphic file (type png)
+<figures/rga/xsec_3.png, id=1734, 1001.7425pt x 948.54375pt>
+File: figures/rga/xsec_3.png Graphic file (type png)
 
-<use figures/rga/ratio_5.png>
-Package pdftex.def Info: figures/rga/ratio_5.png used on input line 38.
-(pdftex.def)             Requested size: 172.28923pt x 163.13187pt.
+<use figures/rga/xsec_3.png>
+Package pdftex.def Info: figures/rga/xsec_3.png used on input line 26.
+(pdftex.def)             Requested size: 163.67937pt x 154.98323pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[88
+<figures/rga/xsec_4.png, id=1735, 1001.7425pt x 948.54375pt>
+File: figures/rga/xsec_4.png Graphic file (type png)
 
-] [89 <./figures/rga/ratio_0.png> <./figures/rga/ratio_1.png> <./figures/rga/ra
-tio_2.png> <./figures/rga/ratio_3.png> <./figures/rga/ratio_4.png> <./figures/r
-ga/ratio_5.png>]
+<use figures/rga/xsec_4.png>
+Package pdftex.def Info: figures/rga/xsec_4.png used on input line 33.
+(pdftex.def)             Requested size: 163.67937pt x 154.98323pt.
+
+<figures/rga/xsec_5.png, id=1736, 1001.7425pt x 948.54375pt>
+File: figures/rga/xsec_5.png Graphic file (type png)
+
+<use figures/rga/xsec_5.png>
+Package pdftex.def Info: figures/rga/xsec_5.png used on input line 37.
+(pdftex.def)             Requested size: 163.67937pt x 154.98323pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[102
+
+] [103 <./figures/rga/xsec_0.png> <./figures/rga/xsec_1.png> <./figures/rga/xse
+c_2.png> <./figures/rga/xsec_3.png> <./figures/rga/xsec_4.png> <./figures/rga/x
+sec_5.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 46.
+(hyperref)                removing `\uppercase' on input line 45.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 51.
+(hyperref)                removing `\uppercase' on input line 50.
 
-<figures/DMS_11953_time.png, id=1468, 1006.76125pt x 271.0125pt>
+<figures/DMS_11953_time.png, id=1749, 1006.76125pt x 271.0125pt>
 File: figures/DMS_11953_time.png Graphic file (type png)
 
 <use figures/DMS_11953_time.png>
-Package pdftex.def Info: figures/DMS_11953_time.png used on input line 56.
-(pdftex.def)             Requested size: 387.65407pt x 104.35046pt.
+Package pdftex.def Info: figures/DMS_11953_time.png used on input line 55.
+(pdftex.def)             Requested size: 426.42474pt x 114.788pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/DMS_11953_velocity.png, id=1469, 1006.76125pt x 271.0125pt>
+<figures/DMS_11953_velocity.png, id=1750, 1006.76125pt x 271.0125pt>
 File: figures/DMS_11953_velocity.png Graphic file (type png)
 
 <use figures/DMS_11953_velocity.png>
-Package pdftex.def Info: figures/DMS_11953_velocity.png used on input line 62.
-(pdftex.def)             Requested size: 387.65407pt x 104.35046pt.
+Package pdftex.def Info: figures/DMS_11953_velocity.png used on input line 61.
+(pdftex.def)             Requested size: 426.42474pt x 114.788pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[90
+[104
 
-] <figures/DMS_ch1_run.png, id=1477, 991.705pt x 485.815pt>
+] <figures/DMS_ch1_run.png, id=1758, 991.705pt x 485.815pt>
 File: figures/DMS_ch1_run.png Graphic file (type png)
 
 <use figures/DMS_ch1_run.png>
-Package pdftex.def Info: figures/DMS_ch1_run.png used on input line 73.
+Package pdftex.def Info: figures/DMS_ch1_run.png used on input line 76.
 (pdftex.def)             Requested size: 387.65407pt x 189.90445pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/DMS_ch2_run.png, id=1478, 991.705pt x 485.815pt>
+<figures/DMS_ch2_run.png, id=1759, 991.705pt x 485.815pt>
 File: figures/DMS_ch2_run.png Graphic file (type png)
 
 <use figures/DMS_ch2_run.png>
-Package pdftex.def Info: figures/DMS_ch2_run.png used on input line 79.
+Package pdftex.def Info: figures/DMS_ch2_run.png used on input line 82.
 (pdftex.def)             Requested size: 387.65407pt x 189.90445pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/DMS_pres_run.png, id=1479, 991.705pt x 485.815pt>
+<figures/DMS_pres_run.png, id=1760, 991.705pt x 485.815pt>
 File: figures/DMS_pres_run.png Graphic file (type png)
 
 <use figures/DMS_pres_run.png>
-Package pdftex.def Info: figures/DMS_pres_run.png used on input line 85.
+Package pdftex.def Info: figures/DMS_pres_run.png used on input line 88.
 (pdftex.def)             Requested size: 387.65407pt x 189.90445pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[91 <./figures/DMS_11953_time.png> <./figures/DMS_11953_velocity.png>]
-<figures/DMS_vel_run.png, id=1491, 1007.765pt x 496.85625pt>
+[105 <./figures/DMS_11953_time.png> <./figures/DMS_11953_velocity.png>]
+[106 <./figures/DMS_ch1_run.png> <./figures/DMS_ch2_run.png>]
+<figures/DMS_vel_run.png, id=1780, 1007.765pt x 496.85625pt>
 File: figures/DMS_vel_run.png Graphic file (type png)
 
 <use figures/DMS_vel_run.png>
-Package pdftex.def Info: figures/DMS_vel_run.png used on input line 94.
+Package pdftex.def Info: figures/DMS_vel_run.png used on input line 97.
 (pdftex.def)             Requested size: 387.65407pt x 191.11966pt.
+ [107 <./figures/DMS_pres_run.png> <./figures/DMS_vel_run.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 103.
+
+<figures/RTPC_tracks_11637_1.png, id=1790, 578.16pt x 542.025pt>
+File: figures/RTPC_tracks_11637_1.png Graphic file (type png)
+
+<use figures/RTPC_tracks_11637_1.png>
+Package pdftex.def Info: figures/RTPC_tracks_11637_1.png used on input line 109
+.
+(pdftex.def)             Requested size: 189.5221pt x 177.66956pt.
+
+<figures/RTPC_tracks_11637_2.png, id=1791, 578.16pt x 542.025pt>
+File: figures/RTPC_tracks_11637_2.png Graphic file (type png)
+
+<use figures/RTPC_tracks_11637_2.png>
+Package pdftex.def Info: figures/RTPC_tracks_11637_2.png used on input line 112
+.
+(pdftex.def)             Requested size: 189.5221pt x 177.66956pt.
+
+<figures/RTPC_tracks_12240_1.png, id=1792, 578.16pt x 542.025pt>
+File: figures/RTPC_tracks_12240_1.png Graphic file (type png)
+
+<use figures/RTPC_tracks_12240_1.png>
+Package pdftex.def Info: figures/RTPC_tracks_12240_1.png used on input line 120
+.
+(pdftex.def)             Requested size: 189.5221pt x 177.66956pt.
+
+<figures/RTPC_tracks_12240_2.png, id=1793, 578.16pt x 542.025pt>
+File: figures/RTPC_tracks_12240_2.png Graphic file (type png)
+
+<use figures/RTPC_tracks_12240_2.png>
+Package pdftex.def Info: figures/RTPC_tracks_12240_2.png used on input line 123
+.
+(pdftex.def)             Requested size: 189.5221pt x 177.66956pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[92 <./figures/DMS_ch1_run.png> <./figures/DMS_ch2_run.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 100.
-
-<figures/RTPC_tracks_11637_1.png, id=1500, 578.16pt x 542.025pt>
-File: figures/RTPC_tracks_11637_1.png Graphic file (type png)
-
-<use figures/RTPC_tracks_11637_1.png>
-Package pdftex.def Info: figures/RTPC_tracks_11637_1.png used on input line 106
-.
-(pdftex.def)             Requested size: 189.5221pt x 177.66956pt.
-
-<figures/RTPC_tracks_11637_2.png, id=1501, 578.16pt x 542.025pt>
-File: figures/RTPC_tracks_11637_2.png Graphic file (type png)
-
-<use figures/RTPC_tracks_11637_2.png>
-Package pdftex.def Info: figures/RTPC_tracks_11637_2.png used on input line 109
-.
-(pdftex.def)             Requested size: 189.5221pt x 177.66956pt.
- [93 <./figures/DMS_pres_run.png> <./figures/DMS_vel_run.png>]
-<figures/RTPC_tracks_12240_1.png, id=1509, 578.16pt x 542.025pt>
-File: figures/RTPC_tracks_12240_1.png Graphic file (type png)
-
-<use figures/RTPC_tracks_12240_1.png>
-Package pdftex.def Info: figures/RTPC_tracks_12240_1.png used on input line 117
-.
-(pdftex.def)             Requested size: 189.5221pt x 177.66956pt.
-
-<figures/RTPC_tracks_12240_2.png, id=1510, 578.16pt x 542.025pt>
-File: figures/RTPC_tracks_12240_2.png Graphic file (type png)
-
-<use figures/RTPC_tracks_12240_2.png>
-Package pdftex.def Info: figures/RTPC_tracks_12240_2.png used on input line 120
-.
-(pdftex.def)             Requested size: 189.5221pt x 177.66956pt.
- [94 <./figures/RTPC_tracks_11637_1.png> <./figures/RTPC_tracks_11637_2.png> <.
-/figures/RTPC_tracks_12240_1.png> <./figures/RTPC_tracks_12240_2.png>]
-<figures/rgf/11637/pkinematics.png, id=1520, 1189.44376pt x 545.03625pt>
+[108 <./figures/RTPC_tracks_11637_1.png> <./figures/RTPC_tracks_11637_2.png>]
+<figures/rgf/11637/pkinematics.png, id=1803, 1189.44376pt x 545.03625pt>
 File: figures/rgf/11637/pkinematics.png Graphic file (type png)
 
 <use figures/rgf/11637/pkinematics.png>
 Package pdftex.def Info: figures/rgf/11637/pkinematics.png used on input line 1
-36.
+39.
 (pdftex.def)             Requested size: 387.65407pt x 177.63368pt.
- [95 <./figures/rgf/11637/pkinematics.png>] <figures/rgf/11637/elastic_mom.png,
- id=1530, 1199.48125pt x 553.06625pt>
-File: figures/rgf/11637/elastic_mom.png Graphic file (type png)
 
-<use figures/rgf/11637/elastic_mom.png>
-Package pdftex.def Info: figures/rgf/11637/elastic_mom.png used on input line 1
-53.
-(pdftex.def)             Requested size: 387.65407pt x 178.74014pt.
 
-<figures/rgf/11637/ptheta.png, id=1531, 1092.08pt x 517.935pt>
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[109 <./figures/RTPC_tracks_12240_1.png> <./figures/RTPC_tracks_12240_2.png>]
+<figures/rgf/11637/momentum.png, id=1814, 1445.4pt x 750.805pt>
+File: figures/rgf/11637/momentum.png Graphic file (type png)
+
+<use figures/rgf/11637/momentum.png>
+Package pdftex.def Info: figures/rgf/11637/momentum.png used on input line 156.
+
+(pdftex.def)             Requested size: 387.65407pt x 201.35675pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/rgf/11637/ptheta.png, id=1815, 1092.08pt x 517.935pt>
 File: figures/rgf/11637/ptheta.png Graphic file (type png)
 
 <use figures/rgf/11637/ptheta.png>
-Package pdftex.def Info: figures/rgf/11637/ptheta.png used on input line 159.
+Package pdftex.def Info: figures/rgf/11637/ptheta.png used on input line 162.
 (pdftex.def)             Requested size: 387.65407pt x 183.84845pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [96 <./figures/rgf/11637/elastic_mom.png>] (./main.bbl [97 <./figures/rgf/116
-37/ptheta.png>] [98
+[110 <./figures/rgf/11637/pkinematics.png>]
 
-]
+LaTeX Warning: Text page 111 contains only floats.
+
+[111 <./figures/rgf/11637/momentum.png> <./figures/rgf/11637/ptheta.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 170.
+
+) (./main.bbl [112]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ² in font cmr12!
+ [113
+
+] [114] [115]) (./appendices/a_dms_specs.tex [116]
+APPENDIX A
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 1.
+
+<figures/dms/DMS_drawings_01.pdf, id=1851, 614.295pt x 792.9625pt>
+File: figures/dms/DMS_drawings_01.pdf Graphic file (type pdf)
+
+<use figures/dms/DMS_drawings_01.pdf>
+Package pdftex.def Info: figures/dms/DMS_drawings_01.pdf used on input line 6.
+(pdftex.def)             Requested size: 387.65407pt x 500.40388pt.
+
+<figures/dms/DMS_drawings_02.pdf, id=1852, 614.295pt x 792.9625pt>
+File: figures/dms/DMS_drawings_02.pdf Graphic file (type pdf)
+
+<use figures/dms/DMS_drawings_02.pdf>
+Package pdftex.def Info: figures/dms/DMS_drawings_02.pdf used on input line 11.
+
+(pdftex.def)             Requested size: 387.65407pt x 500.40388pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/dms/DMS_drawings_03.pdf, id=1853, 614.295pt x 792.9625pt>
+File: figures/dms/DMS_drawings_03.pdf Graphic file (type pdf)
+
+<use figures/dms/DMS_drawings_03.pdf>
+Package pdftex.def Info: figures/dms/DMS_drawings_03.pdf used on input line 16.
+
+(pdftex.def)             Requested size: 387.65407pt x 500.40388pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/dms/DMS_drawings_04.pdf, id=1854, 614.295pt x 792.9625pt>
+File: figures/dms/DMS_drawings_04.pdf Graphic file (type pdf)
+
+<use figures/dms/DMS_drawings_04.pdf>
+Package pdftex.def Info: figures/dms/DMS_drawings_04.pdf used on input line 21.
+
+(pdftex.def)             Requested size: 387.65407pt x 500.40388pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/dms/DMS_drawings_05.pdf, id=1855, 614.295pt x 792.9625pt>
+File: figures/dms/DMS_drawings_05.pdf Graphic file (type pdf)
+
+<use figures/dms/DMS_drawings_05.pdf>
+Package pdftex.def Info: figures/dms/DMS_drawings_05.pdf used on input line 26.
+
+(pdftex.def)             Requested size: 387.65407pt x 500.40388pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/dms/DMS_drawings_06.pdf, id=1856, 614.295pt x 792.9625pt>
+File: figures/dms/DMS_drawings_06.pdf Graphic file (type pdf)
+
+<use figures/dms/DMS_drawings_06.pdf>
+Package pdftex.def Info: figures/dms/DMS_drawings_06.pdf used on input line 31.
+
+(pdftex.def)             Requested size: 387.65407pt x 500.40388pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/dms/DMS_drawings_07.pdf, id=1857, 614.295pt x 792.9625pt>
+File: figures/dms/DMS_drawings_07.pdf Graphic file (type pdf)
+
+<use figures/dms/DMS_drawings_07.pdf>
+Package pdftex.def Info: figures/dms/DMS_drawings_07.pdf used on input line 36.
+
+(pdftex.def)             Requested size: 387.65407pt x 500.40388pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/dms/electrode.pdf)
+: PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<figures/dms/electrode.pdf, id=1858, 794.97pt x 614.295pt>
+File: figures/dms/electrode.pdf Graphic file (type pdf)
+
+<use figures/dms/electrode.pdf>
+Package pdftex.def Info: figures/dms/electrode.pdf used on input line 41.
+(pdftex.def)             Requested size: 387.65407pt x 299.5543pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./appendices/b_dms_simcode.tex [117
+
+ <./figures/dms/DMS_drawings_01.pdf>]
+[118 <./figures/dms/DMS_drawings_02.pdf>] [119 <./figures/dms/DMS_drawings_03.p
+df>] [120 <./figures/dms/DMS_drawings_04.pdf>] [121 <./figures/dms/DMS_drawings
+_05.pdf>] [122 <./figures/dms/DMS_drawings_06.pdf>] [123 <./figures/dms/DMS_dra
+wings_07.pdf>] [124 <./figures/dms/electrode.pdf, page is rotated 270 degrees>]
+APPENDIX B
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 1.
+
+[125
+
+]) (./appendices/c_xsec_values.tex [126]
+APPENDIX C
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 1.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 )
 runsystem(ls appendices/*.tex | xargs cat >> appendices/main.tmp)...disabled (r
 estricted).
 
- [99] [100
+ [127
+
+] [128] [129] [130] [131] [132] [133
 
 ]
 runsystem(rm -f appendices/main.tmp)...disabled (restricted).
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 793141A4377D48FE74F25246837E1FE7;4285.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
+(rerunfilecheck)             Checksum: 170936B7AAF1A732AF620EF9B528C252;4701.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 76.
  ) 
 Here is how much of TeX's memory you used:
- 30400 strings out of 493089
- 574253 string characters out of 6134842
- 766316 words of memory out of 5000000
- 32803 multiletter control sequences out of 15000+600000
- 14534 words of font info for 54 fonts, out of 8000000 for 9000
+ 30666 strings out of 493089
+ 579893 string characters out of 6134842
+ 810287 words of memory out of 5000000
+ 32940 multiletter control sequences out of 15000+600000
+ 14082 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,97p,10377b,2039s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,12n,97p,10377b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
@@ -3267,13 +3473,12 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/texlive/2015/texmf-
-dist/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on main.pdf (112 pages, 15446944 bytes).
+ist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on main.pdf (147 pages, 39787305 bytes).
 PDF statistics:
- 1732 PDF objects out of 2073 (max. 8388607)
- 1423 compressed objects within 15 object streams
- 451 named destinations out of 1000 (max. 500000)
- 929 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2234 PDF objects out of 2487 (max. 8388607)
+ 1823 compressed objects within 19 object streams
+ 552 named destinations out of 1000 (max. 500000)
+ 1064 words of extra memory for PDF output out of 10000 (max. 10000000)
 
